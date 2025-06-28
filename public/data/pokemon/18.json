@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "sprite": "sprites/home/18.png",
+  "name_en": "pidgeot",
+  "translations": {
+    "ja-Hrkt": "ピジョット",
+    "roomaji": "Pigeot",
+    "ko": "피죤투",
+    "zh-Hant": "大比鳥",
+    "fr": "Roucarnage",
+    "de": "Tauboss",
+    "es": "Pidgeot",
+    "it": "Pidgeot",
+    "en": "Pidgeot",
+    "ja": "ピジョット",
+    "zh-Hans": "大比鸟"
+  }
+}

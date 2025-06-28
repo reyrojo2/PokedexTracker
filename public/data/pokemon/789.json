@@ -1,0 +1,18 @@
+{
+  "id": 789,
+  "sprite": "sprites/home/789.png",
+  "name_en": "cosmog",
+  "translations": {
+    "ja-Hrkt": "コスモッグ",
+    "roomaji": "Cosmog",
+    "ko": "코스모그",
+    "zh-Hant": "科斯莫古",
+    "fr": "Cosmog",
+    "de": "Cosmog",
+    "es": "Cosmog",
+    "it": "Cosmog",
+    "en": "Cosmog",
+    "ja": "コスモッグ",
+    "zh-Hans": "科斯莫古"
+  }
+}

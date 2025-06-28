@@ -1,0 +1,18 @@
+{
+  "id": 81,
+  "sprite": "sprites/home/81.png",
+  "name_en": "magnemite",
+  "translations": {
+    "ja-Hrkt": "コイル",
+    "roomaji": "Coil",
+    "ko": "코일",
+    "zh-Hant": "小磁怪",
+    "fr": "Magnéti",
+    "de": "Magnetilo",
+    "es": "Magnemite",
+    "it": "Magnemite",
+    "en": "Magnemite",
+    "ja": "コイル",
+    "zh-Hans": "小磁怪"
+  }
+}

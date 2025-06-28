@@ -1,0 +1,18 @@
+{
+  "id": 865,
+  "sprite": "sprites/home/865.png",
+  "name_en": "sirfetchd",
+  "translations": {
+    "ja-Hrkt": "ネギガナイト",
+    "roomaji": "Negigaknight",
+    "ko": "창파나이트",
+    "zh-Hant": "蔥遊兵",
+    "fr": "Palarticho",
+    "de": "Lauchzelot",
+    "es": "Sirfetch’d",
+    "it": "Sirfetch’d",
+    "en": "Sirfetch’d",
+    "ja": "ネギガナイト",
+    "zh-Hans": "葱游兵"
+  }
+}

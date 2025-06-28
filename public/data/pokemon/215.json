@@ -1,0 +1,18 @@
+{
+  "id": 215,
+  "sprite": "sprites/home/215.png",
+  "name_en": "sneasel",
+  "translations": {
+    "ja-Hrkt": "ニューラ",
+    "roomaji": "Nyula",
+    "ko": "포푸니",
+    "zh-Hant": "狃拉",
+    "fr": "Farfuret",
+    "de": "Sniebel",
+    "es": "Sneasel",
+    "it": "Sneasel",
+    "en": "Sneasel",
+    "ja": "ニューラ",
+    "zh-Hans": "狃拉"
+  }
+}

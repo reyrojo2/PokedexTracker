@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "sprite": "sprites/home/689.png",
+  "name_en": "barbaracle",
+  "translations": {
+    "ja-Hrkt": "ガメノデス",
+    "roomaji": "Gamenodes",
+    "ko": "거북손데스",
+    "zh-Hant": "龜足巨鎧",
+    "fr": "Golgopathe",
+    "de": "Thanathora",
+    "es": "Barbaracle",
+    "it": "Barbaracle",
+    "en": "Barbaracle",
+    "ja": "ガメノデス",
+    "zh-Hans": "龟足巨铠"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 250,
+  "sprite": "sprites/home/250.png",
+  "name_en": "ho-oh",
+  "translations": {
+    "ja-Hrkt": "ホウオウ",
+    "roomaji": "Houou",
+    "ko": "칠색조",
+    "zh-Hant": "鳳王",
+    "fr": "Ho-Oh",
+    "de": "Ho-Oh",
+    "es": "Ho-Oh",
+    "it": "Ho-Oh",
+    "en": "Ho-Oh",
+    "ja": "ホウオウ",
+    "zh-Hans": "凤王"
+  }
+}

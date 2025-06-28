@@ -1,0 +1,18 @@
+{
+  "id": 670,
+  "sprite": "sprites/home/670.png",
+  "name_en": "floette",
+  "translations": {
+    "ja-Hrkt": "フラエッテ",
+    "roomaji": "Floette",
+    "ko": "플라엣테",
+    "zh-Hant": "花葉蒂",
+    "fr": "Floette",
+    "de": "Floette",
+    "es": "Floette",
+    "it": "Floette",
+    "en": "Floette",
+    "ja": "フラエッテ",
+    "zh-Hans": "花叶蒂"
+  }
+}

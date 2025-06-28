@@ -1,0 +1,18 @@
+{
+  "id": 569,
+  "sprite": "sprites/home/569.png",
+  "name_en": "garbodor",
+  "translations": {
+    "ja-Hrkt": "ダストダス",
+    "roomaji": "Dustdas",
+    "ko": "더스트나",
+    "zh-Hant": "灰塵山",
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "es": "Garbodor",
+    "it": "Garbodor",
+    "en": "Garbodor",
+    "ja": "ダストダス",
+    "zh-Hans": "灰尘山"
+  }
+}

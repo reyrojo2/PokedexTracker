@@ -1,0 +1,18 @@
+{
+  "id": 433,
+  "sprite": "sprites/home/433.png",
+  "name_en": "chingling",
+  "translations": {
+    "ja-Hrkt": "リーシャン",
+    "roomaji": "Lisyan",
+    "ko": "랑딸랑",
+    "zh-Hant": "鈴鐺響",
+    "fr": "Korillon",
+    "de": "Klingplim",
+    "es": "Chingling",
+    "it": "Chingling",
+    "en": "Chingling",
+    "ja": "リーシャン",
+    "zh-Hans": "铃铛响"
+  }
+}

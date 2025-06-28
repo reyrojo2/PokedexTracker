@@ -1,0 +1,18 @@
+{
+  "id": 87,
+  "sprite": "sprites/home/87.png",
+  "name_en": "dewgong",
+  "translations": {
+    "ja-Hrkt": "ジュゴン",
+    "roomaji": "Jugon",
+    "ko": "쥬레곤",
+    "zh-Hant": "白海獅",
+    "fr": "Lamantine",
+    "de": "Jugong",
+    "es": "Dewgong",
+    "it": "Dewgong",
+    "en": "Dewgong",
+    "ja": "ジュゴン",
+    "zh-Hans": "白海狮"
+  }
+}

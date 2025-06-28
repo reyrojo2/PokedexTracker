@@ -1,0 +1,19 @@
+{
+  "id": 1042,
+  "sprite": "sprites/home/1042.png",
+  "name_en": "Alolan Exeggutor",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "ナッシー",
+    "roomaji": "Nassy",
+    "ko": "나시",
+    "zh-Hant": "椰蛋樹",
+    "fr": "Noadkoko",
+    "de": "Kokowei",
+    "es": "Exeggutor",
+    "it": "Exeggutor",
+    "en": "Exeggutor",
+    "ja": "ナッシー",
+    "zh-Hans": "椰蛋树"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 320,
+  "sprite": "sprites/home/320.png",
+  "name_en": "wailmer",
+  "translations": {
+    "ja-Hrkt": "ホエルコ",
+    "roomaji": "Whalko",
+    "ko": "고래왕자",
+    "zh-Hant": "吼吼鯨",
+    "fr": "Wailmer",
+    "de": "Wailmer",
+    "es": "Wailmer",
+    "it": "Wailmer",
+    "en": "Wailmer",
+    "ja": "ホエルコ",
+    "zh-Hans": "吼吼鲸"
+  }
+}

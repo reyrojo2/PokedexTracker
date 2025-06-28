@@ -1,0 +1,18 @@
+{
+  "id": 667,
+  "sprite": "sprites/home/667.png",
+  "name_en": "litleo",
+  "translations": {
+    "ja-Hrkt": "シシコ",
+    "roomaji": "Shishiko",
+    "ko": "레오꼬",
+    "zh-Hant": "小獅獅",
+    "fr": "Hélionceau",
+    "de": "Leufeo",
+    "es": "Litleo",
+    "it": "Litleo",
+    "en": "Litleo",
+    "ja": "シシコ",
+    "zh-Hans": "小狮狮"
+  }
+}

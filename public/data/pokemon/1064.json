@@ -1,0 +1,19 @@
+{
+  "id": 1064,
+  "sprite": "sprites/home/1064.png",
+  "name_en": "Hisuian Arcanine",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ウインディ",
+    "roomaji": "Windie",
+    "ko": "윈디",
+    "zh-Hant": "風速狗",
+    "fr": "Arcanin",
+    "de": "Arkani",
+    "es": "Arcanine",
+    "it": "Arcanine",
+    "en": "Arcanine",
+    "ja": "ウインディ",
+    "zh-Hans": "风速狗"
+  }
+}

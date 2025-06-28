@@ -1,0 +1,18 @@
+{
+  "id": 590,
+  "sprite": "sprites/home/590.png",
+  "name_en": "foongus",
+  "translations": {
+    "ja-Hrkt": "タマゲタケ",
+    "roomaji": "Tamagetake",
+    "ko": "깜놀버슬",
+    "zh-Hant": "哎呀球菇",
+    "fr": "Trompignon",
+    "de": "Tarnpignon",
+    "es": "Foongus",
+    "it": "Foongus",
+    "en": "Foongus",
+    "ja": "タマゲタケ",
+    "zh-Hans": "哎呀球菇"
+  }
+}

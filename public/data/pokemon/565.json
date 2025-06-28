@@ -1,0 +1,18 @@
+{
+  "id": 565,
+  "sprite": "sprites/home/565.png",
+  "name_en": "carracosta",
+  "translations": {
+    "ja-Hrkt": "アバゴーラ",
+    "roomaji": "Abagoura",
+    "ko": "늑골라",
+    "zh-Hant": "肋骨海龜",
+    "fr": "Mégapagos",
+    "de": "Karippas",
+    "es": "Carracosta",
+    "it": "Carracosta",
+    "en": "Carracosta",
+    "ja": "アバゴーラ",
+    "zh-Hans": "肋骨海龟"
+  }
+}

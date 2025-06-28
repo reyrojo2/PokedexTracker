@@ -1,0 +1,18 @@
+{
+  "id": 427,
+  "sprite": "sprites/home/427.png",
+  "name_en": "buneary",
+  "translations": {
+    "ja-Hrkt": "ミミロル",
+    "roomaji": "Mimirol",
+    "ko": "이어롤",
+    "zh-Hant": "捲捲耳",
+    "fr": "Laporeille",
+    "de": "Haspiror",
+    "es": "Buneary",
+    "it": "Buneary",
+    "en": "Buneary",
+    "ja": "ミミロル",
+    "zh-Hans": "卷卷耳"
+  }
+}

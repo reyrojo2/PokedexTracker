@@ -1,0 +1,18 @@
+{
+  "id": 873,
+  "sprite": "sprites/home/873.png",
+  "name_en": "frosmoth",
+  "translations": {
+    "ja-Hrkt": "モスノウ",
+    "roomaji": "Mothnow",
+    "ko": "모스노우",
+    "zh-Hant": "雪絨蛾",
+    "fr": "Beldeneige",
+    "de": "Mottineva",
+    "es": "Frosmoth",
+    "it": "Frosmoth",
+    "en": "Frosmoth",
+    "ja": "モスノウ",
+    "zh-Hans": "雪绒蛾"
+  }
+}

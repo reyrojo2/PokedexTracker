@@ -1,0 +1,19 @@
+{
+  "id": 1078,
+  "sprite": "sprites/home/1078.png",
+  "name_en": "Hisuian Decidueye",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ジュナイパー",
+    "roomaji": "Junaiper",
+    "ko": "모크나이퍼",
+    "zh-Hant": "狙射樹梟",
+    "fr": "Archéduc",
+    "de": "Silvarro",
+    "es": "Decidueye",
+    "it": "Decidueye",
+    "en": "Decidueye",
+    "ja": "ジュナイパー",
+    "zh-Hans": "狙射树枭"
+  }
+}

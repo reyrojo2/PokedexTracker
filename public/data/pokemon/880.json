@@ -1,0 +1,18 @@
+{
+  "id": 880,
+  "sprite": "sprites/home/880.png",
+  "name_en": "dracozolt",
+  "translations": {
+    "ja-Hrkt": "パッチラゴン",
+    "roomaji": "Patchiragon",
+    "ko": "파치래곤",
+    "zh-Hant": "雷鳥龍",
+    "fr": "Galvagon",
+    "de": "Lectragon",
+    "es": "Dracozolt",
+    "it": "Dracozolt",
+    "en": "Dracozolt",
+    "ja": "パッチラゴン",
+    "zh-Hans": "雷鸟龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 994,
+  "sprite": "sprites/home/994.png",
+  "name_en": "iron-moth",
+  "translations": {
+    "ja-Hrkt": "テツノドクガ",
+    "roomaji": "Tetsunodokuga",
+    "ko": "무쇠독나방",
+    "zh-Hant": "鐵毒蛾",
+    "fr": "Mite-de-Fer",
+    "de": "Eisenfalter",
+    "es": "Ferropolilla",
+    "it": "Falenaferrea",
+    "en": "Iron Moth",
+    "ja": "テツノドクガ",
+    "zh-Hans": "铁毒蛾"
+  }
+}

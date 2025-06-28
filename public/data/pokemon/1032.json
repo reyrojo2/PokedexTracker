@@ -1,0 +1,19 @@
+{
+  "id": 1032,
+  "sprite": "sprites/home/1032.png",
+  "name_en": "Alolan Ninetales",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "キュウコン",
+    "roomaji": "Kyukon",
+    "ko": "나인테일",
+    "zh-Hant": "九尾",
+    "fr": "Feunard",
+    "de": "Vulnona",
+    "es": "Ninetales",
+    "it": "Ninetales",
+    "en": "Ninetales",
+    "ja": "キュウコン",
+    "zh-Hans": "九尾"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 164,
+  "sprite": "sprites/home/164.png",
+  "name_en": "noctowl",
+  "translations": {
+    "ja-Hrkt": "ヨルノズク",
+    "roomaji": "Yorunozuku",
+    "ko": "야부엉",
+    "zh-Hant": "貓頭夜鷹",
+    "fr": "Noarfang",
+    "de": "Noctuh",
+    "es": "Noctowl",
+    "it": "Noctowl",
+    "en": "Noctowl",
+    "ja": "ヨルノズク",
+    "zh-Hans": "猫头夜鹰"
+  }
+}

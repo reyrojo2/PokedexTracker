@@ -1,0 +1,18 @@
+{
+  "id": 733,
+  "sprite": "sprites/home/733.png",
+  "name_en": "toucannon",
+  "translations": {
+    "ja-Hrkt": "ドデカバシ",
+    "roomaji": "Dodekabashi",
+    "ko": "왕큰부리",
+    "zh-Hant": "銃嘴大鳥",
+    "fr": "Bazoucan",
+    "de": "Tukanon",
+    "es": "Toucannon",
+    "it": "Toucannon",
+    "en": "Toucannon",
+    "ja": "ドデカバシ",
+    "zh-Hans": "铳嘴大鸟"
+  }
+}

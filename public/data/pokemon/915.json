@@ -1,0 +1,18 @@
+{
+  "id": 915,
+  "sprite": "sprites/home/915.png",
+  "name_en": "lechonk",
+  "translations": {
+    "ja-Hrkt": "グルトン",
+    "roomaji": "Gourton",
+    "ko": "맛보돈",
+    "zh-Hant": "愛吃豚",
+    "fr": "Gourmelet",
+    "de": "Ferkuli",
+    "es": "Lechonk",
+    "it": "Lechonk",
+    "en": "Lechonk",
+    "ja": "グルトン",
+    "zh-Hans": "爱吃豚"
+  }
+}

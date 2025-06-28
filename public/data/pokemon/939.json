@@ -1,0 +1,18 @@
+{
+  "id": 939,
+  "sprite": "sprites/home/939.png",
+  "name_en": "bellibolt",
+  "translations": {
+    "ja-Hrkt": "ハラバリー",
+    "roomaji": "Harabarie",
+    "ko": "찌리배리",
+    "zh-Hant": "電肚蛙",
+    "fr": "Ampibidou",
+    "de": "Wampitz",
+    "es": "Bellibolt",
+    "it": "Bellibolt",
+    "en": "Bellibolt",
+    "ja": "ハラバリー",
+    "zh-Hans": "电肚蛙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 866,
+  "sprite": "sprites/home/866.png",
+  "name_en": "mr-rime",
+  "translations": {
+    "ja-Hrkt": "バリコオル",
+    "roomaji": "Barrikohru",
+    "ko": "마임꽁꽁",
+    "zh-Hant": "踏冰人偶",
+    "fr": "M. Glaquette",
+    "de": "Pantifrost",
+    "es": "Mr. Rime",
+    "it": "Mr. Rime",
+    "en": "Mr. Rime",
+    "ja": "バリコオル",
+    "zh-Hans": "踏冰人偶"
+  }
+}

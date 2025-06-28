@@ -1,0 +1,18 @@
+{
+  "id": 832,
+  "sprite": "sprites/home/832.png",
+  "name_en": "dubwool",
+  "translations": {
+    "ja-Hrkt": "バイウールー",
+    "roomaji": "Baiwooluu",
+    "ko": "배우르",
+    "zh-Hant": "毛毛角羊",
+    "fr": "Moumouflon",
+    "de": "Zwollock",
+    "es": "Dubwool",
+    "it": "Dubwool",
+    "en": "Dubwool",
+    "ja": "バイウールー",
+    "zh-Hans": "毛毛角羊"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 147,
+  "sprite": "sprites/home/147.png",
+  "name_en": "dratini",
+  "translations": {
+    "ja-Hrkt": "ミニリュウ",
+    "roomaji": "Miniryu",
+    "ko": "미뇽",
+    "zh-Hant": "迷你龍",
+    "fr": "Minidraco",
+    "de": "Dratini",
+    "es": "Dratini",
+    "it": "Dratini",
+    "en": "Dratini",
+    "ja": "ミニリュウ",
+    "zh-Hans": "迷你龙"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1015,
+  "sprite": "sprites/home/1015.png",
+  "name_en": "munkidori",
+  "translations": {
+    "ja-Hrkt": "マシマシラ",
+    "ko": "이야후",
+    "zh-Hant": "願增猿",
+    "fr": "Fortusimia",
+    "de": "Benesaru",
+    "es": "Munkidori",
+    "it": "Munkidori",
+    "en": "Munkidori",
+    "ja": "マシマシラ",
+    "zh-Hans": "愿增猿"
+  }
+}

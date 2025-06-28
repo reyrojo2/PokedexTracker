@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "sprite": "sprites/home/35.png",
+  "name_en": "clefairy",
+  "translations": {
+    "ja-Hrkt": "ピッピ",
+    "roomaji": "Pippi",
+    "ko": "삐삐",
+    "zh-Hant": "皮皮",
+    "fr": "Mélofée",
+    "de": "Piepi",
+    "es": "Clefairy",
+    "it": "Clefairy",
+    "en": "Clefairy",
+    "ja": "ピッピ",
+    "zh-Hans": "皮皮"
+  }
+}

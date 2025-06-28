@@ -1,0 +1,18 @@
+{
+  "id": 542,
+  "sprite": "sprites/home/542.png",
+  "name_en": "leavanny",
+  "translations": {
+    "ja-Hrkt": "ハハコモリ",
+    "roomaji": "Hahakomori",
+    "ko": "모아머",
+    "zh-Hant": "保母蟲",
+    "fr": "Manternel",
+    "de": "Matrifol",
+    "es": "Leavanny",
+    "it": "Leavanny",
+    "en": "Leavanny",
+    "ja": "ハハコモリ",
+    "zh-Hans": "保姆虫"
+  }
+}

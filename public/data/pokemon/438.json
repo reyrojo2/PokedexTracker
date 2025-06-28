@@ -1,0 +1,18 @@
+{
+  "id": 438,
+  "sprite": "sprites/home/438.png",
+  "name_en": "bonsly",
+  "translations": {
+    "ja-Hrkt": "ウソハチ",
+    "roomaji": "Usohachi",
+    "ko": "꼬지지",
+    "zh-Hant": "盆才怪",
+    "fr": "Manzaï",
+    "de": "Mobai",
+    "es": "Bonsly",
+    "it": "Bonsly",
+    "en": "Bonsly",
+    "ja": "ウソハチ",
+    "zh-Hans": "盆才怪"
+  }
+}

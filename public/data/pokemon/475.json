@@ -1,0 +1,18 @@
+{
+  "id": 475,
+  "sprite": "sprites/home/475.png",
+  "name_en": "gallade",
+  "translations": {
+    "ja-Hrkt": "エルレイド",
+    "roomaji": "Erlade",
+    "ko": "엘레이드",
+    "zh-Hant": "艾路雷朵",
+    "fr": "Gallame",
+    "de": "Galagladi",
+    "es": "Gallade",
+    "it": "Gallade",
+    "en": "Gallade",
+    "ja": "エルレイド",
+    "zh-Hans": "艾路雷朵"
+  }
+}

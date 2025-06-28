@@ -1,0 +1,18 @@
+{
+  "id": 480,
+  "sprite": "sprites/home/480.png",
+  "name_en": "uxie",
+  "translations": {
+    "ja-Hrkt": "ユクシー",
+    "roomaji": "Yuxie",
+    "ko": "유크시",
+    "zh-Hant": "由克希",
+    "fr": "Créhelf",
+    "de": "Selfe",
+    "es": "Uxie",
+    "it": "Uxie",
+    "en": "Uxie",
+    "ja": "ユクシー",
+    "zh-Hans": "由克希"
+  }
+}

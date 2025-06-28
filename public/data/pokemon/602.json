@@ -1,0 +1,18 @@
+{
+  "id": 602,
+  "sprite": "sprites/home/602.png",
+  "name_en": "tynamo",
+  "translations": {
+    "ja-Hrkt": "シビシラス",
+    "roomaji": "Shibishirasu",
+    "ko": "저리어",
+    "zh-Hant": "麻麻小魚",
+    "fr": "Anchwatt",
+    "de": "Zapplardin",
+    "es": "Tynamo",
+    "it": "Tynamo",
+    "en": "Tynamo",
+    "ja": "シビシラス",
+    "zh-Hans": "麻麻小鱼"
+  }
+}

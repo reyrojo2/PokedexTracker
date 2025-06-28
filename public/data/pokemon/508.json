@@ -1,0 +1,18 @@
+{
+  "id": 508,
+  "sprite": "sprites/home/508.png",
+  "name_en": "stoutland",
+  "translations": {
+    "ja-Hrkt": "ムーランド",
+    "roomaji": "Mooland",
+    "ko": "바랜드",
+    "zh-Hant": "長毛狗",
+    "fr": "Mastouffe",
+    "de": "Bissbark",
+    "es": "Stoutland",
+    "it": "Stoutland",
+    "en": "Stoutland",
+    "ja": "ムーランド",
+    "zh-Hans": "长毛狗"
+  }
+}

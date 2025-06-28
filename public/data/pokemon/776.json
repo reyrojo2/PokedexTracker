@@ -1,0 +1,18 @@
+{
+  "id": 776,
+  "sprite": "sprites/home/776.png",
+  "name_en": "turtonator",
+  "translations": {
+    "ja-Hrkt": "バクガメス",
+    "roomaji": "Bakugames",
+    "ko": "폭거북스",
+    "zh-Hant": "爆焰龜獸",
+    "fr": "Boumata",
+    "de": "Tortunator",
+    "es": "Turtonator",
+    "it": "Turtonator",
+    "en": "Turtonator",
+    "ja": "バクガメス",
+    "zh-Hans": "爆焰龟兽"
+  }
+}

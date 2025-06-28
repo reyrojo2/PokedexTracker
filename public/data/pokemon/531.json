@@ -1,0 +1,18 @@
+{
+  "id": 531,
+  "sprite": "sprites/home/531.png",
+  "name_en": "audino",
+  "translations": {
+    "ja-Hrkt": "タブンネ",
+    "roomaji": "Tabunne",
+    "ko": "다부니",
+    "zh-Hant": "差不多娃娃",
+    "fr": "Nanméouïe",
+    "de": "Ohrdoch",
+    "es": "Audino",
+    "it": "Audino",
+    "en": "Audino",
+    "ja": "タブンネ",
+    "zh-Hans": "差不多娃娃"
+  }
+}

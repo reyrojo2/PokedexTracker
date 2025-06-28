@@ -1,0 +1,18 @@
+{
+  "id": 420,
+  "sprite": "sprites/home/420.png",
+  "name_en": "cherubi",
+  "translations": {
+    "ja-Hrkt": "チェリンボ",
+    "roomaji": "Cherinbo",
+    "ko": "체리버",
+    "zh-Hant": "櫻花寶",
+    "fr": "Ceribou",
+    "de": "Kikugi",
+    "es": "Cherubi",
+    "it": "Cherubi",
+    "en": "Cherubi",
+    "ja": "チェリンボ",
+    "zh-Hans": "樱花宝"
+  }
+}

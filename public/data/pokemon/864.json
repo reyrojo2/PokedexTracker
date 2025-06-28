@@ -1,0 +1,18 @@
+{
+  "id": 864,
+  "sprite": "sprites/home/864.png",
+  "name_en": "cursola",
+  "translations": {
+    "ja-Hrkt": "サニゴーン",
+    "roomaji": "Sunigoon",
+    "ko": "산호르곤",
+    "zh-Hant": "魔靈珊瑚",
+    "fr": "Corayôme",
+    "de": "Gorgasonn",
+    "es": "Cursola",
+    "it": "Cursola",
+    "en": "Cursola",
+    "ja": "サニゴーン",
+    "zh-Hans": "魔灵珊瑚"
+  }
+}

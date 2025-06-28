@@ -1,0 +1,18 @@
+{
+  "id": 528,
+  "sprite": "sprites/home/528.png",
+  "name_en": "swoobat",
+  "translations": {
+    "ja-Hrkt": "ココロモリ",
+    "roomaji": "Kokoromori",
+    "ko": "맘박쥐",
+    "zh-Hant": "心蝙蝠",
+    "fr": "Rhinolove",
+    "de": "Fletiamo",
+    "es": "Swoobat",
+    "it": "Swoobat",
+    "en": "Swoobat",
+    "ja": "ココロモリ",
+    "zh-Hans": "心蝙蝠"
+  }
+}

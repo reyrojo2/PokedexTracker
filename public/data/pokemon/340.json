@@ -1,0 +1,18 @@
+{
+  "id": 340,
+  "sprite": "sprites/home/340.png",
+  "name_en": "whiscash",
+  "translations": {
+    "ja-Hrkt": "ナマズン",
+    "roomaji": "Namazun",
+    "ko": "메깅",
+    "zh-Hant": "鯰魚王",
+    "fr": "Barbicha",
+    "de": "Welsar",
+    "es": "Whiscash",
+    "it": "Whiscash",
+    "en": "Whiscash",
+    "ja": "ナマズン",
+    "zh-Hans": "鲶鱼王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 890,
+  "sprite": "sprites/home/890.png",
+  "name_en": "eternatus",
+  "translations": {
+    "ja-Hrkt": "ムゲンダイナ",
+    "roomaji": "Mugendina",
+    "ko": "무한다이노",
+    "zh-Hant": "無極汰那",
+    "fr": "Éthernatos",
+    "de": "Endynalos",
+    "es": "Eternatus",
+    "it": "Eternatus",
+    "en": "Eternatus",
+    "ja": "ムゲンダイナ",
+    "zh-Hans": "无极汰那"
+  }
+}

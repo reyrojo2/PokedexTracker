@@ -1,0 +1,18 @@
+{
+  "id": 674,
+  "sprite": "sprites/home/674.png",
+  "name_en": "pancham",
+  "translations": {
+    "ja-Hrkt": "ヤンチャム",
+    "roomaji": "Yancham",
+    "ko": "판짱",
+    "zh-Hant": "頑皮熊貓",
+    "fr": "Pandespiègle",
+    "de": "Pam-Pam",
+    "es": "Pancham",
+    "it": "Pancham",
+    "en": "Pancham",
+    "ja": "ヤンチャム",
+    "zh-Hans": "顽皮熊猫"
+  }
+}

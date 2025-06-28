@@ -1,0 +1,18 @@
+{
+  "id": 983,
+  "sprite": "sprites/home/983.png",
+  "name_en": "kingambit",
+  "translations": {
+    "ja-Hrkt": "ドドゲザン",
+    "roomaji": "Dodogezan",
+    "ko": "대도각참",
+    "zh-Hant": "仆刀將軍",
+    "fr": "Scalpereur",
+    "de": "Gladimperio",
+    "es": "Kingambit",
+    "it": "Kingambit",
+    "en": "Kingambit",
+    "ja": "ドドゲザン",
+    "zh-Hans": "仆刀将军"
+  }
+}

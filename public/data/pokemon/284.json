@@ -1,0 +1,18 @@
+{
+  "id": 284,
+  "sprite": "sprites/home/284.png",
+  "name_en": "masquerain",
+  "translations": {
+    "ja-Hrkt": "アメモース",
+    "roomaji": "Amemoth",
+    "ko": "비나방",
+    "zh-Hant": "雨翅蛾",
+    "fr": "Maskadra",
+    "de": "Maskeregen",
+    "es": "Masquerain",
+    "it": "Masquerain",
+    "en": "Masquerain",
+    "ja": "アメモース",
+    "zh-Hans": "雨翅蛾"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 488,
+  "sprite": "sprites/home/488.png",
+  "name_en": "cresselia",
+  "translations": {
+    "ja-Hrkt": "クレセリア",
+    "roomaji": "Crecelia",
+    "ko": "크레세리아",
+    "zh-Hant": "克雷色利亞",
+    "fr": "Cresselia",
+    "de": "Cresselia",
+    "es": "Cresselia",
+    "it": "Cresselia",
+    "en": "Cresselia",
+    "ja": "クレセリア",
+    "zh-Hans": "克雷色利亚"
+  }
+}

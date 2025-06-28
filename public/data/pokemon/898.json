@@ -1,0 +1,18 @@
+{
+  "id": 898,
+  "sprite": "sprites/home/898.png",
+  "name_en": "calyrex",
+  "translations": {
+    "ja-Hrkt": "バドレックス",
+    "roomaji": "Budrex",
+    "ko": "버드렉스",
+    "zh-Hant": "蕾冠王",
+    "fr": "Sylveroy",
+    "de": "Coronospa",
+    "es": "Calyrex",
+    "it": "Calyrex",
+    "en": "Calyrex",
+    "ja": "バドレックス",
+    "zh-Hans": "蕾冠王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 474,
+  "sprite": "sprites/home/474.png",
+  "name_en": "porygon-z",
+  "translations": {
+    "ja-Hrkt": "ポリゴンＺ",
+    "roomaji": "PorygonZ",
+    "ko": "폴리곤Z",
+    "zh-Hant": "多邊獸Ｚ",
+    "fr": "Porygon-Z",
+    "de": "Porygon-Z",
+    "es": "Porygon-Z",
+    "it": "Porygon-Z",
+    "en": "Porygon-Z",
+    "ja": "ポリゴンＺ",
+    "zh-Hans": "多边兽乙型"
+  }
+}

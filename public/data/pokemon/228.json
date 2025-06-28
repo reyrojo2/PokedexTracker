@@ -1,0 +1,18 @@
+{
+  "id": 228,
+  "sprite": "sprites/home/228.png",
+  "name_en": "houndour",
+  "translations": {
+    "ja-Hrkt": "デルビル",
+    "roomaji": "Delvil",
+    "ko": "델빌",
+    "zh-Hant": "戴魯比",
+    "fr": "Malosse",
+    "de": "Hunduster",
+    "es": "Houndour",
+    "it": "Houndour",
+    "en": "Houndour",
+    "ja": "デルビル",
+    "zh-Hans": "戴鲁比"
+  }
+}

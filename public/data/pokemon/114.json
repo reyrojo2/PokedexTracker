@@ -1,0 +1,18 @@
+{
+  "id": 114,
+  "sprite": "sprites/home/114.png",
+  "name_en": "tangela",
+  "translations": {
+    "ja-Hrkt": "モンジャラ",
+    "roomaji": "Monjara",
+    "ko": "덩쿠리",
+    "zh-Hant": "蔓藤怪",
+    "fr": "Saquedeneu",
+    "de": "Tangela",
+    "es": "Tangela",
+    "it": "Tangela",
+    "en": "Tangela",
+    "ja": "モンジャラ",
+    "zh-Hans": "蔓藤怪"
+  }
+}

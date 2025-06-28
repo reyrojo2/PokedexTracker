@@ -1,0 +1,18 @@
+{
+  "id": 552,
+  "sprite": "sprites/home/552.png",
+  "name_en": "krokorok",
+  "translations": {
+    "ja-Hrkt": "ワルビル",
+    "roomaji": "Waruvile",
+    "ko": "악비르",
+    "zh-Hant": "混混鱷",
+    "fr": "Escroco",
+    "de": "Rokkaiman",
+    "es": "Krokorok",
+    "it": "Krokorok",
+    "en": "Krokorok",
+    "ja": "ワルビル",
+    "zh-Hans": "混混鳄"
+  }
+}

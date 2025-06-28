@@ -1,0 +1,18 @@
+{
+  "id": 464,
+  "sprite": "sprites/home/464.png",
+  "name_en": "rhyperior",
+  "translations": {
+    "ja-Hrkt": "ドサイドン",
+    "roomaji": "Dosydon",
+    "ko": "거대코뿌리",
+    "zh-Hant": "超甲狂犀",
+    "fr": "Rhinastoc",
+    "de": "Rihornior",
+    "es": "Rhyperior",
+    "it": "Rhyperior",
+    "en": "Rhyperior",
+    "ja": "ドサイドン",
+    "zh-Hans": "超甲狂犀"
+  }
+}

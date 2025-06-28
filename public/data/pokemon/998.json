@@ -1,0 +1,18 @@
+{
+  "id": 998,
+  "sprite": "sprites/home/998.png",
+  "name_en": "baxcalibur",
+  "translations": {
+    "ja-Hrkt": "セグレイブ",
+    "roomaji": "Seglaive",
+    "ko": "드닐레이브",
+    "zh-Hant": "戟脊龍",
+    "fr": "Glaivodo",
+    "de": "Espinodon",
+    "es": "Baxcalibur",
+    "it": "Baxcalibur",
+    "en": "Baxcalibur",
+    "ja": "セグレイブ",
+    "zh-Hans": "戟脊龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 972,
+  "sprite": "sprites/home/972.png",
+  "name_en": "houndstone",
+  "translations": {
+    "ja-Hrkt": "ハカドッグ",
+    "roomaji": "Hakadog",
+    "ko": "묘두기",
+    "zh-Hant": "墓揚犬",
+    "fr": "Tomberro",
+    "de": "Friedwuff",
+    "es": "Houndstone",
+    "it": "Houndstone",
+    "en": "Houndstone",
+    "ja": "ハカドッグ",
+    "zh-Hans": "墓扬犬"
+  }
+}

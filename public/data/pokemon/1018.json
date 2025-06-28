@@ -1,0 +1,17 @@
+{
+  "id": 1018,
+  "sprite": "sprites/home/1018.png",
+  "name_en": "archaludon",
+  "translations": {
+    "ja-Hrkt": "ブリジュラス",
+    "ko": "브리두라스",
+    "zh-Hant": "鋁鋼橋龍",
+    "fr": "Pondralugon",
+    "de": "Briduradon",
+    "es": "Archaludon",
+    "it": "Archaludon",
+    "en": "Archaludon",
+    "ja": "ブリジュラス",
+    "zh-Hans": "铝钢桥龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 931,
+  "sprite": "sprites/home/931.png",
+  "name_en": "squawkabilly-green-plumage",
+  "translations": {
+    "ja-Hrkt": "イキリンコ",
+    "roomaji": "Ikirinko",
+    "ko": "시비꼬",
+    "zh-Hant": "怒鸚哥",
+    "fr": "Tapatoès",
+    "de": "Krawalloro",
+    "es": "Squawkabilly",
+    "it": "Squawkabilly",
+    "en": "Squawkabilly",
+    "ja": "イキリンコ",
+    "zh-Hans": "怒鹦哥"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 926,
+  "sprite": "sprites/home/926.png",
+  "name_en": "fidough",
+  "translations": {
+    "ja-Hrkt": "パピモッチ",
+    "roomaji": "Pupimocchi",
+    "ko": "쫀도기",
+    "zh-Hant": "狗仔包",
+    "fr": "Pâtachiot",
+    "de": "Hefel",
+    "es": "Fidough",
+    "it": "Fidough",
+    "en": "Fidough",
+    "ja": "パピモッチ",
+    "zh-Hans": "狗仔包"
+  }
+}

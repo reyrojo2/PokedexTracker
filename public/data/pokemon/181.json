@@ -1,0 +1,18 @@
+{
+  "id": 181,
+  "sprite": "sprites/home/181.png",
+  "name_en": "ampharos",
+  "translations": {
+    "ja-Hrkt": "デンリュウ",
+    "roomaji": "Denryu",
+    "ko": "전룡",
+    "zh-Hant": "電龍",
+    "fr": "Pharamp",
+    "de": "Ampharos",
+    "es": "Ampharos",
+    "it": "Ampharos",
+    "en": "Ampharos",
+    "ja": "デンリュウ",
+    "zh-Hans": "电龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 432,
+  "sprite": "sprites/home/432.png",
+  "name_en": "purugly",
+  "translations": {
+    "es": "Purugly",
+    "ja-Hrkt": "ブニャット",
+    "roomaji": "Bunyat",
+    "ko": "몬냥이",
+    "zh-Hant": "東施喵",
+    "fr": "Chaffreux",
+    "de": "Shnurgarst",
+    "it": "Purugly",
+    "en": "Purugly",
+    "ja": "ブニャット",
+    "zh-Hans": "东施喵"
+  }
+}

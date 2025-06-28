@@ -1,0 +1,18 @@
+{
+  "id": 476,
+  "sprite": "sprites/home/476.png",
+  "name_en": "probopass",
+  "translations": {
+    "ja-Hrkt": "ダイノーズ",
+    "roomaji": "Dainose",
+    "ko": "대코파스",
+    "zh-Hant": "大朝北鼻",
+    "fr": "Tarinorme",
+    "de": "Voluminas",
+    "es": "Probopass",
+    "it": "Probopass",
+    "en": "Probopass",
+    "ja": "ダイノーズ",
+    "zh-Hans": "大朝北鼻"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 271,
+  "sprite": "sprites/home/271.png",
+  "name_en": "lombre",
+  "translations": {
+    "ja-Hrkt": "ハスブレロ",
+    "roomaji": "Hasubrero",
+    "ko": "로토스",
+    "zh-Hant": "蓮帽小童",
+    "fr": "Lombre",
+    "de": "Lombrero",
+    "es": "Lombre",
+    "it": "Lombre",
+    "en": "Lombre",
+    "ja": "ハスブレロ",
+    "zh-Hans": "莲帽小童"
+  }
+}

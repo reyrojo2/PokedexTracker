@@ -1,0 +1,18 @@
+{
+  "id": 715,
+  "sprite": "sprites/home/715.png",
+  "name_en": "noivern",
+  "translations": {
+    "ja-Hrkt": "オンバーン",
+    "roomaji": "Onvern",
+    "ko": "음번",
+    "zh-Hant": "音波龍",
+    "fr": "Bruyverne",
+    "de": "UHaFnir",
+    "es": "Noivern",
+    "it": "Noivern",
+    "en": "Noivern",
+    "ja": "オンバーン",
+    "zh-Hans": "音波龙"
+  }
+}

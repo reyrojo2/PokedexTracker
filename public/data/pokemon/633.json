@@ -1,0 +1,18 @@
+{
+  "id": 633,
+  "sprite": "sprites/home/633.png",
+  "name_en": "deino",
+  "translations": {
+    "ja-Hrkt": "モノズ",
+    "roomaji": "Monozu",
+    "ko": "모노두",
+    "zh-Hant": "單首龍",
+    "fr": "Solochi",
+    "de": "Kapuno",
+    "es": "Deino",
+    "it": "Deino",
+    "en": "Deino",
+    "ja": "モノズ",
+    "zh-Hans": "单首龙"
+  }
+}

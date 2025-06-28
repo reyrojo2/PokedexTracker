@@ -1,0 +1,18 @@
+{
+  "id": 731,
+  "sprite": "sprites/home/731.png",
+  "name_en": "pikipek",
+  "translations": {
+    "ja-Hrkt": "ツツケラ",
+    "roomaji": "Tsutsukera",
+    "ko": "콕코구리",
+    "zh-Hant": "小篤兒",
+    "fr": "Picassaut",
+    "de": "Peppeck",
+    "es": "Pikipek",
+    "it": "Pikipek",
+    "en": "Pikipek",
+    "ja": "ツツケラ",
+    "zh-Hans": "小笃儿"
+  }
+}

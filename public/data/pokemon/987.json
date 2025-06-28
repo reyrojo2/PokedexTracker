@@ -1,0 +1,18 @@
+{
+  "id": 987,
+  "sprite": "sprites/home/987.png",
+  "name_en": "flutter-mane",
+  "translations": {
+    "ja-Hrkt": "ハバタクカミ",
+    "roomaji": "Habatakukami",
+    "ko": "날개치는머리",
+    "zh-Hant": "振翼髮",
+    "fr": "Flotte-Mèche",
+    "de": "Flatterhaar",
+    "es": "Melenaleteo",
+    "it": "Crinealato",
+    "en": "Flutter Mane",
+    "ja": "ハバタクカミ",
+    "zh-Hans": "振翼发"
+  }
+}

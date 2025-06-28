@@ -1,0 +1,19 @@
+{
+  "id": 1062,
+  "sprite": "sprites/home/1062.png",
+  "name_en": "Galarian Stunfisk",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "マッギョ",
+    "roomaji": "Maggyo",
+    "ko": "메더",
+    "zh-Hant": "泥巴魚",
+    "fr": "Limonde",
+    "de": "Flunschlik",
+    "es": "Stunfisk",
+    "it": "Stunfisk",
+    "en": "Stunfisk",
+    "ja": "マッギョ",
+    "zh-Hans": "泥巴鱼"
+  }
+}

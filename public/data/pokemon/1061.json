@@ -1,0 +1,19 @@
+{
+  "id": 1061,
+  "sprite": "sprites/home/1061.png",
+  "name_en": "Galarian Yamask",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "デスマス",
+    "roomaji": "Desumasu",
+    "ko": "데스마스",
+    "zh-Hant": "哭哭面具",
+    "fr": "Tutafeh",
+    "de": "Makabaja",
+    "es": "Yamask",
+    "it": "Yamask",
+    "en": "Yamask",
+    "ja": "デスマス",
+    "zh-Hans": "哭哭面具"
+  }
+}

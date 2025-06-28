@@ -1,0 +1,18 @@
+{
+  "id": 220,
+  "sprite": "sprites/home/220.png",
+  "name_en": "swinub",
+  "translations": {
+    "ja-Hrkt": "ウリムー",
+    "roomaji": "Urimoo",
+    "ko": "꾸꾸리",
+    "zh-Hant": "小山豬",
+    "fr": "Marcacrin",
+    "de": "Quiekel",
+    "es": "Swinub",
+    "it": "Swinub",
+    "en": "Swinub",
+    "ja": "ウリムー",
+    "zh-Hans": "小山猪"
+  }
+}

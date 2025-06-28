@@ -1,0 +1,18 @@
+{
+  "id": 293,
+  "sprite": "sprites/home/293.png",
+  "name_en": "whismur",
+  "translations": {
+    "ja-Hrkt": "ゴニョニョ",
+    "roomaji": "Gonyonyo",
+    "ko": "소곤룡",
+    "zh-Hant": "咕妞妞",
+    "fr": "Chuchmur",
+    "de": "Flurmel",
+    "es": "Whismur",
+    "it": "Whismur",
+    "en": "Whismur",
+    "ja": "ゴニョニョ",
+    "zh-Hans": "咕妞妞"
+  }
+}

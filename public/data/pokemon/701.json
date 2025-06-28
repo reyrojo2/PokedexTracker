@@ -1,0 +1,18 @@
+{
+  "id": 701,
+  "sprite": "sprites/home/701.png",
+  "name_en": "hawlucha",
+  "translations": {
+    "ja-Hrkt": "ルチャブル",
+    "roomaji": "Luchabull",
+    "ko": "루차불",
+    "zh-Hant": "摔角鷹人",
+    "fr": "Brutalibré",
+    "de": "Resladero",
+    "es": "Hawlucha",
+    "it": "Hawlucha",
+    "en": "Hawlucha",
+    "ja": "ルチャブル",
+    "zh-Hans": "摔角鹰人"
+  }
+}

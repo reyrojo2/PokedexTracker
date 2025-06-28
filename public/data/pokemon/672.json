@@ -1,0 +1,18 @@
+{
+  "id": 672,
+  "sprite": "sprites/home/672.png",
+  "name_en": "skiddo",
+  "translations": {
+    "ja-Hrkt": "メェークル",
+    "roomaji": "Meecle",
+    "ko": "메이클",
+    "zh-Hant": "坐騎小羊",
+    "fr": "Cabriolaine",
+    "de": "Mähikel",
+    "es": "Skiddo",
+    "it": "Skiddo",
+    "en": "Skiddo",
+    "ja": "メェークル",
+    "zh-Hans": "坐骑小羊"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 207,
+  "sprite": "sprites/home/207.png",
+  "name_en": "gligar",
+  "translations": {
+    "ja-Hrkt": "グライガー",
+    "roomaji": "Gliger",
+    "ko": "글라이거",
+    "zh-Hant": "天蠍",
+    "fr": "Scorplane",
+    "de": "Skorgla",
+    "es": "Gligar",
+    "it": "Gligar",
+    "en": "Gligar",
+    "ja": "グライガー",
+    "zh-Hans": "天蝎"
+  }
+}

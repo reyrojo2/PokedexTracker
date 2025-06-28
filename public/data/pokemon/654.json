@@ -1,0 +1,18 @@
+{
+  "id": 654,
+  "sprite": "sprites/home/654.png",
+  "name_en": "braixen",
+  "translations": {
+    "ja-Hrkt": "テールナー",
+    "roomaji": "Tairenar",
+    "ko": "테르나",
+    "zh-Hant": "長尾火狐",
+    "fr": "Roussil",
+    "de": "Rutena",
+    "es": "Braixen",
+    "it": "Braixen",
+    "en": "Braixen",
+    "ja": "テールナー",
+    "zh-Hans": "长尾火狐"
+  }
+}

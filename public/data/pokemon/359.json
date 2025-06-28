@@ -1,0 +1,18 @@
+{
+  "id": 359,
+  "sprite": "sprites/home/359.png",
+  "name_en": "absol",
+  "translations": {
+    "ja-Hrkt": "アブソル",
+    "roomaji": "Absol",
+    "ko": "앱솔",
+    "zh-Hant": "阿勃梭魯",
+    "fr": "Absol",
+    "de": "Absol",
+    "es": "Absol",
+    "it": "Absol",
+    "en": "Absol",
+    "ja": "アブソル",
+    "zh-Hans": "阿勃梭鲁"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 413,
+  "sprite": "sprites/home/413.png",
+  "name_en": "wormadam-plant",
+  "translations": {
+    "ja-Hrkt": "ミノマダム",
+    "roomaji": "Minomadam",
+    "ko": "도롱마담",
+    "zh-Hant": "結草貴婦",
+    "fr": "Cheniselle",
+    "de": "Burmadame",
+    "es": "Wormadam",
+    "it": "Wormadam",
+    "en": "Wormadam",
+    "ja": "ミノマダム",
+    "zh-Hans": "结草贵妇"
+  }
+}

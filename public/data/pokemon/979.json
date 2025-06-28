@@ -1,0 +1,18 @@
+{
+  "id": 979,
+  "sprite": "sprites/home/979.png",
+  "name_en": "annihilape",
+  "translations": {
+    "ja-Hrkt": "コノヨザル",
+    "roomaji": "Konoyozaru",
+    "ko": "저승갓숭",
+    "zh-Hant": "棄世猴",
+    "fr": "Courrousinge",
+    "de": "Epitaff",
+    "es": "Annihilape",
+    "it": "Annihilape",
+    "en": "Annihilape",
+    "ja": "コノヨザル",
+    "zh-Hans": "弃世猴"
+  }
+}

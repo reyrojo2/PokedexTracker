@@ -1,0 +1,18 @@
+{
+  "id": 913,
+  "sprite": "sprites/home/913.png",
+  "name_en": "quaxwell",
+  "translations": {
+    "ja-Hrkt": "ウェルカモ",
+    "roomaji": "Welkamo",
+    "ko": "아꾸왁",
+    "zh-Hant": "湧躍鴨",
+    "fr": "Canarbello",
+    "de": "Fuentente",
+    "es": "Quaxwell",
+    "it": "Quaxwell",
+    "en": "Quaxwell",
+    "ja": "ウェルカモ",
+    "zh-Hans": "涌跃鸭"
+  }
+}

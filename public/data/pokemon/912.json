@@ -1,0 +1,18 @@
+{
+  "id": 912,
+  "sprite": "sprites/home/912.png",
+  "name_en": "quaxly",
+  "translations": {
+    "ja-Hrkt": "クワッス",
+    "roomaji": "Kuwassu",
+    "ko": "꾸왁스",
+    "zh-Hant": "潤水鴨",
+    "fr": "Coiffeton",
+    "de": "Kwaks",
+    "es": "Quaxly",
+    "it": "Quaxly",
+    "en": "Quaxly",
+    "ja": "クワッス",
+    "zh-Hans": "润水鸭"
+  }
+}

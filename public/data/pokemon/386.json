@@ -1,0 +1,18 @@
+{
+  "id": 386,
+  "sprite": "sprites/home/386.png",
+  "name_en": "deoxys-normal",
+  "translations": {
+    "ja-Hrkt": "デオキシス",
+    "roomaji": "Deoxys",
+    "ko": "테오키스",
+    "zh-Hant": "代歐奇希斯",
+    "fr": "Deoxys",
+    "de": "Deoxys",
+    "es": "Deoxys",
+    "it": "Deoxys",
+    "en": "Deoxys",
+    "ja": "デオキシス",
+    "zh-Hans": "代欧奇希斯"
+  }
+}

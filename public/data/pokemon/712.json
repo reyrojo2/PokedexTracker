@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "sprite": "sprites/home/712.png",
+  "name_en": "bergmite",
+  "translations": {
+    "ja-Hrkt": "カチコール",
+    "roomaji": "Kachikohru",
+    "ko": "꽁어름",
+    "zh-Hant": "冰寶",
+    "fr": "Grelaçon",
+    "de": "Arktip",
+    "es": "Bergmite",
+    "it": "Bergmite",
+    "en": "Bergmite",
+    "ja": "カチコール",
+    "zh-Hans": "冰宝"
+  }
+}

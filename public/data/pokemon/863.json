@@ -1,0 +1,18 @@
+{
+  "id": 863,
+  "sprite": "sprites/home/863.png",
+  "name_en": "perrserker",
+  "translations": {
+    "ja-Hrkt": "ニャイキング",
+    "roomaji": "Nyaiking",
+    "ko": "나이킹",
+    "zh-Hant": "喵頭目",
+    "fr": "Berserkatt",
+    "de": "Mauzinger",
+    "es": "Perrserker",
+    "it": "Perrserker",
+    "en": "Perrserker",
+    "ja": "ニャイキング",
+    "zh-Hans": "喵头目"
+  }
+}

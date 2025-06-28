@@ -1,0 +1,18 @@
+{
+  "id": 522,
+  "sprite": "sprites/home/522.png",
+  "name_en": "blitzle",
+  "translations": {
+    "ja-Hrkt": "シママ",
+    "roomaji": "Shimama",
+    "ko": "줄뮤마",
+    "zh-Hant": "斑斑馬",
+    "fr": "Zébibron",
+    "de": "Elezeba",
+    "es": "Blitzle",
+    "it": "Blitzle",
+    "en": "Blitzle",
+    "ja": "シママ",
+    "zh-Hans": "斑斑马"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 237,
+  "sprite": "sprites/home/237.png",
+  "name_en": "hitmontop",
+  "translations": {
+    "ja-Hrkt": "カポエラー",
+    "roomaji": "Kapoerer",
+    "ko": "카포에라",
+    "zh-Hant": "戰舞郎",
+    "fr": "Kapoera",
+    "de": "Kapoera",
+    "es": "Hitmontop",
+    "it": "Hitmontop",
+    "en": "Hitmontop",
+    "ja": "カポエラー",
+    "zh-Hans": "战舞郎"
+  }
+}

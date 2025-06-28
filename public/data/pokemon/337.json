@@ -1,0 +1,18 @@
+{
+  "id": 337,
+  "sprite": "sprites/home/337.png",
+  "name_en": "lunatone",
+  "translations": {
+    "ja-Hrkt": "ルナトーン",
+    "roomaji": "Lunatone",
+    "ko": "루나톤",
+    "zh-Hant": "月石",
+    "fr": "Séléroc",
+    "de": "Lunastein",
+    "es": "Lunatone",
+    "it": "Lunatone",
+    "en": "Lunatone",
+    "ja": "ルナトーン",
+    "zh-Hans": "月石"
+  }
+}

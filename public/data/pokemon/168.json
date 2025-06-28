@@ -1,0 +1,18 @@
+{
+  "id": 168,
+  "sprite": "sprites/home/168.png",
+  "name_en": "ariados",
+  "translations": {
+    "ja-Hrkt": "アリアドス",
+    "roomaji": "Ariados",
+    "ko": "아리아도스",
+    "zh-Hant": "阿利多斯",
+    "fr": "Migalos",
+    "de": "Ariados",
+    "es": "Ariados",
+    "it": "Ariados",
+    "en": "Ariados",
+    "ja": "アリアドス",
+    "zh-Hans": "阿利多斯"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 479,
+  "sprite": "sprites/home/479.png",
+  "name_en": "rotom",
+  "translations": {
+    "ja-Hrkt": "ロトム",
+    "roomaji": "Rotom",
+    "ko": "로토무",
+    "zh-Hant": "洛托姆",
+    "fr": "Motisma",
+    "de": "Rotom",
+    "es": "Rotom",
+    "it": "Rotom",
+    "en": "Rotom",
+    "ja": "ロトム",
+    "zh-Hans": "洛托姆"
+  }
+}

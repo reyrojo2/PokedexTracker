@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "sprite": "sprites/home/706.png",
+  "name_en": "goodra",
+  "translations": {
+    "ja-Hrkt": "ヌメルゴン",
+    "roomaji": "Numelgon",
+    "ko": "미끄래곤",
+    "zh-Hant": "黏美龍",
+    "fr": "Muplodocus",
+    "de": "Viscogon",
+    "es": "Goodra",
+    "it": "Goodra",
+    "en": "Goodra",
+    "ja": "ヌメルゴン",
+    "zh-Hans": "黏美龙"
+  }
+}

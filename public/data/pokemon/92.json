@@ -1,0 +1,18 @@
+{
+  "id": 92,
+  "sprite": "sprites/home/92.png",
+  "name_en": "gastly",
+  "translations": {
+    "ja-Hrkt": "ゴース",
+    "roomaji": "Ghos",
+    "ko": "고오스",
+    "zh-Hant": "鬼斯",
+    "fr": "Fantominus",
+    "de": "Nebulak",
+    "es": "Gastly",
+    "it": "Gastly",
+    "en": "Gastly",
+    "ja": "ゴース",
+    "zh-Hans": "鬼斯"
+  }
+}

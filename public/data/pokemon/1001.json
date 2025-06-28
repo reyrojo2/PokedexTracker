@@ -1,0 +1,18 @@
+{
+  "id": 1001,
+  "sprite": "sprites/home/1001.png",
+  "name_en": "wo-chien",
+  "translations": {
+    "ja-Hrkt": "チオンジェン",
+    "roomaji": "Chionjen",
+    "ko": "총지엔",
+    "zh-Hant": "古簡蝸",
+    "fr": "Chongjian",
+    "de": "Chongjian",
+    "es": "Wo-Chien",
+    "it": "Wo-Chien",
+    "en": "Wo-Chien",
+    "ja": "チオンジェン",
+    "zh-Hans": "古简蜗"
+  }
+}

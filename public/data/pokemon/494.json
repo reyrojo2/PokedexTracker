@@ -1,0 +1,18 @@
+{
+  "id": 494,
+  "sprite": "sprites/home/494.png",
+  "name_en": "victini",
+  "translations": {
+    "ja-Hrkt": "ビクティニ",
+    "roomaji": "Victini",
+    "ko": "비크티니",
+    "zh-Hant": "比克提尼",
+    "fr": "Victini",
+    "de": "Victini",
+    "es": "Victini",
+    "it": "Victini",
+    "en": "Victini",
+    "ja": "ビクティニ",
+    "zh-Hans": "比克提尼"
+  }
+}

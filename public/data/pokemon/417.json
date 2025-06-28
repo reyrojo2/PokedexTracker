@@ -1,0 +1,18 @@
+{
+  "id": 417,
+  "sprite": "sprites/home/417.png",
+  "name_en": "pachirisu",
+  "translations": {
+    "ja-Hrkt": "パチリス",
+    "roomaji": "Pachirisu",
+    "ko": "파치리스",
+    "zh-Hant": "帕奇利茲",
+    "fr": "Pachirisu",
+    "de": "Pachirisu",
+    "es": "Pachirisu",
+    "it": "Pachirisu",
+    "en": "Pachirisu",
+    "ja": "パチリス",
+    "zh-Hans": "帕奇利兹"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 317,
+  "sprite": "sprites/home/317.png",
+  "name_en": "swalot",
+  "translations": {
+    "ja-Hrkt": "マルノーム",
+    "roomaji": "Marunoom",
+    "ko": "꿀꺽몬",
+    "zh-Hant": "吞食獸",
+    "fr": "Avaltout",
+    "de": "Schlukwech",
+    "es": "Swalot",
+    "it": "Swalot",
+    "en": "Swalot",
+    "ja": "マルノーム",
+    "zh-Hans": "吞食兽"
+  }
+}

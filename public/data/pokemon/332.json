@@ -1,0 +1,18 @@
+{
+  "id": 332,
+  "sprite": "sprites/home/332.png",
+  "name_en": "cacturne",
+  "translations": {
+    "ja-Hrkt": "ノクタス",
+    "roomaji": "Noctus",
+    "ko": "밤선인",
+    "zh-Hant": "夢歌仙人掌",
+    "fr": "Cacturne",
+    "de": "Noktuska",
+    "es": "Cacturne",
+    "it": "Cacturne",
+    "en": "Cacturne",
+    "ja": "ノクタス",
+    "zh-Hans": "梦歌仙人掌"
+  }
+}

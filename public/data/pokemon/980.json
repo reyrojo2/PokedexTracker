@@ -1,0 +1,18 @@
+{
+  "id": 980,
+  "sprite": "sprites/home/980.png",
+  "name_en": "clodsire",
+  "translations": {
+    "ja-Hrkt": "ドオー",
+    "roomaji": "Dooh",
+    "ko": "토오",
+    "zh-Hant": "土王",
+    "fr": "Terraiste",
+    "de": "Suelord",
+    "es": "Clodsire",
+    "it": "Clodsire",
+    "en": "Clodsire",
+    "ja": "ドオー",
+    "zh-Hans": "土王"
+  }
+}

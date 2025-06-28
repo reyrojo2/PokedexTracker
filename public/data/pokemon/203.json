@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "sprite": "sprites/home/203.png",
+  "name_en": "girafarig",
+  "translations": {
+    "ja-Hrkt": "キリンリキ",
+    "roomaji": "Kirinriki",
+    "ko": "키링키",
+    "zh-Hant": "麒麟奇",
+    "fr": "Girafarig",
+    "de": "Girafarig",
+    "es": "Girafarig",
+    "it": "Girafarig",
+    "en": "Girafarig",
+    "ja": "キリンリキ",
+    "zh-Hans": "麒麟奇"
+  }
+}

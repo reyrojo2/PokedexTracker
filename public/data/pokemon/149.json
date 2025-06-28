@@ -1,0 +1,18 @@
+{
+  "id": 149,
+  "sprite": "sprites/home/149.png",
+  "name_en": "dragonite",
+  "translations": {
+    "ja-Hrkt": "カイリュー",
+    "roomaji": "Kairyu",
+    "ko": "망나뇽",
+    "zh-Hant": "快龍",
+    "fr": "Dracolosse",
+    "de": "Dragoran",
+    "es": "Dragonite",
+    "it": "Dragonite",
+    "en": "Dragonite",
+    "ja": "カイリュー",
+    "zh-Hans": "快龙"
+  }
+}

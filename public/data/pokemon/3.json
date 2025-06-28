@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "sprite": "sprites/home/3.png",
+  "name_en": "venusaur",
+  "translations": {
+    "ja-Hrkt": "フシギバナ",
+    "roomaji": "Fushigibana",
+    "ko": "이상해꽃",
+    "zh-Hant": "妙蛙花",
+    "fr": "Florizarre",
+    "de": "Bisaflor",
+    "es": "Venusaur",
+    "it": "Venusaur",
+    "en": "Venusaur",
+    "ja": "フシギバナ",
+    "zh-Hans": "妙蛙花"
+  }
+}

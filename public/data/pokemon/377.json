@@ -1,0 +1,18 @@
+{
+  "id": 377,
+  "sprite": "sprites/home/377.png",
+  "name_en": "regirock",
+  "translations": {
+    "ja-Hrkt": "レジロック",
+    "roomaji": "Regirock",
+    "ko": "레지락",
+    "zh-Hant": "雷吉洛克",
+    "fr": "Regirock",
+    "de": "Regirock",
+    "es": "Regirock",
+    "it": "Regirock",
+    "en": "Regirock",
+    "ja": "レジロック",
+    "zh-Hans": "雷吉洛克"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 403,
+  "sprite": "sprites/home/403.png",
+  "name_en": "shinx",
+  "translations": {
+    "ja-Hrkt": "コリンク",
+    "roomaji": "Kolink",
+    "ko": "꼬링크",
+    "zh-Hant": "小貓怪",
+    "fr": "Lixy",
+    "de": "Sheinux",
+    "es": "Shinx",
+    "it": "Shinx",
+    "en": "Shinx",
+    "ja": "コリンク",
+    "zh-Hans": "小猫怪"
+  }
+}

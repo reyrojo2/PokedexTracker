@@ -1,0 +1,18 @@
+{
+  "id": 158,
+  "sprite": "sprites/home/158.png",
+  "name_en": "totodile",
+  "translations": {
+    "ja-Hrkt": "ワニノコ",
+    "roomaji": "Waninoko",
+    "ko": "리아코",
+    "zh-Hant": "小鋸鱷",
+    "fr": "Kaiminus",
+    "de": "Karnimani",
+    "es": "Totodile",
+    "it": "Totodile",
+    "en": "Totodile",
+    "ja": "ワニノコ",
+    "zh-Hans": "小锯鳄"
+  }
+}

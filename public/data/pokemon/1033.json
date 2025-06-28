@@ -1,0 +1,19 @@
+{
+  "id": 1033,
+  "sprite": "sprites/home/1033.png",
+  "name_en": "Alolan Diglett",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "ディグダ",
+    "roomaji": "Digda",
+    "ko": "디그다",
+    "zh-Hant": "地鼠",
+    "fr": "Taupiqueur",
+    "de": "Digda",
+    "es": "Diglett",
+    "it": "Diglett",
+    "en": "Diglett",
+    "ja": "ディグダ",
+    "zh-Hans": "地鼠"
+  }
+}

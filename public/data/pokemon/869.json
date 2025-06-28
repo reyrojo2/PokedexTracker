@@ -1,0 +1,18 @@
+{
+  "id": 869,
+  "sprite": "sprites/home/869.png",
+  "name_en": "alcremie",
+  "translations": {
+    "ja-Hrkt": "マホイップ",
+    "roomaji": "Mawhip",
+    "ko": "마휘핑",
+    "zh-Hant": "霜奶仙",
+    "fr": "Charmilly",
+    "de": "Pokusan",
+    "es": "Alcremie",
+    "it": "Alcremie",
+    "en": "Alcremie",
+    "ja": "マホイップ",
+    "zh-Hans": "霜奶仙"
+  }
+}

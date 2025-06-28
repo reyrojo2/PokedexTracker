@@ -1,0 +1,18 @@
+{
+  "id": 210,
+  "sprite": "sprites/home/210.png",
+  "name_en": "granbull",
+  "translations": {
+    "ja-Hrkt": "グランブル",
+    "roomaji": "Granbulu",
+    "ko": "그랑블루",
+    "zh-Hant": "布魯皇",
+    "fr": "Granbull",
+    "de": "Granbull",
+    "es": "Granbull",
+    "it": "Granbull",
+    "en": "Granbull",
+    "ja": "グランブル",
+    "zh-Hans": "布鲁皇"
+  }
+}

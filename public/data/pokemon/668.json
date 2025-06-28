@@ -1,0 +1,18 @@
+{
+  "id": 668,
+  "sprite": "sprites/home/668.png",
+  "name_en": "pyroar",
+  "translations": {
+    "ja-Hrkt": "カエンジシ",
+    "roomaji": "Kaenjishi",
+    "ko": "화염레오",
+    "zh-Hant": "火炎獅",
+    "fr": "Némélios",
+    "de": "Pyroleo",
+    "es": "Pyroar",
+    "it": "Pyroar",
+    "en": "Pyroar",
+    "ja": "カエンジシ",
+    "zh-Hans": "火炎狮"
+  }
+}

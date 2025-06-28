@@ -1,0 +1,18 @@
+{
+  "id": 343,
+  "sprite": "sprites/home/343.png",
+  "name_en": "baltoy",
+  "translations": {
+    "ja-Hrkt": "ヤジロン",
+    "roomaji": "Yajilon",
+    "ko": "오뚝군",
+    "zh-Hant": "天秤偶",
+    "fr": "Balbuto",
+    "de": "Puppance",
+    "es": "Baltoy",
+    "it": "Baltoy",
+    "en": "Baltoy",
+    "ja": "ヤジロン",
+    "zh-Hans": "天秤偶"
+  }
+}

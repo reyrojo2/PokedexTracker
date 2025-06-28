@@ -1,0 +1,18 @@
+{
+  "id": 407,
+  "sprite": "sprites/home/407.png",
+  "name_en": "roserade",
+  "translations": {
+    "ja-Hrkt": "ロズレイド",
+    "roomaji": "Roserade",
+    "ko": "로즈레이드",
+    "zh-Hant": "羅絲雷朵",
+    "fr": "Roserade",
+    "de": "Roserade",
+    "es": "Roserade",
+    "it": "Roserade",
+    "en": "Roserade",
+    "ja": "ロズレイド",
+    "zh-Hans": "罗丝雷朵"
+  }
+}

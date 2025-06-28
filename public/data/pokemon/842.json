@@ -1,0 +1,18 @@
+{
+  "id": 842,
+  "sprite": "sprites/home/842.png",
+  "name_en": "appletun",
+  "translations": {
+    "ja-Hrkt": "タルップル",
+    "roomaji": "Tarupple",
+    "ko": "단지래플",
+    "zh-Hant": "豐蜜龍",
+    "fr": "Dratatin",
+    "de": "Schlapfel",
+    "es": "Appletun",
+    "it": "Appletun",
+    "en": "Appletun",
+    "ja": "タルップル",
+    "zh-Hans": "丰蜜龙"
+  }
+}

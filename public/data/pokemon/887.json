@@ -1,0 +1,18 @@
+{
+  "id": 887,
+  "sprite": "sprites/home/887.png",
+  "name_en": "dragapult",
+  "translations": {
+    "ja-Hrkt": "ドラパルト",
+    "roomaji": "Dorapult",
+    "ko": "드래펄트",
+    "zh-Hant": "多龍巴魯托",
+    "fr": "Lanssorien",
+    "de": "Katapuldra",
+    "es": "Dragapult",
+    "it": "Dragapult",
+    "en": "Dragapult",
+    "ja": "ドラパルト",
+    "zh-Hans": "多龙巴鲁托"
+  }
+}

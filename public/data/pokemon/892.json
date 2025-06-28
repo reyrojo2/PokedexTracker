@@ -1,0 +1,18 @@
+{
+  "id": 892,
+  "sprite": "sprites/home/892.png",
+  "name_en": "urshifu-single-strike",
+  "translations": {
+    "ja-Hrkt": "ウーラオス",
+    "roomaji": "Wulaosu",
+    "ko": "우라오스",
+    "zh-Hant": "武道熊師",
+    "fr": "Shifours",
+    "de": "Wulaosu",
+    "es": "Urshifu",
+    "it": "Urshifu",
+    "en": "Urshifu",
+    "ja": "ウーラオス",
+    "zh-Hans": "武道熊师"
+  }
+}

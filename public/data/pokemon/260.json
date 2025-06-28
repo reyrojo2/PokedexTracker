@@ -1,0 +1,18 @@
+{
+  "id": 260,
+  "sprite": "sprites/home/260.png",
+  "name_en": "swampert",
+  "translations": {
+    "ja-Hrkt": "ラグラージ",
+    "roomaji": "Laglarge",
+    "ko": "대짱이",
+    "zh-Hant": "巨沼怪",
+    "fr": "Laggron",
+    "de": "Sumpex",
+    "es": "Swampert",
+    "it": "Swampert",
+    "en": "Swampert",
+    "ja": "ラグラージ",
+    "zh-Hans": "巨沼怪"
+  }
+}

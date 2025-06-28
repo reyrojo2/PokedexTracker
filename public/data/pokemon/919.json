@@ -1,0 +1,18 @@
+{
+  "id": 919,
+  "sprite": "sprites/home/919.png",
+  "name_en": "nymble",
+  "translations": {
+    "ja-Hrkt": "マメバッタ",
+    "roomaji": "Mamebatta",
+    "ko": "콩알뚜기",
+    "zh-Hant": "豆蟋蟀",
+    "fr": "Lilliterelle",
+    "de": "Micrick",
+    "es": "Nymble",
+    "it": "Nymble",
+    "en": "Nymble",
+    "ja": "マメバッタ",
+    "zh-Hans": "豆蟋蟀"
+  }
+}

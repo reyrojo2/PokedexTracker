@@ -1,0 +1,18 @@
+{
+  "id": 88,
+  "sprite": "sprites/home/88.png",
+  "name_en": "grimer",
+  "translations": {
+    "ja-Hrkt": "ベトベター",
+    "roomaji": "Betbeter",
+    "ko": "질퍽이",
+    "zh-Hant": "臭泥",
+    "fr": "Tadmorv",
+    "de": "Sleima",
+    "es": "Grimer",
+    "it": "Grimer",
+    "en": "Grimer",
+    "ja": "ベトベター",
+    "zh-Hans": "臭泥"
+  }
+}

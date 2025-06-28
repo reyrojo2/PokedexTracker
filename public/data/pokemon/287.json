@@ -1,0 +1,18 @@
+{
+  "id": 287,
+  "sprite": "sprites/home/287.png",
+  "name_en": "slakoth",
+  "translations": {
+    "ja-Hrkt": "ナマケロ",
+    "roomaji": "Namakero",
+    "ko": "게을로",
+    "zh-Hant": "懶人獺",
+    "fr": "Parecool",
+    "de": "Bummelz",
+    "es": "Slakoth",
+    "it": "Slakoth",
+    "en": "Slakoth",
+    "ja": "ナマケロ",
+    "zh-Hans": "懒人獭"
+  }
+}

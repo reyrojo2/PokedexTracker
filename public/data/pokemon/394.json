@@ -1,0 +1,18 @@
+{
+  "id": 394,
+  "sprite": "sprites/home/394.png",
+  "name_en": "prinplup",
+  "translations": {
+    "ja-Hrkt": "ポッタイシ",
+    "roomaji": "Pottaishi",
+    "ko": "팽태자",
+    "zh-Hant": "波皇子",
+    "fr": "Prinplouf",
+    "de": "Pliprin",
+    "es": "Prinplup",
+    "it": "Prinplup",
+    "en": "Prinplup",
+    "ja": "ポッタイシ",
+    "zh-Hans": "波皇子"
+  }
+}

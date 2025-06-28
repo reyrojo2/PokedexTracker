@@ -1,0 +1,18 @@
+{
+  "id": 819,
+  "sprite": "sprites/home/819.png",
+  "name_en": "skwovet",
+  "translations": {
+    "ja-Hrkt": "ホシガリス",
+    "roomaji": "Hoshigarisu",
+    "ko": "탐리스",
+    "zh-Hant": "貪心栗鼠",
+    "fr": "Rongourmand",
+    "de": "Raffel",
+    "es": "Skwovet",
+    "it": "Skwovet",
+    "en": "Skwovet",
+    "ja": "ホシガリス",
+    "zh-Hans": "贪心栗鼠"
+  }
+}

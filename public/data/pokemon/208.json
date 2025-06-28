@@ -1,0 +1,18 @@
+{
+  "id": 208,
+  "sprite": "sprites/home/208.png",
+  "name_en": "steelix",
+  "translations": {
+    "ja-Hrkt": "ハガネール",
+    "roomaji": "Haganeil",
+    "ko": "강철톤",
+    "zh-Hant": "大鋼蛇",
+    "fr": "Steelix",
+    "de": "Stahlos",
+    "es": "Steelix",
+    "it": "Steelix",
+    "en": "Steelix",
+    "ja": "ハガネール",
+    "zh-Hans": "大钢蛇"
+  }
+}

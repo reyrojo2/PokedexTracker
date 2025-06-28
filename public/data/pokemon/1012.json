@@ -1,0 +1,17 @@
+{
+  "id": 1012,
+  "sprite": "sprites/home/1012.png",
+  "name_en": "poltchageist",
+  "translations": {
+    "ja-Hrkt": "チャデス",
+    "ko": "차데스",
+    "zh-Hant": "斯魔茶",
+    "fr": "Poltchageist",
+    "de": "Mortcha",
+    "es": "Poltchageist",
+    "it": "Poltchageist",
+    "en": "Poltchageist",
+    "ja": "チャデス",
+    "zh-Hans": "斯魔茶"
+  }
+}

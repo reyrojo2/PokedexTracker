@@ -1,0 +1,18 @@
+{
+  "id": 212,
+  "sprite": "sprites/home/212.png",
+  "name_en": "scizor",
+  "translations": {
+    "ja-Hrkt": "ハッサム",
+    "roomaji": "Hassam",
+    "ko": "핫삼",
+    "zh-Hant": "巨鉗螳螂",
+    "fr": "Cizayox",
+    "de": "Scherox",
+    "es": "Scizor",
+    "it": "Scizor",
+    "en": "Scizor",
+    "ja": "ハッサム",
+    "zh-Hans": "巨钳螳螂"
+  }
+}

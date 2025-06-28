@@ -1,0 +1,18 @@
+{
+  "id": 1004,
+  "sprite": "sprites/home/1004.png",
+  "name_en": "chi-yu",
+  "translations": {
+    "ja-Hrkt": "イーユイ",
+    "roomaji": "Yiyui",
+    "ko": "위유이",
+    "zh-Hant": "古玉魚",
+    "fr": "Yuyu",
+    "de": "Yuyu",
+    "es": "Chi-Yu",
+    "it": "Chi-Yu",
+    "en": "Chi-Yu",
+    "ja": "イーユイ",
+    "zh-Hans": "古玉鱼"
+  }
+}

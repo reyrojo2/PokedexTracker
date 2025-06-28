@@ -1,0 +1,18 @@
+{
+  "id": 416,
+  "sprite": "sprites/home/416.png",
+  "name_en": "vespiquen",
+  "translations": {
+    "ja-Hrkt": "ビークイン",
+    "roomaji": "Beequeen",
+    "ko": "비퀸",
+    "zh-Hant": "蜂女王",
+    "fr": "Apireine",
+    "de": "Honweisel",
+    "es": "Vespiquen",
+    "it": "Vespiquen",
+    "en": "Vespiquen",
+    "ja": "ビークイン",
+    "zh-Hans": "蜂女王"
+  }
+}

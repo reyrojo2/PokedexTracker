@@ -1,0 +1,18 @@
+{
+  "id": 704,
+  "sprite": "sprites/home/704.png",
+  "name_en": "goomy",
+  "translations": {
+    "ja-Hrkt": "ヌメラ",
+    "roomaji": "Numera",
+    "ko": "미끄메라",
+    "zh-Hant": "黏黏寶",
+    "fr": "Mucuscule",
+    "de": "Viscora",
+    "es": "Goomy",
+    "it": "Goomy",
+    "en": "Goomy",
+    "ja": "ヌメラ",
+    "zh-Hans": "黏黏宝"
+  }
+}

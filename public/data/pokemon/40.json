@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "sprite": "sprites/home/40.png",
+  "name_en": "wigglytuff",
+  "translations": {
+    "ja-Hrkt": "プクリン",
+    "roomaji": "Pukurin",
+    "ko": "푸크린",
+    "zh-Hant": "胖可丁",
+    "fr": "Grodoudou",
+    "de": "Knuddeluff",
+    "es": "Wigglytuff",
+    "it": "Wigglytuff",
+    "en": "Wigglytuff",
+    "ja": "プクリン",
+    "zh-Hans": "胖可丁"
+  }
+}

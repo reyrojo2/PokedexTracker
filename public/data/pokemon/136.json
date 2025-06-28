@@ -1,0 +1,18 @@
+{
+  "id": 136,
+  "sprite": "sprites/home/136.png",
+  "name_en": "flareon",
+  "translations": {
+    "ja-Hrkt": "ブースター",
+    "roomaji": "Booster",
+    "ko": "부스터",
+    "zh-Hant": "火伊布",
+    "fr": "Pyroli",
+    "de": "Flamara",
+    "es": "Flareon",
+    "it": "Flareon",
+    "en": "Flareon",
+    "ja": "ブースター",
+    "zh-Hans": "火伊布"
+  }
+}

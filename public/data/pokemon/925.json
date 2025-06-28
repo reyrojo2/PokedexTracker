@@ -1,0 +1,18 @@
+{
+  "id": 925,
+  "sprite": "sprites/home/925.png",
+  "name_en": "maushold-family-of-four",
+  "translations": {
+    "ja-Hrkt": "イッカネズミ",
+    "roomaji": "Ikkanezumi",
+    "ko": "파밀리쥐",
+    "zh-Hant": "一家鼠",
+    "fr": "Famignol",
+    "de": "Famieps",
+    "es": "Maushold",
+    "it": "Maushold",
+    "en": "Maushold",
+    "ja": "イッカネズミ",
+    "zh-Hans": "一家鼠"
+  }
+}

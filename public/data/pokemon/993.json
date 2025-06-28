@@ -1,0 +1,18 @@
+{
+  "id": 993,
+  "sprite": "sprites/home/993.png",
+  "name_en": "iron-jugulis",
+  "translations": {
+    "ja-Hrkt": "テツノコウベ",
+    "roomaji": "Tetsunokoube",
+    "ko": "무쇠머리",
+    "zh-Hant": "鐵脖頸",
+    "fr": "Têtes-de-Fer",
+    "de": "Eisenhals",
+    "es": "Ferrocuello",
+    "it": "Colloferreo",
+    "en": "Iron Jugulis",
+    "ja": "テツノコウベ",
+    "zh-Hans": "铁脖颈"
+  }
+}

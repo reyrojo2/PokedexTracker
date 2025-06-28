@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "sprite": "sprites/home/878.png",
+  "name_en": "cufant",
+  "translations": {
+    "ja-Hrkt": "ゾウドウ",
+    "roomaji": "Zoudou",
+    "ko": "끼리동",
+    "zh-Hant": "銅象",
+    "fr": "Charibari",
+    "de": "Kupfanti",
+    "es": "Cufant",
+    "it": "Cufant",
+    "en": "Cufant",
+    "ja": "ゾウドウ",
+    "zh-Hans": "铜象"
+  }
+}

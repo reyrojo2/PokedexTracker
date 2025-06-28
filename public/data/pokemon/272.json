@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "sprite": "sprites/home/272.png",
+  "name_en": "ludicolo",
+  "translations": {
+    "ja-Hrkt": "ルンパッパ",
+    "roomaji": "Runpappa",
+    "ko": "로파파",
+    "zh-Hant": "樂天河童",
+    "fr": "Ludicolo",
+    "de": "Kappalores",
+    "es": "Ludicolo",
+    "it": "Ludicolo",
+    "en": "Ludicolo",
+    "ja": "ルンパッパ",
+    "zh-Hans": "乐天河童"
+  }
+}

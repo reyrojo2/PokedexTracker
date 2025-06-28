@@ -1,0 +1,18 @@
+{
+  "id": 986,
+  "sprite": "sprites/home/986.png",
+  "name_en": "brute-bonnet",
+  "translations": {
+    "ja-Hrkt": "アラブルタケ",
+    "roomaji": "Araburutake",
+    "ko": "사나운버섯",
+    "zh-Hant": "猛惡菇",
+    "fr": "Fongus-Furie",
+    "de": "Wutpilz",
+    "es": "Furioseta",
+    "it": "Fungofurioso",
+    "en": "Brute Bonnet",
+    "ja": "アラブルタケ",
+    "zh-Hans": "猛恶菇"
+  }
+}

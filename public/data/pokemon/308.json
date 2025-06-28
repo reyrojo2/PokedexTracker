@@ -1,0 +1,18 @@
+{
+  "id": 308,
+  "sprite": "sprites/home/308.png",
+  "name_en": "medicham",
+  "translations": {
+    "ja-Hrkt": "チャーレム",
+    "roomaji": "Charem",
+    "ko": "요가램",
+    "zh-Hant": "恰雷姆",
+    "fr": "Charmina",
+    "de": "Meditalis",
+    "es": "Medicham",
+    "it": "Medicham",
+    "en": "Medicham",
+    "ja": "チャーレム",
+    "zh-Hans": "恰雷姆"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 850,
+  "sprite": "sprites/home/850.png",
+  "name_en": "sizzlipede",
+  "translations": {
+    "ja-Hrkt": "ヤクデ",
+    "roomaji": "Yakude",
+    "ko": "태우지네",
+    "zh-Hant": "燒火蚣",
+    "fr": "Grillepattes",
+    "de": "Thermopod",
+    "es": "Sizzlipede",
+    "it": "Sizzlipede",
+    "en": "Sizzlipede",
+    "ja": "ヤクデ",
+    "zh-Hans": "烧火蚣"
+  }
+}

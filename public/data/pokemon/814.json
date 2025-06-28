@@ -1,0 +1,18 @@
+{
+  "id": 814,
+  "sprite": "sprites/home/814.png",
+  "name_en": "raboot",
+  "translations": {
+    "ja-Hrkt": "ラビフット",
+    "roomaji": "Rabbifuto",
+    "ko": "래비풋",
+    "zh-Hant": "騰蹴小將",
+    "fr": "Lapyro",
+    "de": "Kickerlo",
+    "es": "Raboot",
+    "it": "Raboot",
+    "en": "Raboot",
+    "ja": "ラビフット",
+    "zh-Hans": "腾蹴小将"
+  }
+}

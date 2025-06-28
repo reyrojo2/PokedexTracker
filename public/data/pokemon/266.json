@@ -1,0 +1,18 @@
+{
+  "id": 266,
+  "sprite": "sprites/home/266.png",
+  "name_en": "silcoon",
+  "translations": {
+    "ja-Hrkt": "カラサリス",
+    "roomaji": "Karasalis",
+    "ko": "실쿤",
+    "zh-Hant": "甲殼繭",
+    "fr": "Armulys",
+    "de": "Schaloko",
+    "es": "Silcoon",
+    "it": "Silcoon",
+    "en": "Silcoon",
+    "ja": "カラサリス",
+    "zh-Hans": "甲壳茧"
+  }
+}

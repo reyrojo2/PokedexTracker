@@ -1,0 +1,18 @@
+{
+  "id": 966,
+  "sprite": "sprites/home/966.png",
+  "name_en": "revavroom",
+  "translations": {
+    "ja-Hrkt": "ブロロローム",
+    "roomaji": "Burororoom",
+    "ko": "부르르룸",
+    "zh-Hant": "普隆隆姆",
+    "fr": "Vrombotor",
+    "de": "Knattatox",
+    "es": "Revavroom",
+    "it": "Revavroom",
+    "en": "Revavroom",
+    "ja": "ブロロローム",
+    "zh-Hans": "普隆隆姆"
+  }
+}

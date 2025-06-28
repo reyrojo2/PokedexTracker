@@ -1,0 +1,18 @@
+{
+  "id": 376,
+  "sprite": "sprites/home/376.png",
+  "name_en": "metagross",
+  "translations": {
+    "ja-Hrkt": "メタグロス",
+    "roomaji": "Metagross",
+    "ko": "메타그로스",
+    "zh-Hant": "巨金怪",
+    "fr": "Métalosse",
+    "de": "Metagross",
+    "es": "Metagross",
+    "it": "Metagross",
+    "en": "Metagross",
+    "ja": "メタグロス",
+    "zh-Hans": "巨金怪"
+  }
+}

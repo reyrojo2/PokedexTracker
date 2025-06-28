@@ -1,0 +1,18 @@
+{
+  "id": 711,
+  "sprite": "sprites/home/711.png",
+  "name_en": "gourgeist-average",
+  "translations": {
+    "ja-Hrkt": "パンプジン",
+    "roomaji": "Pumpjin",
+    "ko": "펌킨인",
+    "zh-Hant": "南瓜怪人",
+    "fr": "Banshitrouye",
+    "de": "Pumpdjinn",
+    "es": "Gourgeist",
+    "it": "Gourgeist",
+    "en": "Gourgeist",
+    "ja": "パンプジン",
+    "zh-Hans": "南瓜怪人"
+  }
+}

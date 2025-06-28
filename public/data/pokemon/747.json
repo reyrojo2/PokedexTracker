@@ -1,0 +1,18 @@
+{
+  "id": 747,
+  "sprite": "sprites/home/747.png",
+  "name_en": "mareanie",
+  "translations": {
+    "ja-Hrkt": "ヒドイデ",
+    "roomaji": "Hidoide",
+    "ko": "시마사리",
+    "zh-Hant": "好壞星",
+    "fr": "Vorastérie",
+    "de": "Garstella",
+    "es": "Mareanie",
+    "it": "Mareanie",
+    "en": "Mareanie",
+    "ja": "ヒドイデ",
+    "zh-Hans": "好坏星"
+  }
+}

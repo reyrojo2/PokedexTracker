@@ -1,0 +1,18 @@
+{
+  "id": 959,
+  "sprite": "sprites/home/959.png",
+  "name_en": "tinkaton",
+  "translations": {
+    "ja-Hrkt": "デカヌチャン",
+    "roomaji": "Dekanuchan",
+    "ko": "두드리짱",
+    "zh-Hant": "巨鍛匠",
+    "fr": "Forgelina",
+    "de": "Granforgita",
+    "es": "Tinkaton",
+    "it": "Tinkaton",
+    "en": "Tinkaton",
+    "ja": "デカヌチャン",
+    "zh-Hans": "巨锻匠"
+  }
+}

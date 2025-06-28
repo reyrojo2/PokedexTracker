@@ -1,0 +1,18 @@
+{
+  "id": 874,
+  "sprite": "sprites/home/874.png",
+  "name_en": "stonjourner",
+  "translations": {
+    "ja-Hrkt": "イシヘンジン",
+    "roomaji": "Ishihengin",
+    "ko": "돌헨진",
+    "zh-Hant": "巨石丁",
+    "fr": "Dolman",
+    "de": "Humanolith",
+    "es": "Stonjourner",
+    "it": "Stonjourner",
+    "en": "Stonjourner",
+    "ja": "イシヘンジン",
+    "zh-Hans": "巨石丁"
+  }
+}

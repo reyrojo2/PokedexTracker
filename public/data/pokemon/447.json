@@ -1,0 +1,18 @@
+{
+  "id": 447,
+  "sprite": "sprites/home/447.png",
+  "name_en": "riolu",
+  "translations": {
+    "ja-Hrkt": "リオル",
+    "roomaji": "Riolu",
+    "ko": "리오르",
+    "zh-Hant": "利歐路",
+    "fr": "Riolu",
+    "de": "Riolu",
+    "es": "Riolu",
+    "it": "Riolu",
+    "en": "Riolu",
+    "ja": "リオル",
+    "zh-Hans": "利欧路"
+  }
+}

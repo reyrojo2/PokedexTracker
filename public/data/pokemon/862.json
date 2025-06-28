@@ -1,0 +1,18 @@
+{
+  "id": 862,
+  "sprite": "sprites/home/862.png",
+  "name_en": "obstagoon",
+  "translations": {
+    "ja-Hrkt": "タチフサグマ",
+    "roomaji": "Tachifusaguma",
+    "ko": "가로막구리",
+    "zh-Hant": "堵攔熊",
+    "fr": "Ixon",
+    "de": "Barrikadax",
+    "es": "Obstagoon",
+    "it": "Obstagoon",
+    "en": "Obstagoon",
+    "ja": "タチフサグマ",
+    "zh-Hans": "堵拦熊"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 804,
+  "sprite": "sprites/home/804.png",
+  "name_en": "naganadel",
+  "translations": {
+    "ja-Hrkt": "アーゴヨン",
+    "roomaji": "Agoyon",
+    "ko": "아고용",
+    "zh-Hant": "四顎針龍",
+    "fr": "Mandrillon",
+    "de": "Agoyon",
+    "es": "Naganadel",
+    "it": "Naganadel",
+    "en": "Naganadel",
+    "ja": "アーゴヨン",
+    "zh-Hans": "四颚针龙"
+  }
+}

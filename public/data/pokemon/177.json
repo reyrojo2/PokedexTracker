@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "sprite": "sprites/home/177.png",
+  "name_en": "natu",
+  "translations": {
+    "ja-Hrkt": "ネイティ",
+    "roomaji": "Naty",
+    "ko": "네이티",
+    "zh-Hant": "天然雀",
+    "fr": "Natu",
+    "de": "Natu",
+    "es": "Natu",
+    "it": "Natu",
+    "en": "Natu",
+    "ja": "ネイティ",
+    "zh-Hans": "天然雀"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 808,
+  "sprite": "sprites/home/808.png",
+  "name_en": "meltan",
+  "translations": {
+    "ja-Hrkt": "メルタン",
+    "roomaji": "Meltan",
+    "ko": "멜탄",
+    "zh-Hant": "美錄坦",
+    "fr": "Meltan",
+    "de": "Meltan",
+    "es": "Meltan",
+    "it": "Meltan",
+    "en": "Meltan",
+    "ja": "メルタン",
+    "zh-Hans": "美录坦"
+  }
+}

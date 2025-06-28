@@ -1,0 +1,18 @@
+{
+  "id": 645,
+  "sprite": "sprites/home/645.png",
+  "name_en": "landorus-incarnate",
+  "translations": {
+    "ja-Hrkt": "ランドロス",
+    "roomaji": "Landlos",
+    "ko": "랜드로스",
+    "zh-Hant": "土地雲",
+    "fr": "Démétéros",
+    "de": "Demeteros",
+    "es": "Landorus",
+    "it": "Landorus",
+    "en": "Landorus",
+    "ja": "ランドロス",
+    "zh-Hans": "土地云"
+  }
+}

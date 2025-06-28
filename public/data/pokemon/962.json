@@ -1,0 +1,18 @@
+{
+  "id": 962,
+  "sprite": "sprites/home/962.png",
+  "name_en": "bombirdier",
+  "translations": {
+    "ja-Hrkt": "オトシドリ",
+    "roomaji": "Otoshidori",
+    "ko": "떨구새",
+    "zh-Hant": "下石鳥",
+    "fr": "Lestombaile",
+    "de": "Adebom",
+    "es": "Bombirdier",
+    "it": "Bombirdier",
+    "en": "Bombirdier",
+    "ja": "オトシドリ",
+    "zh-Hans": "下石鸟"
+  }
+}

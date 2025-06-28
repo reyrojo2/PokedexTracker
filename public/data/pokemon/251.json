@@ -1,0 +1,18 @@
+{
+  "id": 251,
+  "sprite": "sprites/home/251.png",
+  "name_en": "celebi",
+  "translations": {
+    "ja-Hrkt": "セレビィ",
+    "roomaji": "Celebi",
+    "ko": "세레비",
+    "zh-Hant": "時拉比",
+    "fr": "Celebi",
+    "de": "Celebi",
+    "es": "Celebi",
+    "it": "Celebi",
+    "en": "Celebi",
+    "ja": "セレビィ",
+    "zh-Hans": "时拉比"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 921,
+  "sprite": "sprites/home/921.png",
+  "name_en": "pawmi",
+  "translations": {
+    "ja-Hrkt": "パモ",
+    "roomaji": "Pamo",
+    "ko": "빠모",
+    "zh-Hant": "布撥",
+    "fr": "Pohm",
+    "de": "Pamo",
+    "es": "Pawmi",
+    "it": "Pawmi",
+    "en": "Pawmi",
+    "ja": "パモ",
+    "zh-Hans": "布拨"
+  }
+}

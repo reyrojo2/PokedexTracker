@@ -1,0 +1,18 @@
+{
+  "id": 303,
+  "sprite": "sprites/home/303.png",
+  "name_en": "mawile",
+  "translations": {
+    "ja-Hrkt": "クチート",
+    "roomaji": "Kucheat",
+    "ko": "입치트",
+    "zh-Hant": "大嘴娃",
+    "fr": "Mysdibule",
+    "de": "Flunkifer",
+    "es": "Mawile",
+    "it": "Mawile",
+    "en": "Mawile",
+    "ja": "クチート",
+    "zh-Hans": "大嘴娃"
+  }
+}

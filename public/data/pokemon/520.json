@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "sprite": "sprites/home/520.png",
+  "name_en": "tranquill",
+  "translations": {
+    "ja-Hrkt": "ハトーボー",
+    "roomaji": "Hatoboh",
+    "ko": "유토브",
+    "zh-Hant": "咕咕鴿",
+    "fr": "Colombeau",
+    "de": "Navitaub",
+    "es": "Tranquill",
+    "it": "Tranquill",
+    "en": "Tranquill",
+    "ja": "ハトーボー",
+    "zh-Hans": "咕咕鸽"
+  }
+}

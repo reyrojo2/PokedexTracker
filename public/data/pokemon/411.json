@@ -1,0 +1,18 @@
+{
+  "id": 411,
+  "sprite": "sprites/home/411.png",
+  "name_en": "bastiodon",
+  "translations": {
+    "ja-Hrkt": "トリデプス",
+    "roomaji": "Trideps",
+    "ko": "바리톱스",
+    "zh-Hant": "護城龍",
+    "fr": "Bastiodon",
+    "de": "Bollterus",
+    "es": "Bastiodon",
+    "it": "Bastiodon",
+    "en": "Bastiodon",
+    "ja": "トリデプス",
+    "zh-Hans": "护城龙"
+  }
+}

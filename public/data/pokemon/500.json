@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "sprite": "sprites/home/500.png",
+  "name_en": "emboar",
+  "translations": {
+    "ja-Hrkt": "エンブオー",
+    "roomaji": "Enbuoh",
+    "ko": "염무왕",
+    "zh-Hant": "炎武王",
+    "fr": "Roitiflam",
+    "de": "Flambirex",
+    "es": "Emboar",
+    "it": "Emboar",
+    "en": "Emboar",
+    "ja": "エンブオー",
+    "zh-Hans": "炎武王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 466,
+  "sprite": "sprites/home/466.png",
+  "name_en": "electivire",
+  "translations": {
+    "ja-Hrkt": "エレキブル",
+    "roomaji": "Elekible",
+    "ko": "에레키블",
+    "zh-Hant": "電擊魔獸",
+    "fr": "Élekable",
+    "de": "Elevoltek",
+    "es": "Electivire",
+    "it": "Electivire",
+    "en": "Electivire",
+    "ja": "エレキブル",
+    "zh-Hans": "电击魔兽"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 909,
+  "sprite": "sprites/home/909.png",
+  "name_en": "fuecoco",
+  "translations": {
+    "ja-Hrkt": "ホゲータ",
+    "roomaji": "Hogator",
+    "ko": "뜨아거",
+    "zh-Hant": "呆火鱷",
+    "fr": "Chochodile",
+    "de": "Krokel",
+    "es": "Fuecoco",
+    "it": "Fuecoco",
+    "en": "Fuecoco",
+    "ja": "ホゲータ",
+    "zh-Hans": "呆火鳄"
+  }
+}

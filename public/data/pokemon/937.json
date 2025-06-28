@@ -1,0 +1,18 @@
+{
+  "id": 937,
+  "sprite": "sprites/home/937.png",
+  "name_en": "ceruledge",
+  "translations": {
+    "ja-Hrkt": "ソウブレイズ",
+    "roomaji": "Soublades",
+    "ko": "파라블레이즈",
+    "zh-Hant": "蒼炎刃鬼",
+    "fr": "Malvalame",
+    "de": "Azugladis",
+    "es": "Ceruledge",
+    "it": "Ceruledge",
+    "en": "Ceruledge",
+    "ja": "ソウブレイズ",
+    "zh-Hans": "苍炎刃鬼"
+  }
+}

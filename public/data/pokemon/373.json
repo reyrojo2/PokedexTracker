@@ -1,0 +1,18 @@
+{
+  "id": 373,
+  "sprite": "sprites/home/373.png",
+  "name_en": "salamence",
+  "translations": {
+    "ja-Hrkt": "ボーマンダ",
+    "roomaji": "Bohmander",
+    "ko": "보만다",
+    "zh-Hant": "暴飛龍",
+    "fr": "Drattak",
+    "de": "Brutalanda",
+    "es": "Salamence",
+    "it": "Salamence",
+    "en": "Salamence",
+    "ja": "ボーマンダ",
+    "zh-Hans": "暴飞龙"
+  }
+}

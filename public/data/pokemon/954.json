@@ -1,0 +1,18 @@
+{
+  "id": 954,
+  "sprite": "sprites/home/954.png",
+  "name_en": "rabsca",
+  "translations": {
+    "ja-Hrkt": "ベラカス",
+    "roomaji": "Beracas",
+    "ko": "베라카스",
+    "zh-Hant": "蟲甲聖",
+    "fr": "Bérasca",
+    "de": "Skarabaks",
+    "es": "Rabsca",
+    "it": "Rabsca",
+    "en": "Rabsca",
+    "ja": "ベラカス",
+    "zh-Hans": "虫甲圣"
+  }
+}

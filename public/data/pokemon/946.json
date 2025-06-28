@@ -1,0 +1,18 @@
+{
+  "id": 946,
+  "sprite": "sprites/home/946.png",
+  "name_en": "bramblin",
+  "translations": {
+    "ja-Hrkt": "アノクサ",
+    "roomaji": "Anokusa",
+    "ko": "그푸리",
+    "zh-Hant": "納噬草",
+    "fr": "Virovent",
+    "de": "Weherba",
+    "es": "Bramblin",
+    "it": "Bramblin",
+    "en": "Bramblin",
+    "ja": "アノクサ",
+    "zh-Hans": "纳噬草"
+  }
+}

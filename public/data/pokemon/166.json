@@ -1,0 +1,18 @@
+{
+  "id": 166,
+  "sprite": "sprites/home/166.png",
+  "name_en": "ledian",
+  "translations": {
+    "ja-Hrkt": "レディアン",
+    "roomaji": "Redian",
+    "ko": "레디안",
+    "zh-Hant": "安瓢蟲",
+    "fr": "Coxyclaque",
+    "de": "Ledian",
+    "es": "Ledian",
+    "it": "Ledian",
+    "en": "Ledian",
+    "ja": "レディアン",
+    "zh-Hans": "安瓢虫"
+  }
+}

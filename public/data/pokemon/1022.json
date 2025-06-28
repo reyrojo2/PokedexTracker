@@ -1,0 +1,17 @@
+{
+  "id": 1022,
+  "sprite": "sprites/home/1022.png",
+  "name_en": "iron-boulder",
+  "translations": {
+    "ja-Hrkt": "テツノイワオ",
+    "ko": "무쇠암석",
+    "zh-Hant": "铁磐岩",
+    "fr": "Roc-de-Fer",
+    "de": "Eisenfels",
+    "es": "Ferromole",
+    "it": "Massoferreo",
+    "en": "Iron Boulder",
+    "ja": "テツノイワオ",
+    "zh-Hans": "鐵磐岩"
+  }
+}

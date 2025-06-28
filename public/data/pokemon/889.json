@@ -1,0 +1,18 @@
+{
+  "id": 889,
+  "sprite": "sprites/home/889.png",
+  "name_en": "zamazenta",
+  "translations": {
+    "ja-Hrkt": "ザマゼンタ",
+    "roomaji": "Zamazenta",
+    "ko": "자마젠타",
+    "zh-Hant": "藏瑪然特",
+    "fr": "Zamazenta",
+    "de": "Zamazenta",
+    "es": "Zamazenta",
+    "it": "Zamazenta",
+    "en": "Zamazenta",
+    "ja": "ザマゼンタ",
+    "zh-Hans": "藏玛然特"
+  }
+}

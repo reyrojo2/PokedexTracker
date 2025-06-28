@@ -1,0 +1,18 @@
+{
+  "id": 727,
+  "sprite": "sprites/home/727.png",
+  "name_en": "incineroar",
+  "translations": {
+    "ja-Hrkt": "ガオガエン",
+    "roomaji": "Gaogaen",
+    "ko": "어흥염",
+    "zh-Hant": "熾焰咆哮虎",
+    "fr": "Félinferno",
+    "de": "Fuegro",
+    "es": "Incineroar",
+    "it": "Incineroar",
+    "en": "Incineroar",
+    "ja": "ガオガエン",
+    "zh-Hans": "炽焰咆哮虎"
+  }
+}

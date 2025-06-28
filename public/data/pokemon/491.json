@@ -1,0 +1,18 @@
+{
+  "id": 491,
+  "sprite": "sprites/home/491.png",
+  "name_en": "darkrai",
+  "translations": {
+    "ja-Hrkt": "ダークライ",
+    "roomaji": "Darkrai",
+    "ko": "다크라이",
+    "zh-Hant": "達克萊伊",
+    "fr": "Darkrai",
+    "de": "Darkrai",
+    "es": "Darkrai",
+    "it": "Darkrai",
+    "en": "Darkrai",
+    "ja": "ダークライ",
+    "zh-Hans": "达克莱伊"
+  }
+}

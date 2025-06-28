@@ -1,0 +1,18 @@
+{
+  "id": 638,
+  "sprite": "sprites/home/638.png",
+  "name_en": "cobalion",
+  "translations": {
+    "ja-Hrkt": "コバルオン",
+    "roomaji": "Cobalon",
+    "ko": "코바르온",
+    "zh-Hant": "勾帕路翁",
+    "fr": "Cobaltium",
+    "de": "Kobalium",
+    "es": "Cobalion",
+    "it": "Cobalion",
+    "en": "Cobalion",
+    "ja": "コバルオン",
+    "zh-Hans": "勾帕路翁"
+  }
+}

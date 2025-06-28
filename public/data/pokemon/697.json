@@ -1,0 +1,18 @@
+{
+  "id": 697,
+  "sprite": "sprites/home/697.png",
+  "name_en": "tyrantrum",
+  "translations": {
+    "ja-Hrkt": "ガチゴラス",
+    "roomaji": "Gachigoras",
+    "ko": "견고라스",
+    "zh-Hant": "怪顎龍",
+    "fr": "Rexillius",
+    "de": "Monargoras",
+    "es": "Tyrantrum",
+    "it": "Tyrantrum",
+    "en": "Tyrantrum",
+    "ja": "ガチゴラス",
+    "zh-Hans": "怪颚龙"
+  }
+}

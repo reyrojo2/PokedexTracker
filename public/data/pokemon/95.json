@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "sprite": "sprites/home/95.png",
+  "name_en": "onix",
+  "translations": {
+    "ja-Hrkt": "イワーク",
+    "roomaji": "Iwark",
+    "ko": "롱스톤",
+    "zh-Hant": "大岩蛇",
+    "fr": "Onix",
+    "de": "Onix",
+    "es": "Onix",
+    "it": "Onix",
+    "en": "Onix",
+    "ja": "イワーク",
+    "zh-Hans": "大岩蛇"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 680,
+  "sprite": "sprites/home/680.png",
+  "name_en": "doublade",
+  "translations": {
+    "ja-Hrkt": "ニダンギル",
+    "roomaji": "Nidangill",
+    "ko": "쌍검킬",
+    "zh-Hant": "雙劍鞘",
+    "fr": "Dimoclès",
+    "de": "Duokles",
+    "es": "Doublade",
+    "it": "Doublade",
+    "en": "Doublade",
+    "ja": "ニダンギル",
+    "zh-Hans": "双剑鞘"
+  }
+}

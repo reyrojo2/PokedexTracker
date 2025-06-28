@@ -1,0 +1,18 @@
+{
+  "id": 688,
+  "sprite": "sprites/home/688.png",
+  "name_en": "binacle",
+  "translations": {
+    "ja-Hrkt": "カメテテ",
+    "roomaji": "Kametete",
+    "ko": "거북손손",
+    "zh-Hant": "龜腳腳",
+    "fr": "Opermine",
+    "de": "Bithora",
+    "es": "Binacle",
+    "it": "Binacle",
+    "en": "Binacle",
+    "ja": "カメテテ",
+    "zh-Hans": "龟脚脚"
+  }
+}

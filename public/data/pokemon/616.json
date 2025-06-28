@@ -1,0 +1,18 @@
+{
+  "id": 616,
+  "sprite": "sprites/home/616.png",
+  "name_en": "shelmet",
+  "translations": {
+    "ja-Hrkt": "チョボマキ",
+    "roomaji": "Chobomaki",
+    "ko": "쪼마리",
+    "zh-Hant": "小嘴蝸",
+    "fr": "Escargaume",
+    "de": "Schnuthelm",
+    "es": "Shelmet",
+    "it": "Shelmet",
+    "en": "Shelmet",
+    "ja": "チョボマキ",
+    "zh-Hans": "小嘴蜗"
+  }
+}

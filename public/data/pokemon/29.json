@@ -1,0 +1,18 @@
+{
+  "id": 29,
+  "sprite": "sprites/home/29.png",
+  "name_en": "nidoran-f",
+  "translations": {
+    "ja-Hrkt": "ニドラン♀",
+    "roomaji": "Nidoran♀",
+    "ko": "니드런♀",
+    "zh-Hant": "尼多蘭",
+    "fr": "Nidoran♀",
+    "de": "Nidoran♀",
+    "es": "Nidoran♀",
+    "it": "Nidoran♀",
+    "en": "Nidoran♀",
+    "ja": "ニドラン♀",
+    "zh-Hans": "尼多兰"
+  }
+}

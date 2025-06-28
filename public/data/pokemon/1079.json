@@ -1,0 +1,19 @@
+{
+  "id": 1079,
+  "sprite": "sprites/home/1079.png",
+  "name_en": "Paldean Tauros",
+  "region": "Paldea",
+  "translations": {
+    "ja-Hrkt": "ケンタロス",
+    "roomaji": "Kentauros",
+    "ko": "켄타로스",
+    "zh-Hant": "肯泰羅",
+    "zh-Hans": "肯泰罗",
+    "fr": "Tauros",
+    "de": "Tauros",
+    "es": "Tauros",
+    "it": "Tauros",
+    "en": "Tauros",
+    "ja": "ケンタロス"
+  }
+}

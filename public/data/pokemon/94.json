@@ -1,0 +1,18 @@
+{
+  "id": 94,
+  "sprite": "sprites/home/94.png",
+  "name_en": "gengar",
+  "translations": {
+    "ja-Hrkt": "ゲンガー",
+    "roomaji": "Gangar",
+    "ko": "팬텀",
+    "zh-Hant": "耿鬼",
+    "fr": "Ectoplasma",
+    "de": "Gengar",
+    "es": "Gengar",
+    "it": "Gengar",
+    "en": "Gengar",
+    "ja": "ゲンガー",
+    "zh-Hans": "耿鬼"
+  }
+}

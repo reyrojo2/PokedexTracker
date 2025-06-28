@@ -1,0 +1,18 @@
+{
+  "id": 185,
+  "sprite": "sprites/home/185.png",
+  "name_en": "sudowoodo",
+  "translations": {
+    "ja-Hrkt": "ウソッキー",
+    "roomaji": "Usokkie",
+    "ko": "꼬지모",
+    "zh-Hant": "樹才怪",
+    "fr": "Simularbre",
+    "de": "Mogelbaum",
+    "es": "Sudowoodo",
+    "it": "Sudowoodo",
+    "en": "Sudowoodo",
+    "ja": "ウソッキー",
+    "zh-Hans": "树才怪"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 782,
+  "sprite": "sprites/home/782.png",
+  "name_en": "jangmo-o",
+  "translations": {
+    "ja-Hrkt": "ジャラコ",
+    "roomaji": "Jyarako",
+    "ko": "짜랑꼬",
+    "zh-Hant": "心鱗寶",
+    "fr": "Bébécaille",
+    "de": "Miniras",
+    "es": "Jangmo-o",
+    "it": "Jangmo-o",
+    "en": "Jangmo-o",
+    "ja": "ジャラコ",
+    "zh-Hans": "心鳞宝"
+  }
+}

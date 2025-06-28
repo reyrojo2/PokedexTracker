@@ -1,0 +1,18 @@
+{
+  "id": 174,
+  "sprite": "sprites/home/174.png",
+  "name_en": "igglybuff",
+  "translations": {
+    "ja-Hrkt": "ププリン",
+    "roomaji": "Pupurin",
+    "ko": "푸푸린",
+    "zh-Hant": "寶寶丁",
+    "fr": "Toudoudou",
+    "de": "Fluffeluff",
+    "es": "Igglybuff",
+    "it": "Igglybuff",
+    "en": "Igglybuff",
+    "ja": "ププリン",
+    "zh-Hans": "宝宝丁"
+  }
+}

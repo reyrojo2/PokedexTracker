@@ -1,0 +1,18 @@
+{
+  "id": 835,
+  "sprite": "sprites/home/835.png",
+  "name_en": "yamper",
+  "translations": {
+    "ja-Hrkt": "ワンパチ",
+    "roomaji": "Wanpachi",
+    "ko": "멍파치",
+    "zh-Hant": "來電汪",
+    "fr": "Voltoutou",
+    "de": "Voldi",
+    "es": "Yamper",
+    "it": "Yamper",
+    "en": "Yamper",
+    "ja": "ワンパチ",
+    "zh-Hans": "来电汪"
+  }
+}

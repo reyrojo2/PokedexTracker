@@ -1,0 +1,19 @@
+{
+  "id": 1060,
+  "sprite": "sprites/home/1060.png",
+  "name_en": "Galarian Darmanitan",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ヒヒダルマ",
+    "roomaji": "Hihidaruma",
+    "ko": "불비달마",
+    "zh-Hant": "達摩狒狒",
+    "fr": "Darumacho",
+    "de": "Flampivian",
+    "es": "Darmanitan",
+    "it": "Darmanitan",
+    "en": "Darmanitan",
+    "ja": "ヒヒダルマ",
+    "zh-Hans": "达摩狒狒"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 374,
+  "sprite": "sprites/home/374.png",
+  "name_en": "beldum",
+  "translations": {
+    "ja-Hrkt": "ダンバル",
+    "roomaji": "Dumbber",
+    "ko": "메탕",
+    "zh-Hant": "鐵啞鈴",
+    "fr": "Terhal",
+    "de": "Tanhel",
+    "es": "Beldum",
+    "it": "Beldum",
+    "en": "Beldum",
+    "ja": "ダンバル",
+    "zh-Hans": "铁哑铃"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 623,
+  "sprite": "sprites/home/623.png",
+  "name_en": "golurk",
+  "translations": {
+    "ja-Hrkt": "ゴルーグ",
+    "roomaji": "Goloog",
+    "ko": "골루그",
+    "zh-Hant": "泥偶巨人",
+    "fr": "Golemastoc",
+    "de": "Golgantes",
+    "es": "Golurk",
+    "it": "Golurk",
+    "en": "Golurk",
+    "ja": "ゴルーグ",
+    "zh-Hans": "泥偶巨人"
+  }
+}

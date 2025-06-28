@@ -1,0 +1,18 @@
+{
+  "id": 354,
+  "sprite": "sprites/home/354.png",
+  "name_en": "banette",
+  "translations": {
+    "ja-Hrkt": "ジュペッタ",
+    "roomaji": "Juppeta",
+    "ko": "다크펫",
+    "zh-Hant": "詛咒娃娃",
+    "fr": "Branette",
+    "de": "Banette",
+    "es": "Banette",
+    "it": "Banette",
+    "en": "Banette",
+    "ja": "ジュペッタ",
+    "zh-Hans": "诅咒娃娃"
+  }
+}

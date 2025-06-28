@@ -1,0 +1,18 @@
+{
+  "id": 844,
+  "sprite": "sprites/home/844.png",
+  "name_en": "sandaconda",
+  "translations": {
+    "ja-Hrkt": "サダイジャ",
+    "roomaji": "Sadaija",
+    "ko": "사다이사",
+    "zh-Hant": "沙螺蟒",
+    "fr": "Dunaconda",
+    "de": "Sanaconda",
+    "es": "Sandaconda",
+    "it": "Sandaconda",
+    "en": "Sandaconda",
+    "ja": "サダイジャ",
+    "zh-Hans": "沙螺蟒"
+  }
+}

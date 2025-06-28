@@ -1,0 +1,18 @@
+{
+  "id": 765,
+  "sprite": "sprites/home/765.png",
+  "name_en": "oranguru",
+  "translations": {
+    "ja-Hrkt": "ヤレユータン",
+    "roomaji": "Yareyuutan",
+    "ko": "하랑우탄",
+    "zh-Hant": "智揮猩",
+    "fr": "Gouroutan",
+    "de": "Kommandutan",
+    "es": "Oranguru",
+    "it": "Oranguru",
+    "en": "Oranguru",
+    "ja": "ヤレユータン",
+    "zh-Hans": "智挥猩"
+  }
+}

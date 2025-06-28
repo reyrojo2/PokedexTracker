@@ -1,0 +1,18 @@
+{
+  "id": 85,
+  "sprite": "sprites/home/85.png",
+  "name_en": "dodrio",
+  "translations": {
+    "ja-Hrkt": "ドードリオ",
+    "roomaji": "Dodorio",
+    "ko": "두트리오",
+    "zh-Hant": "嘟嘟利",
+    "fr": "Dodrio",
+    "de": "Dodri",
+    "es": "Dodrio",
+    "it": "Dodrio",
+    "en": "Dodrio",
+    "ja": "ドードリオ",
+    "zh-Hans": "嘟嘟利"
+  }
+}

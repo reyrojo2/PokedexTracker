@@ -1,0 +1,18 @@
+{
+  "id": 25,
+  "sprite": "sprites/home/25.png",
+  "name_en": "pikachu",
+  "translations": {
+    "ja-Hrkt": "ピカチュウ",
+    "roomaji": "Pikachu",
+    "ko": "피카츄",
+    "zh-Hant": "皮卡丘",
+    "fr": "Pikachu",
+    "de": "Pikachu",
+    "es": "Pikachu",
+    "it": "Pikachu",
+    "en": "Pikachu",
+    "ja": "ピカチュウ",
+    "zh-Hans": "皮卡丘"
+  }
+}

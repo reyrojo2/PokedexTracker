@@ -1,0 +1,18 @@
+{
+  "id": 774,
+  "sprite": "sprites/home/774.png",
+  "name_en": "minior-red-meteor",
+  "translations": {
+    "ja-Hrkt": "メテノ",
+    "roomaji": "Meteno",
+    "ko": "메테노",
+    "zh-Hant": "小隕星",
+    "fr": "Météno",
+    "de": "Meteno",
+    "es": "Minior",
+    "it": "Minior",
+    "en": "Minior",
+    "ja": "メテノ",
+    "zh-Hans": "小陨星"
+  }
+}

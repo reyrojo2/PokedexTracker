@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "sprite": "sprites/home/102.png",
+  "name_en": "exeggcute",
+  "translations": {
+    "ja-Hrkt": "タマタマ",
+    "roomaji": "Tamatama",
+    "ko": "아라리",
+    "zh-Hant": "蛋蛋",
+    "fr": "Noeunoeuf",
+    "de": "Owei",
+    "es": "Exeggcute",
+    "it": "Exeggcute",
+    "en": "Exeggcute",
+    "ja": "タマタマ",
+    "zh-Hans": "蛋蛋"
+  }
+}

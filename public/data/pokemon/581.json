@@ -1,0 +1,18 @@
+{
+  "id": 581,
+  "sprite": "sprites/home/581.png",
+  "name_en": "swanna",
+  "translations": {
+    "ja-Hrkt": "スワンナ",
+    "roomaji": "Swanna",
+    "ko": "스완나",
+    "zh-Hant": "舞天鵝",
+    "fr": "Lakmécygne",
+    "de": "Swaroness",
+    "es": "Swanna",
+    "it": "Swanna",
+    "en": "Swanna",
+    "ja": "スワンナ",
+    "zh-Hans": "舞天鹅"
+  }
+}

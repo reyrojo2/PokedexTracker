@@ -1,0 +1,18 @@
+{
+  "id": 975,
+  "sprite": "sprites/home/975.png",
+  "name_en": "cetitan",
+  "translations": {
+    "ja-Hrkt": "ハルクジラ",
+    "roomaji": "Hulkujira",
+    "ko": "우락고래",
+    "zh-Hant": "浩大鯨",
+    "fr": "Balbalèze",
+    "de": "Kolowal",
+    "es": "Cetitan",
+    "it": "Cetitan",
+    "en": "Cetitan",
+    "ja": "ハルクジラ",
+    "zh-Hans": "浩大鲸"
+  }
+}

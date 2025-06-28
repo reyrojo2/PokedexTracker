@@ -1,0 +1,19 @@
+{
+  "id": 1065,
+  "sprite": "sprites/home/1065.png",
+  "name_en": "Hisuian Voltorb",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ビリリダマ",
+    "roomaji": "Biriridama",
+    "ko": "찌리리공",
+    "zh-Hant": "霹靂電球",
+    "fr": "Voltorbe",
+    "de": "Voltobal",
+    "es": "Voltorb",
+    "it": "Voltorb",
+    "en": "Voltorb",
+    "ja": "ビリリダマ",
+    "zh-Hans": "霹雳电球"
+  }
+}

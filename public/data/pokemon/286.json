@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "sprite": "sprites/home/286.png",
+  "name_en": "breloom",
+  "translations": {
+    "ja-Hrkt": "キノガッサ",
+    "roomaji": "Kinogassa",
+    "ko": "버섯모",
+    "zh-Hant": "斗笠菇",
+    "fr": "Chapignon",
+    "de": "Kapilz",
+    "es": "Breloom",
+    "it": "Breloom",
+    "en": "Breloom",
+    "ja": "キノガッサ",
+    "zh-Hans": "斗笠菇"
+  }
+}

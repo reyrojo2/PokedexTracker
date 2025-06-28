@@ -1,0 +1,18 @@
+{
+  "id": 204,
+  "sprite": "sprites/home/204.png",
+  "name_en": "pineco",
+  "translations": {
+    "ja-Hrkt": "クヌギダマ",
+    "roomaji": "Kunugidama",
+    "ko": "피콘",
+    "zh-Hant": "榛果球",
+    "fr": "Pomdepik",
+    "de": "Tannza",
+    "es": "Pineco",
+    "it": "Pineco",
+    "en": "Pineco",
+    "ja": "クヌギダマ",
+    "zh-Hans": "榛果球"
+  }
+}

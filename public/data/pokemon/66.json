@@ -1,0 +1,18 @@
+{
+  "id": 66,
+  "sprite": "sprites/home/66.png",
+  "name_en": "machop",
+  "translations": {
+    "ja-Hrkt": "ワンリキー",
+    "roomaji": "Wanriky",
+    "ko": "알통몬",
+    "zh-Hant": "腕力",
+    "fr": "Machoc",
+    "de": "Machollo",
+    "es": "Machop",
+    "it": "Machop",
+    "en": "Machop",
+    "ja": "ワンリキー",
+    "zh-Hans": "腕力"
+  }
+}

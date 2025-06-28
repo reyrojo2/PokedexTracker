@@ -1,0 +1,18 @@
+{
+  "id": 567,
+  "sprite": "sprites/home/567.png",
+  "name_en": "archeops",
+  "translations": {
+    "ja-Hrkt": "アーケオス",
+    "roomaji": "Archeos",
+    "ko": "아케오스",
+    "zh-Hant": "始祖大鳥",
+    "fr": "Aéroptéryx",
+    "de": "Aeropteryx",
+    "es": "Archeops",
+    "it": "Archeops",
+    "en": "Archeops",
+    "ja": "アーケオス",
+    "zh-Hans": "始祖大鸟"
+  }
+}

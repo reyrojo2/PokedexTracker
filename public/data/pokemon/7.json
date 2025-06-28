@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "sprite": "sprites/home/7.png",
+  "name_en": "squirtle",
+  "translations": {
+    "ja-Hrkt": "ゼニガメ",
+    "roomaji": "Zenigame",
+    "ko": "꼬부기",
+    "zh-Hant": "傑尼龜",
+    "fr": "Carapuce",
+    "de": "Schiggy",
+    "es": "Squirtle",
+    "it": "Squirtle",
+    "en": "Squirtle",
+    "ja": "ゼニガメ",
+    "zh-Hans": "杰尼龟"
+  }
+}

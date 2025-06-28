@@ -1,0 +1,18 @@
+{
+  "id": 111,
+  "sprite": "sprites/home/111.png",
+  "name_en": "rhyhorn",
+  "translations": {
+    "ja-Hrkt": "サイホーン",
+    "roomaji": "Sihorn",
+    "ko": "뿔카노",
+    "zh-Hant": "獨角犀牛",
+    "fr": "Rhinocorne",
+    "de": "Rihorn",
+    "es": "Rhyhorn",
+    "it": "Rhyhorn",
+    "en": "Rhyhorn",
+    "ja": "サイホーン",
+    "zh-Hans": "独角犀牛"
+  }
+}

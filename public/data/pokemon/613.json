@@ -1,0 +1,18 @@
+{
+  "id": 613,
+  "sprite": "sprites/home/613.png",
+  "name_en": "cubchoo",
+  "translations": {
+    "ja-Hrkt": "クマシュン",
+    "roomaji": "Kumasyun",
+    "ko": "코고미",
+    "zh-Hant": "噴嚏熊",
+    "fr": "Polarhume",
+    "de": "Petznief",
+    "es": "Cubchoo",
+    "it": "Cubchoo",
+    "en": "Cubchoo",
+    "ja": "クマシュン",
+    "zh-Hans": "喷嚏熊"
+  }
+}

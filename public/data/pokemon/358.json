@@ -1,0 +1,18 @@
+{
+  "id": 358,
+  "sprite": "sprites/home/358.png",
+  "name_en": "chimecho",
+  "translations": {
+    "ja-Hrkt": "チリーン",
+    "roomaji": "Chirean",
+    "ko": "치렁",
+    "zh-Hant": "風鈴鈴",
+    "fr": "Éoko",
+    "de": "Palimpalim",
+    "es": "Chimecho",
+    "it": "Chimecho",
+    "en": "Chimecho",
+    "ja": "チリーン",
+    "zh-Hans": "风铃铃"
+  }
+}

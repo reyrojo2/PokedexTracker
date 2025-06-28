@@ -1,0 +1,18 @@
+{
+  "id": 677,
+  "sprite": "sprites/home/677.png",
+  "name_en": "espurr",
+  "translations": {
+    "ja-Hrkt": "ニャスパー",
+    "roomaji": "Nyasper",
+    "ko": "냐스퍼",
+    "zh-Hant": "妙喵",
+    "fr": "Psystigri",
+    "de": "Psiau",
+    "es": "Espurr",
+    "it": "Espurr",
+    "en": "Espurr",
+    "ja": "ニャスパー",
+    "zh-Hans": "妙喵"
+  }
+}

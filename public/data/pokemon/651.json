@@ -1,0 +1,18 @@
+{
+  "id": 651,
+  "sprite": "sprites/home/651.png",
+  "name_en": "quilladin",
+  "translations": {
+    "ja-Hrkt": "ハリボーグ",
+    "roomaji": "Hariborg",
+    "ko": "도치보구",
+    "zh-Hant": "胖胖哈力",
+    "fr": "Boguérisse",
+    "de": "Igastarnish",
+    "es": "Quilladin",
+    "it": "Quilladin",
+    "en": "Quilladin",
+    "ja": "ハリボーグ",
+    "zh-Hans": "胖胖哈力"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 381,
+  "sprite": "sprites/home/381.png",
+  "name_en": "latios",
+  "translations": {
+    "ja-Hrkt": "ラティオス",
+    "roomaji": "Latios",
+    "ko": "라티오스",
+    "zh-Hant": "拉帝歐斯",
+    "fr": "Latios",
+    "de": "Latios",
+    "es": "Latios",
+    "it": "Latios",
+    "en": "Latios",
+    "ja": "ラティオス",
+    "zh-Hans": "拉帝欧斯"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 957,
+  "sprite": "sprites/home/957.png",
+  "name_en": "tinkatink",
+  "translations": {
+    "ja-Hrkt": "カヌチャン",
+    "roomaji": "Kanuchan",
+    "ko": "어리짱",
+    "zh-Hant": "小鍛匠",
+    "fr": "Forgerette",
+    "de": "Forgita",
+    "es": "Tinkatink",
+    "it": "Tinkatink",
+    "en": "Tinkatink",
+    "ja": "カヌチャン",
+    "zh-Hans": "小锻匠"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 820,
+  "sprite": "sprites/home/820.png",
+  "name_en": "greedent",
+  "translations": {
+    "ja-Hrkt": "ヨクバリス",
+    "roomaji": "Yokubarisu",
+    "ko": "요씽리스",
+    "zh-Hant": "藏飽栗鼠",
+    "fr": "Rongrigou",
+    "de": "Schlaraffel",
+    "es": "Greedent",
+    "it": "Greedent",
+    "en": "Greedent",
+    "ja": "ヨクバリス",
+    "zh-Hans": "藏饱栗鼠"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 828,
+  "sprite": "sprites/home/828.png",
+  "name_en": "thievul",
+  "translations": {
+    "ja-Hrkt": "フォクスライ",
+    "roomaji": "Foxly",
+    "ko": "폭슬라이",
+    "zh-Hant": "狐大盜",
+    "fr": "Roublenard",
+    "de": "Gaunux",
+    "es": "Thievul",
+    "it": "Thievul",
+    "en": "Thievul",
+    "ja": "フォクスライ",
+    "zh-Hans": "猾大狐"
+  }
+}

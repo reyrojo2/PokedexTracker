@@ -1,0 +1,18 @@
+{
+  "id": 91,
+  "sprite": "sprites/home/91.png",
+  "name_en": "cloyster",
+  "translations": {
+    "ja-Hrkt": "パルシェン",
+    "roomaji": "Parshen",
+    "ko": "파르셀",
+    "zh-Hant": "刺甲貝",
+    "fr": "Crustabri",
+    "de": "Austos",
+    "es": "Cloyster",
+    "it": "Cloyster",
+    "en": "Cloyster",
+    "ja": "パルシェン",
+    "zh-Hans": "刺甲贝"
+  }
+}

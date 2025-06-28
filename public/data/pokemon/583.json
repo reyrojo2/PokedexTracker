@@ -1,0 +1,18 @@
+{
+  "id": 583,
+  "sprite": "sprites/home/583.png",
+  "name_en": "vanillish",
+  "translations": {
+    "ja-Hrkt": "バニリッチ",
+    "roomaji": "Vanirich",
+    "ko": "바닐리치",
+    "zh-Hant": "多多冰",
+    "fr": "Sorboul",
+    "de": "Gelatroppo",
+    "es": "Vanillish",
+    "it": "Vanillish",
+    "en": "Vanillish",
+    "ja": "バニリッチ",
+    "zh-Hans": "多多冰"
+  }
+}

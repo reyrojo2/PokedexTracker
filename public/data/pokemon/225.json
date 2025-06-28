@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "sprite": "sprites/home/225.png",
+  "name_en": "delibird",
+  "translations": {
+    "ja-Hrkt": "デリバード",
+    "roomaji": "Delibird",
+    "ko": "딜리버드",
+    "zh-Hant": "信使鳥",
+    "fr": "Cadoizo",
+    "de": "Botogel",
+    "es": "Delibird",
+    "it": "Delibird",
+    "en": "Delibird",
+    "ja": "デリバード",
+    "zh-Hans": "信使鸟"
+  }
+}

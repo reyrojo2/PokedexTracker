@@ -1,0 +1,18 @@
+{
+  "id": 363,
+  "sprite": "sprites/home/363.png",
+  "name_en": "spheal",
+  "translations": {
+    "ja-Hrkt": "タマザラシ",
+    "roomaji": "Tamazarashi",
+    "ko": "대굴레오",
+    "zh-Hant": "海豹球",
+    "fr": "Obalie",
+    "de": "Seemops",
+    "es": "Spheal",
+    "it": "Spheal",
+    "en": "Spheal",
+    "ja": "タマザラシ",
+    "zh-Hans": "海豹球"
+  }
+}

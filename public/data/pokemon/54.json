@@ -1,0 +1,18 @@
+{
+  "id": 54,
+  "sprite": "sprites/home/54.png",
+  "name_en": "psyduck",
+  "translations": {
+    "ja-Hrkt": "コダック",
+    "roomaji": "Koduck",
+    "ko": "고라파덕",
+    "zh-Hant": "可達鴨",
+    "fr": "Psykokwak",
+    "de": "Enton",
+    "es": "Psyduck",
+    "it": "Psyduck",
+    "en": "Psyduck",
+    "ja": "コダック",
+    "zh-Hans": "可达鸭"
+  }
+}

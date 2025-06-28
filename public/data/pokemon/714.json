@@ -1,0 +1,18 @@
+{
+  "id": 714,
+  "sprite": "sprites/home/714.png",
+  "name_en": "noibat",
+  "translations": {
+    "ja-Hrkt": "オンバット",
+    "roomaji": "Onbat",
+    "ko": "음뱃",
+    "zh-Hant": "嗡蝠",
+    "fr": "Sonistrelle",
+    "de": "eF-eM",
+    "es": "Noibat",
+    "it": "Noibat",
+    "en": "Noibat",
+    "ja": "オンバット",
+    "zh-Hans": "嗡蝠"
+  }
+}

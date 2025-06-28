@@ -1,0 +1,18 @@
+{
+  "id": 331,
+  "sprite": "sprites/home/331.png",
+  "name_en": "cacnea",
+  "translations": {
+    "ja-Hrkt": "サボネア",
+    "roomaji": "Sabonea",
+    "ko": "선인왕",
+    "zh-Hant": "刺球仙人掌",
+    "fr": "Cacnea",
+    "de": "Tuska",
+    "es": "Cacnea",
+    "it": "Cacnea",
+    "en": "Cacnea",
+    "ja": "サボネア",
+    "zh-Hans": "刺球仙人掌"
+  }
+}

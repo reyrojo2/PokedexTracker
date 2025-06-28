@@ -1,0 +1,18 @@
+{
+  "id": 121,
+  "sprite": "sprites/home/121.png",
+  "name_en": "starmie",
+  "translations": {
+    "ja-Hrkt": "スターミー",
+    "roomaji": "Starmie",
+    "ko": "아쿠스타",
+    "zh-Hant": "寶石海星",
+    "fr": "Staross",
+    "de": "Starmie",
+    "es": "Starmie",
+    "it": "Starmie",
+    "en": "Starmie",
+    "ja": "スターミー",
+    "zh-Hans": "宝石海星"
+  }
+}

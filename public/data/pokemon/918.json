@@ -1,0 +1,18 @@
+{
+  "id": 918,
+  "sprite": "sprites/home/918.png",
+  "name_en": "spidops",
+  "translations": {
+    "ja-Hrkt": "ワナイダー",
+    "roomaji": "Wanaider",
+    "ko": "트래피더",
+    "zh-Hant": "操陷蛛",
+    "fr": "Filentrappe",
+    "de": "Spinsidias",
+    "es": "Spidops",
+    "it": "Spidops",
+    "en": "Spidops",
+    "ja": "ワナイダー",
+    "zh-Hans": "操陷蛛"
+  }
+}

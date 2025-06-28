@@ -1,0 +1,18 @@
+{
+  "id": 214,
+  "sprite": "sprites/home/214.png",
+  "name_en": "heracross",
+  "translations": {
+    "ja-Hrkt": "ヘラクロス",
+    "roomaji": "Heracros",
+    "ko": "헤라크로스",
+    "zh-Hant": "赫拉克羅斯",
+    "fr": "Scarhino",
+    "de": "Skaraborn",
+    "es": "Heracross",
+    "it": "Heracross",
+    "en": "Heracross",
+    "ja": "ヘラクロス",
+    "zh-Hans": "赫拉克罗斯"
+  }
+}

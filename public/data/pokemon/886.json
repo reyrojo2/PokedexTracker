@@ -1,0 +1,18 @@
+{
+  "id": 886,
+  "sprite": "sprites/home/886.png",
+  "name_en": "drakloak",
+  "translations": {
+    "ja-Hrkt": "ドロンチ",
+    "roomaji": "Doronch",
+    "ko": "드래런치",
+    "zh-Hant": "多龍奇",
+    "fr": "Dispareptil",
+    "de": "Phandra",
+    "es": "Drakloak",
+    "it": "Drakloak",
+    "en": "Drakloak",
+    "ja": "ドロンチ",
+    "zh-Hans": "多龙奇"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 644,
+  "sprite": "sprites/home/644.png",
+  "name_en": "zekrom",
+  "translations": {
+    "ja-Hrkt": "ゼクロム",
+    "roomaji": "Zekrom",
+    "ko": "제크로무",
+    "zh-Hant": "捷克羅姆",
+    "fr": "Zekrom",
+    "de": "Zekrom",
+    "es": "Zekrom",
+    "it": "Zekrom",
+    "en": "Zekrom",
+    "ja": "ゼクロム",
+    "zh-Hans": "捷克罗姆"
+  }
+}

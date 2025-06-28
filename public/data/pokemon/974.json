@@ -1,0 +1,18 @@
+{
+  "id": 974,
+  "sprite": "sprites/home/974.png",
+  "name_en": "cetoddle",
+  "translations": {
+    "ja-Hrkt": "アルクジラ",
+    "roomaji": "Arukujira",
+    "ko": "터벅고래",
+    "zh-Hant": "走鯨",
+    "fr": "Piétacé",
+    "de": "Flaniwal",
+    "es": "Cetoddle",
+    "it": "Cetoddle",
+    "en": "Cetoddle",
+    "ja": "アルクジラ",
+    "zh-Hans": "走鲸"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 333,
+  "sprite": "sprites/home/333.png",
+  "name_en": "swablu",
+  "translations": {
+    "ja-Hrkt": "チルット",
+    "roomaji": "Tyltto",
+    "ko": "파비코",
+    "zh-Hant": "青綿鳥",
+    "fr": "Tylton",
+    "de": "Wablu",
+    "es": "Swablu",
+    "it": "Swablu",
+    "en": "Swablu",
+    "ja": "チルット",
+    "zh-Hans": "青绵鸟"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "sprite": "sprites/home/72.png",
+  "name_en": "tentacool",
+  "translations": {
+    "ja-Hrkt": "メノクラゲ",
+    "roomaji": "Menokurage",
+    "ko": "왕눈해",
+    "zh-Hant": "瑪瑙水母",
+    "fr": "Tentacool",
+    "de": "Tentacha",
+    "es": "Tentacool",
+    "it": "Tentacool",
+    "en": "Tentacool",
+    "ja": "メノクラゲ",
+    "zh-Hans": "玛瑙水母"
+  }
+}

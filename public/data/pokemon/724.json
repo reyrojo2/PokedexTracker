@@ -1,0 +1,18 @@
+{
+  "id": 724,
+  "sprite": "sprites/home/724.png",
+  "name_en": "decidueye",
+  "translations": {
+    "ja-Hrkt": "ジュナイパー",
+    "roomaji": "Junaiper",
+    "ko": "모크나이퍼",
+    "zh-Hant": "狙射樹梟",
+    "fr": "Archéduc",
+    "de": "Silvarro",
+    "es": "Decidueye",
+    "it": "Decidueye",
+    "en": "Decidueye",
+    "ja": "ジュナイパー",
+    "zh-Hans": "狙射树枭"
+  }
+}

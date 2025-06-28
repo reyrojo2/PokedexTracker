@@ -1,0 +1,18 @@
+{
+  "id": 216,
+  "sprite": "sprites/home/216.png",
+  "name_en": "teddiursa",
+  "translations": {
+    "ja-Hrkt": "ヒメグマ",
+    "roomaji": "Himeguma",
+    "ko": "깜지곰",
+    "zh-Hant": "熊寶寶",
+    "fr": "Teddiursa",
+    "de": "Teddiursa",
+    "es": "Teddiursa",
+    "it": "Teddiursa",
+    "en": "Teddiursa",
+    "ja": "ヒメグマ",
+    "zh-Hans": "熊宝宝"
+  }
+}

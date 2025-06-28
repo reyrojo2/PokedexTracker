@@ -1,0 +1,19 @@
+{
+  "id": 1047,
+  "sprite": "sprites/home/1047.png",
+  "name_en": "Galarian Slowpoke",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ヤドン",
+    "roomaji": "Yadon",
+    "ko": "야돈",
+    "zh-Hant": "呆呆獸",
+    "fr": "Ramoloss",
+    "de": "Flegmon",
+    "es": "Slowpoke",
+    "it": "Slowpoke",
+    "en": "Slowpoke",
+    "ja": "ヤドン",
+    "zh-Hans": "呆呆兽"
+  }
+}

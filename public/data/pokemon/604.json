@@ -1,0 +1,18 @@
+{
+  "id": 604,
+  "sprite": "sprites/home/604.png",
+  "name_en": "eelektross",
+  "translations": {
+    "ja-Hrkt": "シビルドン",
+    "roomaji": "Shibirudon",
+    "ko": "저리더프",
+    "zh-Hant": "麻麻鰻魚王",
+    "fr": "Ohmassacre",
+    "de": "Zapplarang",
+    "es": "Eelektross",
+    "it": "Eelektross",
+    "en": "Eelektross",
+    "ja": "シビルドン",
+    "zh-Hans": "麻麻鳗鱼王"
+  }
+}

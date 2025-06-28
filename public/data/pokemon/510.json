@@ -1,0 +1,18 @@
+{
+  "id": 510,
+  "sprite": "sprites/home/510.png",
+  "name_en": "liepard",
+  "translations": {
+    "ja-Hrkt": "レパルダス",
+    "roomaji": "Lepardas",
+    "ko": "레파르다스",
+    "zh-Hant": "酷豹",
+    "fr": "Léopardus",
+    "de": "Kleoparda",
+    "es": "Liepard",
+    "it": "Liepard",
+    "en": "Liepard",
+    "ja": "レパルダス",
+    "zh-Hans": "酷豹"
+  }
+}

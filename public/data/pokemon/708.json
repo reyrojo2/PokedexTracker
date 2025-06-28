@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "sprite": "sprites/home/708.png",
+  "name_en": "phantump",
+  "translations": {
+    "ja-Hrkt": "ボクレー",
+    "roomaji": "Bokurei",
+    "ko": "나목령",
+    "zh-Hant": "小木靈",
+    "fr": "Brocélôme",
+    "de": "Paragoni",
+    "es": "Phantump",
+    "it": "Phantump",
+    "en": "Phantump",
+    "ja": "ボクレー",
+    "zh-Hans": "小木灵"
+  }
+}

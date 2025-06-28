@@ -1,0 +1,18 @@
+{
+  "id": 264,
+  "sprite": "sprites/home/264.png",
+  "name_en": "linoone",
+  "translations": {
+    "ja-Hrkt": "マッスグマ",
+    "roomaji": "Massuguma",
+    "ko": "직구리",
+    "zh-Hant": "直衝熊",
+    "fr": "Linéon",
+    "de": "Geradaks",
+    "es": "Linoone",
+    "it": "Linoone",
+    "en": "Linoone",
+    "ja": "マッスグマ",
+    "zh-Hans": "直冲熊"
+  }
+}

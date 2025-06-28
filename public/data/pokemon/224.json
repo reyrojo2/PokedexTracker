@@ -1,0 +1,18 @@
+{
+  "id": 224,
+  "sprite": "sprites/home/224.png",
+  "name_en": "octillery",
+  "translations": {
+    "ja-Hrkt": "オクタン",
+    "roomaji": "Okutank",
+    "ko": "대포무노",
+    "zh-Hant": "章魚桶",
+    "fr": "Octillery",
+    "de": "Octillery",
+    "es": "Octillery",
+    "it": "Octillery",
+    "en": "Octillery",
+    "ja": "オクタン",
+    "zh-Hans": "章鱼桶"
+  }
+}

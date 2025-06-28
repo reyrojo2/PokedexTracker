@@ -1,0 +1,18 @@
+{
+  "id": 684,
+  "sprite": "sprites/home/684.png",
+  "name_en": "swirlix",
+  "translations": {
+    "ja-Hrkt": "ペロッパフ",
+    "roomaji": "Peroppafu",
+    "ko": "나룸퍼프",
+    "zh-Hant": "綿綿泡芙",
+    "fr": "Sucroquin",
+    "de": "Flauschling",
+    "es": "Swirlix",
+    "it": "Swirlix",
+    "en": "Swirlix",
+    "ja": "ペロッパフ",
+    "zh-Hans": "绵绵泡芙"
+  }
+}

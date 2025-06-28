@@ -1,0 +1,18 @@
+{
+  "id": 409,
+  "sprite": "sprites/home/409.png",
+  "name_en": "rampardos",
+  "translations": {
+    "ja-Hrkt": "ラムパルド",
+    "roomaji": "Rampard",
+    "ko": "램펄드",
+    "zh-Hant": "戰槌龍",
+    "fr": "Charkos",
+    "de": "Rameidon",
+    "es": "Rampardos",
+    "it": "Rampardos",
+    "en": "Rampardos",
+    "ja": "ラムパルド",
+    "zh-Hans": "战槌龙"
+  }
+}

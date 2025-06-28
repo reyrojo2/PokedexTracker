@@ -1,0 +1,18 @@
+{
+  "id": 806,
+  "sprite": "sprites/home/806.png",
+  "name_en": "blacephalon",
+  "translations": {
+    "ja-Hrkt": "ズガドーン",
+    "roomaji": "Zugadoon",
+    "ko": "두파팡",
+    "zh-Hant": "砰頭小丑",
+    "fr": "Pierroteknik",
+    "de": "Kopplosio",
+    "es": "Blacephalon",
+    "it": "Blacephalon",
+    "en": "Blacephalon",
+    "ja": "ズガドーン",
+    "zh-Hans": "砰头小丑"
+  }
+}

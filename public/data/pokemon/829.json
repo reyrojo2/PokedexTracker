@@ -1,0 +1,18 @@
+{
+  "id": 829,
+  "sprite": "sprites/home/829.png",
+  "name_en": "gossifleur",
+  "translations": {
+    "ja-Hrkt": "ヒメンカ",
+    "roomaji": "Himenka",
+    "ko": "꼬모카",
+    "zh-Hant": "幼棉棉",
+    "fr": "Tournicoton",
+    "de": "Cottini",
+    "es": "Gossifleur",
+    "it": "Gossifleur",
+    "en": "Gossifleur",
+    "ja": "ヒメンカ",
+    "zh-Hans": "幼棉棉"
+  }
+}

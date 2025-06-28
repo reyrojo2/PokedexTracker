@@ -1,0 +1,18 @@
+{
+  "id": 934,
+  "sprite": "sprites/home/934.png",
+  "name_en": "garganacl",
+  "translations": {
+    "ja-Hrkt": "キョジオーン",
+    "roomaji": "Kyojiohn",
+    "ko": "콜로솔트",
+    "zh-Hant": "鹽石巨靈",
+    "fr": "Gigansel",
+    "de": "Saltigant",
+    "es": "Garganacl",
+    "it": "Garganacl",
+    "en": "Garganacl",
+    "ja": "キョジオーン",
+    "zh-Hans": "盐石巨灵"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 502,
+  "sprite": "sprites/home/502.png",
+  "name_en": "dewott",
+  "translations": {
+    "ja-Hrkt": "フタチマル",
+    "roomaji": "Futachimaru",
+    "ko": "쌍검자비",
+    "zh-Hant": "雙刃丸",
+    "fr": "Mateloutre",
+    "de": "Zwottronin",
+    "es": "Dewott",
+    "it": "Dewott",
+    "en": "Dewott",
+    "ja": "フタチマル",
+    "zh-Hans": "双刃丸"
+  }
+}

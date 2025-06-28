@@ -1,0 +1,18 @@
+{
+  "id": 624,
+  "sprite": "sprites/home/624.png",
+  "name_en": "pawniard",
+  "translations": {
+    "ja-Hrkt": "コマタナ",
+    "roomaji": "Komatana",
+    "ko": "자망칼",
+    "zh-Hant": "駒刀小兵",
+    "fr": "Scalpion",
+    "de": "Gladiantri",
+    "es": "Pawniard",
+    "it": "Pawniard",
+    "en": "Pawniard",
+    "ja": "コマタナ",
+    "zh-Hans": "驹刀小兵"
+  }
+}

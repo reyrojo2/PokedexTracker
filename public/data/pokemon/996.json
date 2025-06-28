@@ -1,0 +1,18 @@
+{
+  "id": 996,
+  "sprite": "sprites/home/996.png",
+  "name_en": "frigibax",
+  "translations": {
+    "ja-Hrkt": "セビエ",
+    "roomaji": "Sebie",
+    "ko": "드니차",
+    "zh-Hant": "涼脊龍",
+    "fr": "Frigodo",
+    "de": "Frospino",
+    "es": "Frigibax",
+    "it": "Frigibax",
+    "en": "Frigibax",
+    "ja": "セビエ",
+    "zh-Hans": "凉脊龙"
+  }
+}

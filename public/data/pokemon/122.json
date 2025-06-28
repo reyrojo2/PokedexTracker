@@ -1,0 +1,18 @@
+{
+  "id": 122,
+  "sprite": "sprites/home/122.png",
+  "name_en": "mr-mime",
+  "translations": {
+    "ja-Hrkt": "バリヤード",
+    "roomaji": "Barrierd",
+    "ko": "마임맨",
+    "zh-Hant": "魔牆人偶",
+    "fr": "M. Mime",
+    "de": "Pantimos",
+    "es": "Mr. Mime",
+    "it": "Mr. Mime",
+    "en": "Mr. Mime",
+    "ja": "バリヤード",
+    "zh-Hans": "魔墙人偶"
+  }
+}

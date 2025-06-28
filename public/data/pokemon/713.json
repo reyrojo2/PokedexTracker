@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "sprite": "sprites/home/713.png",
+  "name_en": "avalugg",
+  "translations": {
+    "ja-Hrkt": "クレベース",
+    "roomaji": "Crebase",
+    "ko": "크레베이스",
+    "zh-Hant": "冰岩怪",
+    "fr": "Séracrawl",
+    "de": "Arktilas",
+    "es": "Avalugg",
+    "it": "Avalugg",
+    "en": "Avalugg",
+    "ja": "クレベース",
+    "zh-Hans": "冰岩怪"
+  }
+}

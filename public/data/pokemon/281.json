@@ -1,0 +1,18 @@
+{
+  "id": 281,
+  "sprite": "sprites/home/281.png",
+  "name_en": "kirlia",
+  "translations": {
+    "ja-Hrkt": "キルリア",
+    "roomaji": "Kirlia",
+    "ko": "킬리아",
+    "zh-Hant": "奇魯莉安",
+    "fr": "Kirlia",
+    "de": "Kirlia",
+    "es": "Kirlia",
+    "it": "Kirlia",
+    "en": "Kirlia",
+    "ja": "キルリア",
+    "zh-Hans": "奇鲁莉安"
+  }
+}

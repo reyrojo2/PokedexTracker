@@ -1,0 +1,18 @@
+{
+  "id": 600,
+  "sprite": "sprites/home/600.png",
+  "name_en": "klang",
+  "translations": {
+    "ja-Hrkt": "ギギアル",
+    "roomaji": "Gigiaru",
+    "ko": "기기어르",
+    "zh-Hant": "齒輪組",
+    "fr": "Clic",
+    "de": "Kliklak",
+    "es": "Klang",
+    "it": "Klang",
+    "en": "Klang",
+    "ja": "ギギアル",
+    "zh-Hans": "齿轮组"
+  }
+}

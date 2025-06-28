@@ -1,0 +1,18 @@
+{
+  "id": 261,
+  "sprite": "sprites/home/261.png",
+  "name_en": "poochyena",
+  "translations": {
+    "ja-Hrkt": "ポチエナ",
+    "roomaji": "Pochiena",
+    "ko": "포챠나",
+    "zh-Hant": "土狼犬",
+    "fr": "Medhyèna",
+    "de": "Fiffyen",
+    "es": "Poochyena",
+    "it": "Poochyena",
+    "en": "Poochyena",
+    "ja": "ポチエナ",
+    "zh-Hans": "土狼犬"
+  }
+}

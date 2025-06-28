@@ -1,0 +1,18 @@
+{
+  "id": 495,
+  "sprite": "sprites/home/495.png",
+  "name_en": "snivy",
+  "translations": {
+    "ja-Hrkt": "ツタージャ",
+    "roomaji": "Tsutarja",
+    "ko": "주리비얀",
+    "zh-Hant": "藤藤蛇",
+    "fr": "Vipélierre",
+    "de": "Serpifeu",
+    "es": "Snivy",
+    "it": "Snivy",
+    "en": "Snivy",
+    "ja": "ツタージャ",
+    "zh-Hans": "藤藤蛇"
+  }
+}

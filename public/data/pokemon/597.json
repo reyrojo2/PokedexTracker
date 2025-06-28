@@ -1,0 +1,18 @@
+{
+  "id": 597,
+  "sprite": "sprites/home/597.png",
+  "name_en": "ferroseed",
+  "translations": {
+    "ja-Hrkt": "テッシード",
+    "roomaji": "Tesseed",
+    "ko": "철시드",
+    "zh-Hant": "種子鐵球",
+    "fr": "Grindur",
+    "de": "Kastadur",
+    "es": "Ferroseed",
+    "it": "Ferroseed",
+    "en": "Ferroseed",
+    "ja": "テッシード",
+    "zh-Hans": "种子铁球"
+  }
+}

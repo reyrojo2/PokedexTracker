@@ -1,0 +1,18 @@
+{
+  "id": 167,
+  "sprite": "sprites/home/167.png",
+  "name_en": "spinarak",
+  "translations": {
+    "ja-Hrkt": "イトマル",
+    "roomaji": "Itomaru",
+    "ko": "페이검",
+    "zh-Hant": "圓絲蛛",
+    "fr": "Mimigal",
+    "de": "Webarak",
+    "es": "Spinarak",
+    "it": "Spinarak",
+    "en": "Spinarak",
+    "ja": "イトマル",
+    "zh-Hans": "圆丝蛛"
+  }
+}

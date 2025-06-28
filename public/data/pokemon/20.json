@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "sprite": "sprites/home/20.png",
+  "name_en": "raticate",
+  "translations": {
+    "ja-Hrkt": "ラッタ",
+    "roomaji": "Ratta",
+    "ko": "레트라",
+    "zh-Hant": "拉達",
+    "fr": "Rattatac",
+    "de": "Rattikarl",
+    "es": "Raticate",
+    "it": "Raticate",
+    "en": "Raticate",
+    "ja": "ラッタ",
+    "zh-Hans": "拉达"
+  }
+}

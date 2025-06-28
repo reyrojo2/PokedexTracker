@@ -1,0 +1,19 @@
+{
+  "id": 1056,
+  "sprite": "sprites/home/1056.png",
+  "name_en": "Galarian Corsola",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "サニーゴ",
+    "roomaji": "Sunnygo",
+    "ko": "코산호",
+    "zh-Hant": "太陽珊瑚",
+    "fr": "Corayon",
+    "de": "Corasonn",
+    "es": "Corsola",
+    "it": "Corsola",
+    "en": "Corsola",
+    "ja": "サニーゴ",
+    "zh-Hans": "太阳珊瑚"
+  }
+}

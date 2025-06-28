@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "sprite": "sprites/home/305.png",
+  "name_en": "lairon",
+  "translations": {
+    "ja-Hrkt": "コドラ",
+    "roomaji": "Kodora",
+    "ko": "갱도라",
+    "zh-Hant": "可多拉",
+    "fr": "Galegon",
+    "de": "Stollrak",
+    "es": "Lairon",
+    "it": "Lairon",
+    "en": "Lairon",
+    "ja": "コドラ",
+    "zh-Hans": "可多拉"
+  }
+}

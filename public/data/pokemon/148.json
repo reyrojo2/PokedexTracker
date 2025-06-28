@@ -1,0 +1,18 @@
+{
+  "id": 148,
+  "sprite": "sprites/home/148.png",
+  "name_en": "dragonair",
+  "translations": {
+    "ja-Hrkt": "ハクリュー",
+    "roomaji": "Hakuryu",
+    "ko": "신뇽",
+    "zh-Hant": "哈克龍",
+    "fr": "Draco",
+    "de": "Dragonir",
+    "es": "Dragonair",
+    "it": "Dragonair",
+    "en": "Dragonair",
+    "ja": "ハクリュー",
+    "zh-Hans": "哈克龙"
+  }
+}

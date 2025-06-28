@@ -1,0 +1,18 @@
+{
+  "id": 233,
+  "sprite": "sprites/home/233.png",
+  "name_en": "porygon2",
+  "translations": {
+    "ja-Hrkt": "ポリゴン２",
+    "roomaji": "Porygon2",
+    "ko": "폴리곤2",
+    "zh-Hant": "多邊獸Ⅱ",
+    "fr": "Porygon2",
+    "de": "Porygon2",
+    "es": "Porygon2",
+    "it": "Porygon2",
+    "en": "Porygon2",
+    "ja": "ポリゴン２",
+    "zh-Hans": "多边兽２型"
+  }
+}

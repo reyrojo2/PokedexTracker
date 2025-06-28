@@ -1,0 +1,18 @@
+{
+  "id": 964,
+  "sprite": "sprites/home/964.png",
+  "name_en": "palafin-zero",
+  "translations": {
+    "ja-Hrkt": "イルカマン",
+    "roomaji": "Irukaman",
+    "ko": "돌핀맨",
+    "zh-Hant": "海豚俠",
+    "fr": "Superdofin",
+    "de": "Delfinator",
+    "es": "Palafin",
+    "it": "Palafin",
+    "en": "Palafin",
+    "ja": "イルカマン",
+    "zh-Hans": "海豚侠"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 257,
+  "sprite": "sprites/home/257.png",
+  "name_en": "blaziken",
+  "translations": {
+    "ja-Hrkt": "バシャーモ",
+    "roomaji": "Bursyamo",
+    "ko": "번치코",
+    "zh-Hant": "火焰雞",
+    "fr": "Braségali",
+    "de": "Lohgock",
+    "es": "Blaziken",
+    "it": "Blaziken",
+    "en": "Blaziken",
+    "ja": "バシャーモ",
+    "zh-Hans": "火焰鸡"
+  }
+}

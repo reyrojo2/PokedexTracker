@@ -1,0 +1,18 @@
+{
+  "id": 344,
+  "sprite": "sprites/home/344.png",
+  "name_en": "claydol",
+  "translations": {
+    "ja-Hrkt": "ネンドール",
+    "roomaji": "Nendoll",
+    "ko": "점토도리",
+    "zh-Hant": "念力土偶",
+    "fr": "Kaorine",
+    "de": "Lepumentas",
+    "es": "Claydol",
+    "it": "Claydol",
+    "en": "Claydol",
+    "ja": "ネンドール",
+    "zh-Hans": "念力土偶"
+  }
+}

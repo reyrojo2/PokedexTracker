@@ -1,0 +1,18 @@
+{
+  "id": 942,
+  "sprite": "sprites/home/942.png",
+  "name_en": "maschiff",
+  "translations": {
+    "ja-Hrkt": "オラチフ",
+    "roomaji": "Orachifu",
+    "ko": "오라티프",
+    "zh-Hant": "偶叫獒",
+    "fr": "Grondogue",
+    "de": "Mobtiff",
+    "es": "Maschiff",
+    "it": "Maschiff",
+    "en": "Maschiff",
+    "ja": "オラチフ",
+    "zh-Hans": "偶叫獒"
+  }
+}

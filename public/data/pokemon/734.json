@@ -1,0 +1,18 @@
+{
+  "id": 734,
+  "sprite": "sprites/home/734.png",
+  "name_en": "yungoos",
+  "translations": {
+    "ja-Hrkt": "ヤングース",
+    "roomaji": "Youngoose",
+    "ko": "영구스",
+    "zh-Hant": "貓鼬少",
+    "fr": "Manglouton",
+    "de": "Mangunior",
+    "es": "Yungoos",
+    "it": "Yungoos",
+    "en": "Yungoos",
+    "ja": "ヤングース",
+    "zh-Hans": "猫鼬少"
+  }
+}

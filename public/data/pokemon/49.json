@@ -1,0 +1,18 @@
+{
+  "id": 49,
+  "sprite": "sprites/home/49.png",
+  "name_en": "venomoth",
+  "translations": {
+    "ja-Hrkt": "モルフォン",
+    "roomaji": "Morphon",
+    "ko": "도나리",
+    "zh-Hant": "摩魯蛾",
+    "fr": "Aéromite",
+    "de": "Omot",
+    "es": "Venomoth",
+    "it": "Venomoth",
+    "en": "Venomoth",
+    "ja": "モルフォン",
+    "zh-Hans": "摩鲁蛾"
+  }
+}

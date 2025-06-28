@@ -1,0 +1,18 @@
+{
+  "id": 922,
+  "sprite": "sprites/home/922.png",
+  "name_en": "pawmo",
+  "translations": {
+    "ja-Hrkt": "パモット",
+    "roomaji": "Pamot",
+    "ko": "빠모트",
+    "zh-Hant": "布土撥",
+    "fr": "Pohmotte",
+    "de": "Pamamo",
+    "es": "Pawmo",
+    "it": "Pawmo",
+    "en": "Pawmo",
+    "ja": "パモット",
+    "zh-Hans": "布土拨"
+  }
+}

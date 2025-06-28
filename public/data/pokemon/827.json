@@ -1,0 +1,18 @@
+{
+  "id": 827,
+  "sprite": "sprites/home/827.png",
+  "name_en": "nickit",
+  "translations": {
+    "ja-Hrkt": "クスネ",
+    "roomaji": "Kusune",
+    "ko": "훔처우",
+    "zh-Hant": "偷兒狐",
+    "fr": "Goupilou",
+    "de": "Kleptifux",
+    "es": "Nickit",
+    "it": "Nickit",
+    "en": "Nickit",
+    "ja": "クスネ",
+    "zh-Hans": "狡小狐"
+  }
+}

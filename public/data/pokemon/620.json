@@ -1,0 +1,18 @@
+{
+  "id": 620,
+  "sprite": "sprites/home/620.png",
+  "name_en": "mienshao",
+  "translations": {
+    "ja-Hrkt": "コジョンド",
+    "roomaji": "Kojondo",
+    "ko": "비조도",
+    "zh-Hant": "師父鼬",
+    "fr": "Shaofouine",
+    "de": "Wie-Shu",
+    "es": "Mienshao",
+    "it": "Mienshao",
+    "en": "Mienshao",
+    "ja": "コジョンド",
+    "zh-Hans": "师父鼬"
+  }
+}

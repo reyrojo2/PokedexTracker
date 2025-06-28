@@ -1,0 +1,18 @@
+{
+  "id": 722,
+  "sprite": "sprites/home/722.png",
+  "name_en": "rowlet",
+  "translations": {
+    "ja-Hrkt": "モクロー",
+    "roomaji": "Mokuroh",
+    "ko": "나몰빼미",
+    "zh-Hant": "木木梟",
+    "fr": "Brindibou",
+    "de": "Bauz",
+    "es": "Rowlet",
+    "it": "Rowlet",
+    "en": "Rowlet",
+    "ja": "モクロー",
+    "zh-Hans": "木木枭"
+  }
+}

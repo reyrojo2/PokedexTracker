@@ -1,0 +1,19 @@
+{
+  "id": 1051,
+  "sprite": "sprites/home/1051.png",
+  "name_en": "Galarian Weezing",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "マタドガス",
+    "roomaji": "Matadogas",
+    "ko": "또도가스",
+    "zh-Hant": "雙彈瓦斯",
+    "fr": "Smogogo",
+    "de": "Smogmog",
+    "es": "Weezing",
+    "it": "Weezing",
+    "en": "Weezing",
+    "ja": "マタドガス",
+    "zh-Hans": "双弹瓦斯"
+  }
+}

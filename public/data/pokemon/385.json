@@ -1,0 +1,18 @@
+{
+  "id": 385,
+  "sprite": "sprites/home/385.png",
+  "name_en": "jirachi",
+  "translations": {
+    "ja-Hrkt": "ジラーチ",
+    "roomaji": "Jirachi",
+    "ko": "지라치",
+    "zh-Hant": "基拉祈",
+    "fr": "Jirachi",
+    "de": "Jirachi",
+    "es": "Jirachi",
+    "it": "Jirachi",
+    "en": "Jirachi",
+    "ja": "ジラーチ",
+    "zh-Hans": "基拉祈"
+  }
+}

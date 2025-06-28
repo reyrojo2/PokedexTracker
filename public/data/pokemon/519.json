@@ -1,0 +1,18 @@
+{
+  "id": 519,
+  "sprite": "sprites/home/519.png",
+  "name_en": "pidove",
+  "translations": {
+    "ja-Hrkt": "マメパト",
+    "roomaji": "Mamepato",
+    "ko": "콩둘기",
+    "zh-Hant": "豆豆鴿",
+    "fr": "Poichigeon",
+    "de": "Dusselgurr",
+    "es": "Pidove",
+    "it": "Pidove",
+    "en": "Pidove",
+    "ja": "マメパト",
+    "zh-Hans": "豆豆鸽"
+  }
+}

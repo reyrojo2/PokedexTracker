@@ -1,0 +1,18 @@
+{
+  "id": 561,
+  "sprite": "sprites/home/561.png",
+  "name_en": "sigilyph",
+  "translations": {
+    "ja-Hrkt": "シンボラー",
+    "roomaji": "Symboler",
+    "ko": "심보러",
+    "zh-Hant": "象徵鳥",
+    "fr": "Cryptéro",
+    "de": "Symvolara",
+    "es": "Sigilyph",
+    "it": "Sigilyph",
+    "en": "Sigilyph",
+    "ja": "シンボラー",
+    "zh-Hans": "象征鸟"
+  }
+}

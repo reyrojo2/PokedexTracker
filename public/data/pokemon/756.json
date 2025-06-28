@@ -1,0 +1,18 @@
+{
+  "id": 756,
+  "sprite": "sprites/home/756.png",
+  "name_en": "shiinotic",
+  "translations": {
+    "ja-Hrkt": "マシェード",
+    "roomaji": "Mashade",
+    "ko": "마셰이드",
+    "zh-Hant": "燈罩夜菇",
+    "fr": "Lampignon",
+    "de": "Lamellux",
+    "es": "Shiinotic",
+    "it": "Shiinotic",
+    "en": "Shiinotic",
+    "ja": "マシェード",
+    "zh-Hans": "灯罩夜菇"
+  }
+}

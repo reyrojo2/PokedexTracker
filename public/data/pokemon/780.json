@@ -1,0 +1,18 @@
+{
+  "id": 780,
+  "sprite": "sprites/home/780.png",
+  "name_en": "drampa",
+  "translations": {
+    "ja-Hrkt": "ジジーロン",
+    "roomaji": "Jijilong",
+    "ko": "할비롱",
+    "zh-Hant": "老翁龍",
+    "fr": "Draïeul",
+    "de": "Sen-Long",
+    "es": "Drampa",
+    "it": "Drampa",
+    "en": "Drampa",
+    "ja": "ジジーロン",
+    "zh-Hans": "老翁龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 289,
+  "sprite": "sprites/home/289.png",
+  "name_en": "slaking",
+  "translations": {
+    "ja-Hrkt": "ケッキング",
+    "roomaji": "Kekking",
+    "ko": "게을킹",
+    "zh-Hant": "請假王",
+    "fr": "Monaflèmit",
+    "de": "Letarking",
+    "es": "Slaking",
+    "it": "Slaking",
+    "en": "Slaking",
+    "ja": "ケッキング",
+    "zh-Hans": "请假王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 507,
+  "sprite": "sprites/home/507.png",
+  "name_en": "herdier",
+  "translations": {
+    "ja-Hrkt": "ハーデリア",
+    "roomaji": "Herderrie",
+    "ko": "하데리어",
+    "zh-Hant": "哈約克",
+    "fr": "Ponchien",
+    "de": "Terribark",
+    "es": "Herdier",
+    "it": "Herdier",
+    "en": "Herdier",
+    "ja": "ハーデリア",
+    "zh-Hans": "哈约克"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 573,
+  "sprite": "sprites/home/573.png",
+  "name_en": "cinccino",
+  "translations": {
+    "ja-Hrkt": "チラチーノ",
+    "roomaji": "Chillaccino",
+    "ko": "치라치노",
+    "zh-Hant": "奇諾栗鼠",
+    "fr": "Pashmilla",
+    "de": "Chillabell",
+    "es": "Cinccino",
+    "it": "Cinccino",
+    "en": "Cinccino",
+    "ja": "チラチーノ",
+    "zh-Hans": "奇诺栗鼠"
+  }
+}

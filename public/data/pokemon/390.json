@@ -1,0 +1,18 @@
+{
+  "id": 390,
+  "sprite": "sprites/home/390.png",
+  "name_en": "chimchar",
+  "translations": {
+    "ja-Hrkt": "ヒコザル",
+    "roomaji": "Hikozaru",
+    "ko": "불꽃숭이",
+    "zh-Hant": "小火焰猴",
+    "fr": "Ouisticram",
+    "de": "Panflam",
+    "es": "Chimchar",
+    "it": "Chimchar",
+    "en": "Chimchar",
+    "ja": "ヒコザル",
+    "zh-Hans": "小火焰猴"
+  }
+}

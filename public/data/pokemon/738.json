@@ -1,0 +1,18 @@
+{
+  "id": 738,
+  "sprite": "sprites/home/738.png",
+  "name_en": "vikavolt",
+  "translations": {
+    "ja-Hrkt": "クワガノン",
+    "roomaji": "Kuwagannon",
+    "ko": "투구뿌논",
+    "zh-Hant": "鍬農炮蟲",
+    "fr": "Lucanon",
+    "de": "Donarion",
+    "es": "Vikavolt",
+    "it": "Vikavolt",
+    "en": "Vikavolt",
+    "ja": "クワガノン",
+    "zh-Hans": "锹农炮虫"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 76,
+  "sprite": "sprites/home/76.png",
+  "name_en": "golem",
+  "translations": {
+    "ja-Hrkt": "ゴローニャ",
+    "roomaji": "Golonya",
+    "ko": "딱구리",
+    "zh-Hant": "隆隆岩",
+    "fr": "Grolem",
+    "de": "Geowaz",
+    "es": "Golem",
+    "it": "Golem",
+    "en": "Golem",
+    "ja": "ゴローニャ",
+    "zh-Hans": "隆隆岩"
+  }
+}

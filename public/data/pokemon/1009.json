@@ -1,0 +1,18 @@
+{
+  "id": 1009,
+  "sprite": "sprites/home/1009.png",
+  "name_en": "walking-wake",
+  "translations": {
+    "ja-Hrkt": "ウネルミナモ",
+    "roomaji": "Uneruminamo",
+    "ko": "굽이치는물결",
+    "zh-Hant": "波盪水",
+    "fr": "Serpente-Eau",
+    "de": "Windewoge",
+    "es": "Ondulagua",
+    "it": "Acquecrespe",
+    "en": "Walking Wake",
+    "ja": "ウネルミナモ",
+    "zh-Hans": "波荡水"
+  }
+}

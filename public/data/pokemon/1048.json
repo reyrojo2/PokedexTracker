@@ -1,0 +1,19 @@
+{
+  "id": 1048,
+  "sprite": "sprites/home/1048.png",
+  "name_en": "Galarian Slowbro",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ヤドラン",
+    "roomaji": "Yadoran",
+    "ko": "야도란",
+    "zh-Hant": "呆殼獸",
+    "fr": "Flagadoss",
+    "de": "Lahmus",
+    "es": "Slowbro",
+    "it": "Slowbro",
+    "en": "Slowbro",
+    "ja": "ヤドラン",
+    "zh-Hans": "呆壳兽"
+  }
+}

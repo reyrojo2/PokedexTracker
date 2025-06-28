@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "sprite": "sprites/home/884.png",
+  "name_en": "duraludon",
+  "translations": {
+    "ja-Hrkt": "ジュラルドン",
+    "roomaji": "Duraludon",
+    "ko": "두랄루돈",
+    "zh-Hant": "鋁鋼龍",
+    "fr": "Duralugon",
+    "de": "Duraludon",
+    "es": "Duraludon",
+    "it": "Duraludon",
+    "en": "Duraludon",
+    "ja": "ジュラルドン",
+    "zh-Hans": "铝钢龙"
+  }
+}

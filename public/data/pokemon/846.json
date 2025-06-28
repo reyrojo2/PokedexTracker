@@ -1,0 +1,18 @@
+{
+  "id": 846,
+  "sprite": "sprites/home/846.png",
+  "name_en": "arrokuda",
+  "translations": {
+    "ja-Hrkt": "サシカマス",
+    "roomaji": "Sasikamasu",
+    "ko": "찌로꼬치",
+    "zh-Hant": "刺梭魚",
+    "fr": "Embrochet",
+    "de": "Pikuda",
+    "es": "Arrokuda",
+    "it": "Arrokuda",
+    "en": "Arrokuda",
+    "ja": "サシカマス",
+    "zh-Hans": "刺梭鱼"
+  }
+}

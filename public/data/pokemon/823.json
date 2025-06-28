@@ -1,0 +1,18 @@
+{
+  "id": 823,
+  "sprite": "sprites/home/823.png",
+  "name_en": "corviknight",
+  "translations": {
+    "ja-Hrkt": "アーマーガア",
+    "roomaji": "Armorga",
+    "ko": "아머까오",
+    "zh-Hant": "鋼鎧鴉",
+    "fr": "Corvaillus",
+    "de": "Krarmor",
+    "es": "Corviknight",
+    "it": "Corviknight",
+    "en": "Corviknight",
+    "ja": "アーマーガア",
+    "zh-Hans": "钢铠鸦"
+  }
+}

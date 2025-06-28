@@ -1,0 +1,18 @@
+{
+  "id": 997,
+  "sprite": "sprites/home/997.png",
+  "name_en": "arctibax",
+  "translations": {
+    "ja-Hrkt": "セゴール",
+    "roomaji": "Segohru",
+    "ko": "드니꽁",
+    "zh-Hant": "凍脊龍",
+    "fr": "Cryodo",
+    "de": "Cryospino",
+    "es": "Arctibax",
+    "it": "Arctibax",
+    "en": "Arctibax",
+    "ja": "セゴール",
+    "zh-Hans": "冻脊龙"
+  }
+}

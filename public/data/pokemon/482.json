@@ -1,0 +1,18 @@
+{
+  "id": 482,
+  "sprite": "sprites/home/482.png",
+  "name_en": "azelf",
+  "translations": {
+    "ja-Hrkt": "アグノム",
+    "roomaji": "Agnome",
+    "ko": "아그놈",
+    "zh-Hant": "亞克諾姆",
+    "fr": "Créfadet",
+    "de": "Tobutz",
+    "es": "Azelf",
+    "it": "Azelf",
+    "en": "Azelf",
+    "ja": "アグノム",
+    "zh-Hans": "亚克诺姆"
+  }
+}

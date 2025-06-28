@@ -1,0 +1,18 @@
+{
+  "id": 483,
+  "sprite": "sprites/home/483.png",
+  "name_en": "dialga",
+  "translations": {
+    "ja-Hrkt": "ディアルガ",
+    "roomaji": "Dialga",
+    "ko": "디아루가",
+    "zh-Hant": "帝牙盧卡",
+    "fr": "Dialga",
+    "de": "Dialga",
+    "es": "Dialga",
+    "it": "Dialga",
+    "en": "Dialga",
+    "ja": "ディアルガ",
+    "zh-Hans": "帝牙卢卡"
+  }
+}

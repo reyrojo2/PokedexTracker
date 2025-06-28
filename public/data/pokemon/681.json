@@ -1,0 +1,18 @@
+{
+  "id": 681,
+  "sprite": "sprites/home/681.png",
+  "name_en": "aegislash-shield",
+  "translations": {
+    "ja-Hrkt": "ギルガルド",
+    "roomaji": "Gillgard",
+    "ko": "킬가르도",
+    "zh-Hant": "堅盾劍怪",
+    "fr": "Exagide",
+    "de": "Durengard",
+    "es": "Aegislash",
+    "it": "Aegislash",
+    "en": "Aegislash",
+    "ja": "ギルガルド",
+    "zh-Hans": "坚盾剑怪"
+  }
+}

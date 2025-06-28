@@ -1,0 +1,18 @@
+{
+  "id": 655,
+  "sprite": "sprites/home/655.png",
+  "name_en": "delphox",
+  "translations": {
+    "ja-Hrkt": "マフォクシー",
+    "roomaji": "Mahoxy",
+    "ko": "마폭시",
+    "zh-Hant": "妖火紅狐",
+    "fr": "Goupelin",
+    "de": "Fennexis",
+    "es": "Delphox",
+    "it": "Delphox",
+    "en": "Delphox",
+    "ja": "マフォクシー",
+    "zh-Hans": "妖火红狐"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 296,
+  "sprite": "sprites/home/296.png",
+  "name_en": "makuhita",
+  "translations": {
+    "ja-Hrkt": "マクノシタ",
+    "roomaji": "Makunoshita",
+    "ko": "마크탕",
+    "zh-Hant": "幕下力士",
+    "fr": "Makuhita",
+    "de": "Makuhita",
+    "es": "Makuhita",
+    "it": "Makuhita",
+    "en": "Makuhita",
+    "ja": "マクノシタ",
+    "zh-Hans": "幕下力士"
+  }
+}

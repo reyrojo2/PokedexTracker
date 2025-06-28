@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "sprite": "sprites/home/123.png",
+  "name_en": "scyther",
+  "translations": {
+    "ja-Hrkt": "ストライク",
+    "roomaji": "Strike",
+    "ko": "스라크",
+    "zh-Hant": "飛天螳螂",
+    "fr": "Insécateur",
+    "de": "Sichlor",
+    "es": "Scyther",
+    "it": "Scyther",
+    "en": "Scyther",
+    "ja": "ストライク",
+    "zh-Hans": "飞天螳螂"
+  }
+}

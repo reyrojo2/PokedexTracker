@@ -1,0 +1,18 @@
+{
+  "id": 434,
+  "sprite": "sprites/home/434.png",
+  "name_en": "stunky",
+  "translations": {
+    "ja-Hrkt": "スカンプー",
+    "roomaji": "Skunpoo",
+    "ko": "스컹뿡",
+    "zh-Hant": "臭鼬噗",
+    "fr": "Moufouette",
+    "de": "Skunkapuh",
+    "es": "Stunky",
+    "it": "Stunky",
+    "en": "Stunky",
+    "ja": "スカンプー",
+    "zh-Hans": "臭鼬噗"
+  }
+}

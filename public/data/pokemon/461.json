@@ -1,0 +1,18 @@
+{
+  "id": 461,
+  "sprite": "sprites/home/461.png",
+  "name_en": "weavile",
+  "translations": {
+    "ja-Hrkt": "マニューラ",
+    "roomaji": "Manyula",
+    "ko": "포푸니라",
+    "zh-Hant": "瑪狃拉",
+    "fr": "Dimoret",
+    "de": "Snibunna",
+    "es": "Weavile",
+    "it": "Weavile",
+    "en": "Weavile",
+    "ja": "マニューラ",
+    "zh-Hans": "玛狃拉"
+  }
+}

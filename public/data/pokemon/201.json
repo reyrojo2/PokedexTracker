@@ -1,0 +1,18 @@
+{
+  "id": 201,
+  "sprite": "sprites/home/201.png",
+  "name_en": "unown",
+  "translations": {
+    "ja-Hrkt": "アンノーン",
+    "roomaji": "Unknown",
+    "ko": "안농",
+    "zh-Hant": "未知圖騰",
+    "fr": "Zarbi",
+    "de": "Icognito",
+    "es": "Unown",
+    "it": "Unown",
+    "en": "Unown",
+    "ja": "アンノーン",
+    "zh-Hans": "未知图腾"
+  }
+}

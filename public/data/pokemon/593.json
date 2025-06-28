@@ -1,0 +1,18 @@
+{
+  "id": 593,
+  "sprite": "sprites/home/593.png",
+  "name_en": "jellicent",
+  "translations": {
+    "ja-Hrkt": "ブルンゲル",
+    "roomaji": "Burungel",
+    "ko": "탱탱겔",
+    "zh-Hant": "胖嘟嘟",
+    "fr": "Moyade",
+    "de": "Apoquallyp",
+    "es": "Jellicent",
+    "it": "Jellicent",
+    "en": "Jellicent",
+    "ja": "ブルンゲル",
+    "zh-Hans": "胖嘟嘟"
+  }
+}

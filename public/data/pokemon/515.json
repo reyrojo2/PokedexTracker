@@ -1,0 +1,18 @@
+{
+  "id": 515,
+  "sprite": "sprites/home/515.png",
+  "name_en": "panpour",
+  "translations": {
+    "ja-Hrkt": "ヒヤップ",
+    "roomaji": "Hiyappu",
+    "ko": "앗차프",
+    "zh-Hant": "冷水猴",
+    "fr": "Flotajou",
+    "de": "Sodamak",
+    "es": "Panpour",
+    "it": "Panpour",
+    "en": "Panpour",
+    "ja": "ヒヤップ",
+    "zh-Hans": "冷水猴"
+  }
+}

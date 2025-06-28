@@ -1,0 +1,18 @@
+{
+  "id": 499,
+  "sprite": "sprites/home/499.png",
+  "name_en": "pignite",
+  "translations": {
+    "ja-Hrkt": "チャオブー",
+    "roomaji": "Chaoboo",
+    "ko": "차오꿀",
+    "zh-Hant": "炒炒豬",
+    "fr": "Grotichon",
+    "de": "Ferkokel",
+    "es": "Pignite",
+    "it": "Pignite",
+    "en": "Pignite",
+    "ja": "チャオブー",
+    "zh-Hans": "炒炒猪"
+  }
+}

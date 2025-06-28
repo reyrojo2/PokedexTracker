@@ -1,0 +1,19 @@
+{
+  "id": 1050,
+  "sprite": "sprites/home/1050.png",
+  "name_en": "Galarian Farfetch’d",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "カモネギ",
+    "roomaji": "Kamonegi",
+    "ko": "파오리",
+    "zh-Hant": "大蔥鴨",
+    "fr": "Canarticho",
+    "de": "Porenta",
+    "es": "Farfetch’d",
+    "it": "Farfetch’d",
+    "en": "Farfetch’d",
+    "ja": "カモネギ",
+    "zh-Hans": "大葱鸭"
+  }
+}

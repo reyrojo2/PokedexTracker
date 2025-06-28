@@ -1,0 +1,18 @@
+{
+  "id": 911,
+  "sprite": "sprites/home/911.png",
+  "name_en": "skeledirge",
+  "translations": {
+    "ja-Hrkt": "ラウドボーン",
+    "roomaji": "Laudbon",
+    "ko": "라우드본",
+    "zh-Hant": "骨紋巨聲鱷",
+    "fr": "Flâmigator",
+    "de": "Skelokrok",
+    "es": "Skeledirge",
+    "it": "Skeledirge",
+    "en": "Skeledirge",
+    "ja": "ラウドボーン",
+    "zh-Hans": "骨纹巨声鳄"
+  }
+}

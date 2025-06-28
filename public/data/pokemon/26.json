@@ -1,0 +1,18 @@
+{
+  "id": 26,
+  "sprite": "sprites/home/26.png",
+  "name_en": "raichu",
+  "translations": {
+    "ja-Hrkt": "ライチュウ",
+    "roomaji": "Raichu",
+    "ko": "라이츄",
+    "zh-Hant": "雷丘",
+    "fr": "Raichu",
+    "de": "Raichu",
+    "es": "Raichu",
+    "it": "Raichu",
+    "en": "Raichu",
+    "ja": "ライチュウ",
+    "zh-Hans": "雷丘"
+  }
+}

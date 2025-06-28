@@ -1,0 +1,18 @@
+{
+  "id": 247,
+  "sprite": "sprites/home/247.png",
+  "name_en": "pupitar",
+  "translations": {
+    "ja-Hrkt": "サナギラス",
+    "roomaji": "Sanagiras",
+    "ko": "데기라스",
+    "zh-Hant": "沙基拉斯",
+    "fr": "Ymphect",
+    "de": "Pupitar",
+    "es": "Pupitar",
+    "it": "Pupitar",
+    "en": "Pupitar",
+    "ja": "サナギラス",
+    "zh-Hans": "沙基拉斯"
+  }
+}

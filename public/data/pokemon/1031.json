@@ -1,0 +1,19 @@
+{
+  "id": 1031,
+  "sprite": "sprites/home/1031.png",
+  "name_en": "Alolan Vulpix",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "ロコン",
+    "roomaji": "Rokon",
+    "ko": "식스테일",
+    "zh-Hant": "六尾",
+    "fr": "Goupix",
+    "de": "Vulpix",
+    "es": "Vulpix",
+    "it": "Vulpix",
+    "en": "Vulpix",
+    "ja": "ロコン",
+    "zh-Hans": "六尾"
+  }
+}

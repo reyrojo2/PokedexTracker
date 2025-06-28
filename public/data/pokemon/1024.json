@@ -1,0 +1,17 @@
+{
+  "id": 1024,
+  "sprite": "sprites/home/1024.png",
+  "name_en": "terapagos",
+  "translations": {
+    "ja-Hrkt": "テラパゴス",
+    "ko": "테라파고스",
+    "zh-Hant": "太樂巴戈斯",
+    "fr": "Terapagos",
+    "de": "Terapagos",
+    "es": "Terapagos",
+    "it": "Terapagos",
+    "en": "Terapagos",
+    "ja": "テラパゴス",
+    "zh-Hans": "太乐巴戈斯"
+  }
+}

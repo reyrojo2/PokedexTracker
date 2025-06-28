@@ -1,0 +1,18 @@
+{
+  "id": 574,
+  "sprite": "sprites/home/574.png",
+  "name_en": "gothita",
+  "translations": {
+    "ja-Hrkt": "ゴチム",
+    "roomaji": "Gothimu",
+    "ko": "고디탱",
+    "zh-Hant": "哥德寶寶",
+    "fr": "Scrutella",
+    "de": "Mollimorba",
+    "es": "Gothita",
+    "it": "Gothita",
+    "en": "Gothita",
+    "ja": "ゴチム",
+    "zh-Hans": "哥德宝宝"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 80,
+  "sprite": "sprites/home/80.png",
+  "name_en": "slowbro",
+  "translations": {
+    "ja-Hrkt": "ヤドラン",
+    "roomaji": "Yadoran",
+    "ko": "야도란",
+    "zh-Hant": "呆殼獸",
+    "fr": "Flagadoss",
+    "de": "Lahmus",
+    "es": "Slowbro",
+    "it": "Slowbro",
+    "en": "Slowbro",
+    "ja": "ヤドラン",
+    "zh-Hans": "呆壳兽"
+  }
+}

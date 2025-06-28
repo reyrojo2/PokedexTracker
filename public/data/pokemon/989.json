@@ -1,0 +1,18 @@
+{
+  "id": 989,
+  "sprite": "sprites/home/989.png",
+  "name_en": "sandy-shocks",
+  "translations": {
+    "ja-Hrkt": "スナノケガワ",
+    "roomaji": "Sunanokegawa",
+    "ko": "모래털가죽",
+    "zh-Hant": "沙鐵皮",
+    "fr": "Pelage-Sablé",
+    "de": "Sandfell",
+    "es": "Pelarena",
+    "it": "Peldisabbia",
+    "en": "Sandy Shocks",
+    "ja": "スナノケガワ",
+    "zh-Hans": "沙铁皮"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "sprite": "sprites/home/230.png",
+  "name_en": "kingdra",
+  "translations": {
+    "ja-Hrkt": "キングドラ",
+    "roomaji": "Kingdra",
+    "ko": "킹드라",
+    "zh-Hant": "刺龍王",
+    "fr": "Hyporoi",
+    "de": "Seedraking",
+    "es": "Kingdra",
+    "it": "Kingdra",
+    "en": "Kingdra",
+    "ja": "キングドラ",
+    "zh-Hans": "刺龙王"
+  }
+}

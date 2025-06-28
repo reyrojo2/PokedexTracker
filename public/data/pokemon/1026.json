@@ -1,0 +1,19 @@
+{
+  "id": 1026,
+  "sprite": "sprites/home/1026.png",
+  "name_en": "Alolan Rattata",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "コラッタ",
+    "roomaji": "Koratta",
+    "ko": "꼬렛",
+    "zh-Hant": "小拉達",
+    "fr": "Rattata",
+    "de": "Rattfratz",
+    "es": "Rattata",
+    "it": "Rattata",
+    "en": "Rattata",
+    "ja": "コラッタ",
+    "zh-Hans": "小拉达"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 375,
+  "sprite": "sprites/home/375.png",
+  "name_en": "metang",
+  "translations": {
+    "ja-Hrkt": "メタング",
+    "roomaji": "Metang",
+    "ko": "메탕구",
+    "zh-Hant": "金屬怪",
+    "fr": "Métang",
+    "de": "Metang",
+    "es": "Metang",
+    "it": "Metang",
+    "en": "Metang",
+    "ja": "メタング",
+    "zh-Hans": "金属怪"
+  }
+}

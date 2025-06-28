@@ -1,0 +1,18 @@
+{
+  "id": 156,
+  "sprite": "sprites/home/156.png",
+  "name_en": "quilava",
+  "translations": {
+    "ja-Hrkt": "マグマラシ",
+    "roomaji": "Magmarashi",
+    "ko": "마그케인",
+    "zh-Hant": "火岩鼠",
+    "fr": "Feurisson",
+    "de": "Igelavar",
+    "es": "Quilava",
+    "it": "Quilava",
+    "en": "Quilava",
+    "ja": "マグマラシ",
+    "zh-Hans": "火岩鼠"
+  }
+}

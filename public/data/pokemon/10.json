@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "sprite": "sprites/home/10.png",
+  "name_en": "caterpie",
+  "translations": {
+    "ja-Hrkt": "キャタピー",
+    "roomaji": "Caterpie",
+    "ko": "캐터피",
+    "zh-Hant": "綠毛蟲",
+    "fr": "Chenipan",
+    "de": "Raupy",
+    "es": "Caterpie",
+    "it": "Caterpie",
+    "en": "Caterpie",
+    "ja": "キャタピー",
+    "zh-Hans": "绿毛虫"
+  }
+}

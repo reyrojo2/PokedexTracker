@@ -1,0 +1,18 @@
+{
+  "id": 739,
+  "sprite": "sprites/home/739.png",
+  "name_en": "crabrawler",
+  "translations": {
+    "ja-Hrkt": "マケンカニ",
+    "roomaji": "Makenkani",
+    "ko": "오기지게",
+    "zh-Hant": "好勝蟹",
+    "fr": "Crabagarre",
+    "de": "Krabbox",
+    "es": "Crabrawler",
+    "it": "Crabrawler",
+    "en": "Crabrawler",
+    "ja": "マケンカニ",
+    "zh-Hans": "好胜蟹"
+  }
+}

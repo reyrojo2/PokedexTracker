@@ -1,0 +1,18 @@
+{
+  "id": 606,
+  "sprite": "sprites/home/606.png",
+  "name_en": "beheeyem",
+  "translations": {
+    "ja-Hrkt": "オーベム",
+    "roomaji": "Ohbem",
+    "ko": "벰크",
+    "zh-Hant": "大宇怪",
+    "fr": "Neitram",
+    "de": "Megalon",
+    "es": "Beheeyem",
+    "it": "Beheeyem",
+    "en": "Beheeyem",
+    "ja": "オーベム",
+    "zh-Hans": "大宇怪"
+  }
+}

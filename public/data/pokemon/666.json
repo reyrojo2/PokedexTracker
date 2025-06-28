@@ -1,0 +1,18 @@
+{
+  "id": 666,
+  "sprite": "sprites/home/666.png",
+  "name_en": "vivillon",
+  "translations": {
+    "ja-Hrkt": "ビビヨン",
+    "roomaji": "Viviyon",
+    "ko": "비비용",
+    "zh-Hant": "彩粉蝶",
+    "fr": "Prismillon",
+    "de": "Vivillon",
+    "es": "Vivillon",
+    "it": "Vivillon",
+    "en": "Vivillon",
+    "ja": "ビビヨン",
+    "zh-Hans": "彩粉蝶"
+  }
+}

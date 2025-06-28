@@ -1,0 +1,18 @@
+{
+  "id": 504,
+  "sprite": "sprites/home/504.png",
+  "name_en": "patrat",
+  "translations": {
+    "ja-Hrkt": "ミネズミ",
+    "roomaji": "Minezumi",
+    "ko": "보르쥐",
+    "zh-Hant": "探探鼠",
+    "fr": "Ratentif",
+    "de": "Nagelotz",
+    "es": "Patrat",
+    "it": "Patrat",
+    "en": "Patrat",
+    "ja": "ミネズミ",
+    "zh-Hans": "探探鼠"
+  }
+}

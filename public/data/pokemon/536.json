@@ -1,0 +1,18 @@
+{
+  "id": 536,
+  "sprite": "sprites/home/536.png",
+  "name_en": "palpitoad",
+  "translations": {
+    "ja-Hrkt": "ガマガル",
+    "roomaji": "Gamagaru",
+    "ko": "두까비",
+    "zh-Hant": "藍蟾蜍",
+    "fr": "Batracné",
+    "de": "Mebrana",
+    "es": "Palpitoad",
+    "it": "Palpitoad",
+    "en": "Palpitoad",
+    "ja": "ガマガル",
+    "zh-Hans": "蓝蟾蜍"
+  }
+}

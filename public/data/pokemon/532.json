@@ -1,0 +1,18 @@
+{
+  "id": 532,
+  "sprite": "sprites/home/532.png",
+  "name_en": "timburr",
+  "translations": {
+    "ja-Hrkt": "ドッコラー",
+    "roomaji": "Dokkorer",
+    "ko": "으랏차",
+    "zh-Hant": "搬運小匠",
+    "fr": "Charpenti",
+    "de": "Praktibalk",
+    "es": "Timburr",
+    "it": "Timburr",
+    "en": "Timburr",
+    "ja": "ドッコラー",
+    "zh-Hans": "搬运小匠"
+  }
+}

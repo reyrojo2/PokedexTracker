@@ -1,0 +1,18 @@
+{
+  "id": 279,
+  "sprite": "sprites/home/279.png",
+  "name_en": "pelipper",
+  "translations": {
+    "ja-Hrkt": "ペリッパー",
+    "roomaji": "Pelipper",
+    "ko": "패리퍼",
+    "zh-Hant": "大嘴鷗",
+    "fr": "Bekipan",
+    "de": "Pelipper",
+    "es": "Pelipper",
+    "it": "Pelipper",
+    "en": "Pelipper",
+    "ja": "ペリッパー",
+    "zh-Hans": "大嘴鸥"
+  }
+}

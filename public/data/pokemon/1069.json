@@ -1,0 +1,19 @@
+{
+  "id": 1069,
+  "sprite": "sprites/home/1069.png",
+  "name_en": "Hisuian Sneasel",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ニューラ",
+    "roomaji": "Nyula",
+    "ko": "포푸니",
+    "zh-Hant": "狃拉",
+    "fr": "Farfuret",
+    "de": "Sniebel",
+    "es": "Sneasel",
+    "it": "Sneasel",
+    "en": "Sneasel",
+    "ja": "ニューラ",
+    "zh-Hans": "狃拉"
+  }
+}

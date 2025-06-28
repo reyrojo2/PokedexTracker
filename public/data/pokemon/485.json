@@ -1,0 +1,18 @@
+{
+  "id": 485,
+  "sprite": "sprites/home/485.png",
+  "name_en": "heatran",
+  "translations": {
+    "ja-Hrkt": "ヒードラン",
+    "roomaji": "Heatran",
+    "ko": "히드런",
+    "zh-Hant": "席多藍恩",
+    "fr": "Heatran",
+    "de": "Heatran",
+    "es": "Heatran",
+    "it": "Heatran",
+    "en": "Heatran",
+    "ja": "ヒードラン",
+    "zh-Hans": "席多蓝恩"
+  }
+}

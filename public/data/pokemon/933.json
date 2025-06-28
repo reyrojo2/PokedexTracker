@@ -1,0 +1,18 @@
+{
+  "id": 933,
+  "sprite": "sprites/home/933.png",
+  "name_en": "naclstack",
+  "translations": {
+    "ja-Hrkt": "ジオヅム",
+    "roomaji": "Jiodumu",
+    "ko": "스태솔트",
+    "zh-Hant": "鹽石壘",
+    "fr": "Amassel",
+    "de": "Sedisal",
+    "es": "Naclstack",
+    "it": "Naclstack",
+    "en": "Naclstack",
+    "ja": "ジオヅム",
+    "zh-Hans": "盐石垒"
+  }
+}

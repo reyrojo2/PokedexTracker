@@ -1,0 +1,18 @@
+{
+  "id": 836,
+  "sprite": "sprites/home/836.png",
+  "name_en": "boltund",
+  "translations": {
+    "ja-Hrkt": "パルスワン",
+    "roomaji": "Pulsewan",
+    "ko": "펄스멍",
+    "zh-Hant": "逐電犬",
+    "fr": "Fulgudog",
+    "de": "Bellektro",
+    "es": "Boltund",
+    "it": "Boltund",
+    "en": "Boltund",
+    "ja": "パルスワン",
+    "zh-Hans": "逐电犬"
+  }
+}

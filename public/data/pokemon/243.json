@@ -1,0 +1,18 @@
+{
+  "id": 243,
+  "sprite": "sprites/home/243.png",
+  "name_en": "raikou",
+  "translations": {
+    "ja-Hrkt": "ライコウ",
+    "roomaji": "Raikou",
+    "ko": "라이코",
+    "zh-Hant": "雷公",
+    "fr": "Raikou",
+    "de": "Raikou",
+    "es": "Raikou",
+    "it": "Raikou",
+    "en": "Raikou",
+    "ja": "ライコウ",
+    "zh-Hans": "雷公"
+  }
+}

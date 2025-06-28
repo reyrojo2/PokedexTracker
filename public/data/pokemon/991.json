@@ -1,0 +1,18 @@
+{
+  "id": 991,
+  "sprite": "sprites/home/991.png",
+  "name_en": "iron-bundle",
+  "translations": {
+    "ja-Hrkt": "テツノツツミ",
+    "roomaji": "Tetsunotsutsumi",
+    "ko": "무쇠보따리",
+    "zh-Hant": "鐵包袱",
+    "fr": "Hotte-de-Fer",
+    "de": "Eisenbündel",
+    "es": "Ferrosaco",
+    "it": "Saccoferreo",
+    "en": "Iron Bundle",
+    "ja": "テツノツツミ",
+    "zh-Hans": "铁包袱"
+  }
+}

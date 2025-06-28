@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "sprite": "sprites/home/999.png",
+  "name_en": "gimmighoul",
+  "translations": {
+    "ja-Hrkt": "コレクレー",
+    "roomaji": "Collecurei",
+    "ko": "모으령",
+    "zh-Hant": "索財靈",
+    "fr": "Mordudor",
+    "de": "Gierspenst",
+    "es": "Gimmighoul",
+    "it": "Gimmighoul",
+    "en": "Gimmighoul",
+    "ja": "コレクレー",
+    "zh-Hans": "索财灵"
+  }
+}

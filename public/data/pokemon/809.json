@@ -1,0 +1,18 @@
+{
+  "id": 809,
+  "sprite": "sprites/home/809.png",
+  "name_en": "melmetal",
+  "translations": {
+    "ja-Hrkt": "メルメタル",
+    "roomaji": "Melmetal",
+    "ko": "멜메탈",
+    "zh-Hant": "美錄梅塔",
+    "fr": "Melmetal",
+    "de": "Melmetal",
+    "es": "Melmetal",
+    "it": "Melmetal",
+    "en": "Melmetal",
+    "ja": "メルメタル",
+    "zh-Hans": "美录梅塔"
+  }
+}

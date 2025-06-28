@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "sprite": "sprites/home/74.png",
+  "name_en": "geodude",
+  "translations": {
+    "ja-Hrkt": "イシツブテ",
+    "roomaji": "Isitsubute",
+    "ko": "꼬마돌",
+    "zh-Hant": "小拳石",
+    "fr": "Racaillou",
+    "de": "Kleinstein",
+    "es": "Geodude",
+    "it": "Geodude",
+    "en": "Geodude",
+    "ja": "イシツブテ",
+    "zh-Hans": "小拳石"
+  }
+}

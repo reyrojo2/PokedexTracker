@@ -1,0 +1,18 @@
+{
+  "id": 856,
+  "sprite": "sprites/home/856.png",
+  "name_en": "hatenna",
+  "translations": {
+    "ja-Hrkt": "ミブリム",
+    "roomaji": "Mibrim",
+    "ko": "몸지브림",
+    "zh-Hant": "迷布莉姆",
+    "fr": "Bibichut",
+    "de": "Brimova",
+    "es": "Hatenna",
+    "it": "Hatenna",
+    "en": "Hatenna",
+    "ja": "ミブリム",
+    "zh-Hans": "迷布莉姆"
+  }
+}

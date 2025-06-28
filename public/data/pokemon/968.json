@@ -1,0 +1,18 @@
+{
+  "id": 968,
+  "sprite": "sprites/home/968.png",
+  "name_en": "orthworm",
+  "translations": {
+    "ja-Hrkt": "ミミズズ",
+    "roomaji": "Mimizuzu",
+    "ko": "꿈트렁",
+    "zh-Hant": "拖拖蚓",
+    "fr": "Ferdeter",
+    "de": "Schlurm",
+    "es": "Orthworm",
+    "it": "Orthworm",
+    "en": "Orthworm",
+    "ja": "ミミズズ",
+    "zh-Hans": "拖拖蚓"
+  }
+}

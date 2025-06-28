@@ -1,0 +1,18 @@
+{
+  "id": 452,
+  "sprite": "sprites/home/452.png",
+  "name_en": "drapion",
+  "translations": {
+    "ja-Hrkt": "ドラピオン",
+    "roomaji": "Dorapion",
+    "ko": "드래피온",
+    "zh-Hant": "龍王蠍",
+    "fr": "Drascore",
+    "de": "Piondragi",
+    "es": "Drapion",
+    "it": "Drapion",
+    "en": "Drapion",
+    "ja": "ドラピオン",
+    "zh-Hans": "龙王蝎"
+  }
+}

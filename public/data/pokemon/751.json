@@ -1,0 +1,18 @@
+{
+  "id": 751,
+  "sprite": "sprites/home/751.png",
+  "name_en": "dewpider",
+  "translations": {
+    "ja-Hrkt": "シズクモ",
+    "roomaji": "Shizukumo",
+    "ko": "물거미",
+    "zh-Hant": "滴蛛",
+    "fr": "Araqua",
+    "de": "Araqua",
+    "es": "Dewpider",
+    "it": "Dewpider",
+    "en": "Dewpider",
+    "ja": "シズクモ",
+    "zh-Hans": "滴蛛"
+  }
+}

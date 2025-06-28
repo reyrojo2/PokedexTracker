@@ -1,0 +1,18 @@
+{
+  "id": 459,
+  "sprite": "sprites/home/459.png",
+  "name_en": "snover",
+  "translations": {
+    "ja-Hrkt": "ユキカブリ",
+    "roomaji": "Yukikaburi",
+    "ko": "눈쓰개",
+    "zh-Hant": "雪笠怪",
+    "fr": "Blizzi",
+    "de": "Shnebedeck",
+    "es": "Snover",
+    "it": "Snover",
+    "en": "Snover",
+    "ja": "ユキカブリ",
+    "zh-Hans": "雪笠怪"
+  }
+}

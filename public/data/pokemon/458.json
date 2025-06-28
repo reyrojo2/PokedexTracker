@@ -1,0 +1,18 @@
+{
+  "id": 458,
+  "sprite": "sprites/home/458.png",
+  "name_en": "mantyke",
+  "translations": {
+    "ja-Hrkt": "タマンタ",
+    "roomaji": "Tamanta",
+    "ko": "타만타",
+    "zh-Hant": "小球飛魚",
+    "fr": "Babimanta",
+    "de": "Mantirps",
+    "es": "Mantyke",
+    "it": "Mantyke",
+    "en": "Mantyke",
+    "ja": "タマンタ",
+    "zh-Hans": "小球飞鱼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 98,
+  "sprite": "sprites/home/98.png",
+  "name_en": "krabby",
+  "translations": {
+    "ja-Hrkt": "クラブ",
+    "roomaji": "Crab",
+    "ko": "크랩",
+    "zh-Hant": "大鉗蟹",
+    "fr": "Krabby",
+    "de": "Krabby",
+    "es": "Krabby",
+    "it": "Krabby",
+    "en": "Krabby",
+    "ja": "クラブ",
+    "zh-Hans": "大钳蟹"
+  }
+}

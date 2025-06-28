@@ -1,0 +1,18 @@
+{
+  "id": 556,
+  "sprite": "sprites/home/556.png",
+  "name_en": "maractus",
+  "translations": {
+    "ja-Hrkt": "マラカッチ",
+    "roomaji": "Maracacchi",
+    "ko": "마라카치",
+    "zh-Hant": "沙鈴仙人掌",
+    "fr": "Maracachi",
+    "de": "Maracamba",
+    "es": "Maractus",
+    "it": "Maractus",
+    "en": "Maractus",
+    "ja": "マラカッチ",
+    "zh-Hans": "沙铃仙人掌"
+  }
+}

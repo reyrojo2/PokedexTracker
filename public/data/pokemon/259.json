@@ -1,0 +1,18 @@
+{
+  "id": 259,
+  "sprite": "sprites/home/259.png",
+  "name_en": "marshtomp",
+  "translations": {
+    "ja-Hrkt": "ヌマクロー",
+    "roomaji": "Numacraw",
+    "ko": "늪짱이",
+    "zh-Hant": "沼躍魚",
+    "fr": "Flobio",
+    "de": "Moorabbel",
+    "es": "Marshtomp",
+    "it": "Marshtomp",
+    "en": "Marshtomp",
+    "ja": "ヌマクロー",
+    "zh-Hans": "沼跃鱼"
+  }
+}

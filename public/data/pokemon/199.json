@@ -1,0 +1,18 @@
+{
+  "id": 199,
+  "sprite": "sprites/home/199.png",
+  "name_en": "slowking",
+  "translations": {
+    "ja-Hrkt": "ヤドキング",
+    "roomaji": "Yadoking",
+    "ko": "야도킹",
+    "zh-Hant": "呆呆王",
+    "fr": "Roigada",
+    "de": "Laschoking",
+    "es": "Slowking",
+    "it": "Slowking",
+    "en": "Slowking",
+    "ja": "ヤドキング",
+    "zh-Hans": "呆呆王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 512,
+  "sprite": "sprites/home/512.png",
+  "name_en": "simisage",
+  "translations": {
+    "ja-Hrkt": "ヤナッキー",
+    "roomaji": "Yanakkie",
+    "ko": "야나키",
+    "zh-Hant": "花椰猿",
+    "fr": "Feuiloutan",
+    "de": "Vegichita",
+    "es": "Simisage",
+    "it": "Simisage",
+    "en": "Simisage",
+    "ja": "ヤナッキー",
+    "zh-Hans": "花椰猿"
+  }
+}

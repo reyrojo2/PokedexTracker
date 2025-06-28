@@ -1,0 +1,18 @@
+{
+  "id": 568,
+  "sprite": "sprites/home/568.png",
+  "name_en": "trubbish",
+  "translations": {
+    "ja-Hrkt": "ヤブクロン",
+    "roomaji": "Yabukuron",
+    "ko": "깨봉이",
+    "zh-Hant": "破破袋",
+    "fr": "Miamiasme",
+    "de": "Unratütox",
+    "es": "Trubbish",
+    "it": "Trubbish",
+    "en": "Trubbish",
+    "ja": "ヤブクロン",
+    "zh-Hans": "破破袋"
+  }
+}

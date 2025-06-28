@@ -1,0 +1,18 @@
+{
+  "id": 664,
+  "sprite": "sprites/home/664.png",
+  "name_en": "scatterbug",
+  "translations": {
+    "ja-Hrkt": "コフキムシ",
+    "roomaji": "Kofukimushi",
+    "ko": "분이벌레",
+    "zh-Hant": "粉蝶蟲",
+    "fr": "Lépidonille",
+    "de": "Purmel",
+    "es": "Scatterbug",
+    "it": "Scatterbug",
+    "en": "Scatterbug",
+    "ja": "コフキムシ",
+    "zh-Hans": "粉蝶虫"
+  }
+}

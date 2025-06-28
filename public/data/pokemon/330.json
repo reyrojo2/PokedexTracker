@@ -1,0 +1,18 @@
+{
+  "id": 330,
+  "sprite": "sprites/home/330.png",
+  "name_en": "flygon",
+  "translations": {
+    "ja-Hrkt": "フライゴン",
+    "roomaji": "Frygon",
+    "ko": "플라이곤",
+    "zh-Hant": "沙漠蜻蜓",
+    "fr": "Libégon",
+    "de": "Libelldra",
+    "es": "Flygon",
+    "it": "Flygon",
+    "en": "Flygon",
+    "ja": "フライゴン",
+    "zh-Hans": "沙漠蜻蜓"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 162,
+  "sprite": "sprites/home/162.png",
+  "name_en": "furret",
+  "translations": {
+    "ja-Hrkt": "オオタチ",
+    "roomaji": "Ootachi",
+    "ko": "다꼬리",
+    "zh-Hant": "大尾立",
+    "fr": "Fouinar",
+    "de": "Wiesenior",
+    "es": "Furret",
+    "it": "Furret",
+    "en": "Furret",
+    "ja": "オオタチ",
+    "zh-Hans": "大尾立"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 127,
+  "sprite": "sprites/home/127.png",
+  "name_en": "pinsir",
+  "translations": {
+    "ja-Hrkt": "カイロス",
+    "roomaji": "Kailios",
+    "ko": "쁘사이저",
+    "zh-Hant": "凱羅斯",
+    "fr": "Scarabrute",
+    "de": "Pinsir",
+    "es": "Pinsir",
+    "it": "Pinsir",
+    "en": "Pinsir",
+    "ja": "カイロス",
+    "zh-Hans": "凯罗斯"
+  }
+}

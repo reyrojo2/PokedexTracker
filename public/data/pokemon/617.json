@@ -1,0 +1,18 @@
+{
+  "id": 617,
+  "sprite": "sprites/home/617.png",
+  "name_en": "accelgor",
+  "translations": {
+    "ja-Hrkt": "アギルダー",
+    "roomaji": "Agilder",
+    "ko": "어지리더",
+    "zh-Hant": "敏捷蟲",
+    "fr": "Limaspeed",
+    "de": "Hydragil",
+    "es": "Accelgor",
+    "it": "Accelgor",
+    "en": "Accelgor",
+    "ja": "アギルダー",
+    "zh-Hans": "敏捷虫"
+  }
+}

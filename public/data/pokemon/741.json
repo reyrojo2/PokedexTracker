@@ -1,0 +1,18 @@
+{
+  "id": 741,
+  "sprite": "sprites/home/741.png",
+  "name_en": "oricorio-baile",
+  "translations": {
+    "ja-Hrkt": "オドリドリ",
+    "roomaji": "Odoridori",
+    "ko": "춤추새",
+    "zh-Hant": "花舞鳥",
+    "fr": "Plumeline",
+    "de": "Choreogel",
+    "es": "Oricorio",
+    "it": "Oricorio",
+    "en": "Oricorio",
+    "ja": "オドリドリ",
+    "zh-Hans": "花舞鸟"
+  }
+}

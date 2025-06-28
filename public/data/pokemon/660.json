@@ -1,0 +1,18 @@
+{
+  "id": 660,
+  "sprite": "sprites/home/660.png",
+  "name_en": "diggersby",
+  "translations": {
+    "ja-Hrkt": "ホルード",
+    "roomaji": "Horudo",
+    "ko": "파르토",
+    "zh-Hant": "掘地兔",
+    "fr": "Excavarenne",
+    "de": "Grebbit",
+    "es": "Diggersby",
+    "it": "Diggersby",
+    "en": "Diggersby",
+    "ja": "ホルード",
+    "zh-Hans": "掘地兔"
+  }
+}

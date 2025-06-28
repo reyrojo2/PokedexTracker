@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "sprite": "sprites/home/184.png",
+  "name_en": "azumarill",
+  "translations": {
+    "ja-Hrkt": "マリルリ",
+    "roomaji": "Marilli",
+    "ko": "마릴리",
+    "zh-Hant": "瑪力露麗",
+    "fr": "Azumarill",
+    "de": "Azumarill",
+    "es": "Azumarill",
+    "it": "Azumarill",
+    "en": "Azumarill",
+    "ja": "マリルリ",
+    "zh-Hans": "玛力露丽"
+  }
+}

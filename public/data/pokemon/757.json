@@ -1,0 +1,18 @@
+{
+  "id": 757,
+  "sprite": "sprites/home/757.png",
+  "name_en": "salandit",
+  "translations": {
+    "ja-Hrkt": "ヤトウモリ",
+    "roomaji": "Yatoumori",
+    "ko": "야도뇽",
+    "zh-Hant": "夜盜火蜥",
+    "fr": "Tritox",
+    "de": "Molunk",
+    "es": "Salandit",
+    "it": "Salandit",
+    "en": "Salandit",
+    "ja": "ヤトウモリ",
+    "zh-Hans": "夜盗火蜥"
+  }
+}

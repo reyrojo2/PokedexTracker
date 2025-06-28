@@ -1,0 +1,18 @@
+{
+  "id": 431,
+  "sprite": "sprites/home/431.png",
+  "name_en": "glameow",
+  "translations": {
+    "ja-Hrkt": "ニャルマー",
+    "roomaji": "Nyarmar",
+    "ko": "나옹마",
+    "zh-Hant": "魅力喵",
+    "fr": "Chaglam",
+    "de": "Charmian",
+    "es": "Glameow",
+    "it": "Glameow",
+    "en": "Glameow",
+    "ja": "ニャルマー",
+    "zh-Hans": "魅力喵"
+  }
+}

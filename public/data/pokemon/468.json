@@ -1,0 +1,18 @@
+{
+  "id": 468,
+  "sprite": "sprites/home/468.png",
+  "name_en": "togekiss",
+  "translations": {
+    "ja-Hrkt": "トゲキッス",
+    "roomaji": "Togekiss",
+    "ko": "토게키스",
+    "zh-Hant": "波克基斯",
+    "fr": "Togekiss",
+    "de": "Togekiss",
+    "es": "Togekiss",
+    "it": "Togekiss",
+    "en": "Togekiss",
+    "ja": "トゲキッス",
+    "zh-Hans": "波克基斯"
+  }
+}

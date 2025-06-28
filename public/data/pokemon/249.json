@@ -1,0 +1,18 @@
+{
+  "id": 249,
+  "sprite": "sprites/home/249.png",
+  "name_en": "lugia",
+  "translations": {
+    "ja-Hrkt": "ルギア",
+    "roomaji": "Lugia",
+    "ko": "루기아",
+    "zh-Hant": "洛奇亞",
+    "fr": "Lugia",
+    "de": "Lugia",
+    "es": "Lugia",
+    "it": "Lugia",
+    "en": "Lugia",
+    "ja": "ルギア",
+    "zh-Hans": "洛奇亚"
+  }
+}

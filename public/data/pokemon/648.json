@@ -1,0 +1,18 @@
+{
+  "id": 648,
+  "sprite": "sprites/home/648.png",
+  "name_en": "meloetta-aria",
+  "translations": {
+    "ja-Hrkt": "メロエッタ",
+    "roomaji": "Meloetta",
+    "ko": "메로엣타",
+    "zh-Hant": "美洛耶塔",
+    "fr": "Meloetta",
+    "de": "Meloetta",
+    "es": "Meloetta",
+    "it": "Meloetta",
+    "en": "Meloetta",
+    "ja": "メロエッタ",
+    "zh-Hans": "美洛耶塔"
+  }
+}

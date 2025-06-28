@@ -1,0 +1,18 @@
+{
+  "id": 169,
+  "sprite": "sprites/home/169.png",
+  "name_en": "crobat",
+  "translations": {
+    "ja-Hrkt": "クロバット",
+    "roomaji": "Crobat",
+    "ko": "크로뱃",
+    "zh-Hant": "叉字蝠",
+    "fr": "Nostenfer",
+    "de": "Iksbat",
+    "es": "Crobat",
+    "it": "Crobat",
+    "en": "Crobat",
+    "ja": "クロバット",
+    "zh-Hans": "叉字蝠"
+  }
+}

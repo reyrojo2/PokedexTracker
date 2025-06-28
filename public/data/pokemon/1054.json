@@ -1,0 +1,19 @@
+{
+  "id": 1054,
+  "sprite": "sprites/home/1054.png",
+  "name_en": "Galarian Zapdos",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "サンダー",
+    "roomaji": "Thunder",
+    "ko": "썬더",
+    "zh-Hant": "閃電鳥",
+    "fr": "Électhor",
+    "de": "Zapdos",
+    "es": "Zapdos",
+    "it": "Zapdos",
+    "en": "Zapdos",
+    "ja": "サンダー",
+    "zh-Hans": "闪电鸟"
+  }
+}

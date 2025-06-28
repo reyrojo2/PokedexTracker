@@ -1,0 +1,18 @@
+{
+  "id": 753,
+  "sprite": "sprites/home/753.png",
+  "name_en": "fomantis",
+  "translations": {
+    "ja-Hrkt": "カリキリ",
+    "roomaji": "Karikiri",
+    "ko": "짜랑랑",
+    "zh-Hant": "偽螳草",
+    "fr": "Mimantis",
+    "de": "Imantis",
+    "es": "Fomantis",
+    "it": "Fomantis",
+    "en": "Fomantis",
+    "ja": "カリキリ",
+    "zh-Hans": "伪螳草"
+  }
+}

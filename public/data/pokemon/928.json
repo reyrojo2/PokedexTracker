@@ -1,0 +1,18 @@
+{
+  "id": 928,
+  "sprite": "sprites/home/928.png",
+  "name_en": "smoliv",
+  "translations": {
+    "ja-Hrkt": "ミニーブ",
+    "roomaji": "Minive",
+    "ko": "미니브",
+    "zh-Hant": "迷你芙",
+    "fr": "Olivini",
+    "de": "Olini",
+    "es": "Smoliv",
+    "it": "Smoliv",
+    "en": "Smoliv",
+    "ja": "ミニーブ",
+    "zh-Hans": "迷你芙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 788,
+  "sprite": "sprites/home/788.png",
+  "name_en": "tapu-fini",
+  "translations": {
+    "ja-Hrkt": "カプ・レヒレ",
+    "roomaji": "Rehire",
+    "ko": "카푸느지느",
+    "zh-Hant": "卡璞・鰭鰭",
+    "fr": "Tokopisco",
+    "de": "Kapu-Kime",
+    "es": "Tapu Fini",
+    "it": "Tapu Fini",
+    "en": "Tapu Fini",
+    "ja": "カプ・レヒレ",
+    "zh-Hans": "卡璞・鳍鳍"
+  }
+}

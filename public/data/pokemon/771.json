@@ -1,0 +1,18 @@
+{
+  "id": 771,
+  "sprite": "sprites/home/771.png",
+  "name_en": "pyukumuku",
+  "translations": {
+    "ja-Hrkt": "ナマコブシ",
+    "roomaji": "Namakobushi",
+    "ko": "해무기",
+    "zh-Hant": "拳海參",
+    "fr": "Concombaffe",
+    "de": "Gufa",
+    "es": "Pyukumuku",
+    "it": "Pyukumuku",
+    "en": "Pyukumuku",
+    "ja": "ナマコブシ",
+    "zh-Hans": "拳海参"
+  }
+}

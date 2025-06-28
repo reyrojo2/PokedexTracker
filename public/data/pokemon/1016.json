@@ -1,0 +1,17 @@
+{
+  "id": 1016,
+  "sprite": "sprites/home/1016.png",
+  "name_en": "fezandipiti",
+  "translations": {
+    "ja-Hrkt": "キチキギス",
+    "ko": "기로치",
+    "zh-Hant": "吉雉雞",
+    "fr": "Favianos",
+    "de": "Beatori",
+    "es": "Fezandipiti",
+    "it": "Fezandipiti",
+    "en": "Fezandipiti",
+    "ja": "キチキギス",
+    "zh-Hans": "吉雉鸡"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 817,
+  "sprite": "sprites/home/817.png",
+  "name_en": "drizzile",
+  "translations": {
+    "ja-Hrkt": "ジメレオン",
+    "roomaji": "Jimereon",
+    "ko": "누겔레온",
+    "zh-Hant": "變澀蜥",
+    "fr": "Arrozard",
+    "de": "Phlegleon",
+    "es": "Drizzile",
+    "it": "Drizzile",
+    "en": "Drizzile",
+    "ja": "ジメレオン",
+    "zh-Hans": "变涩蜥"
+  }
+}

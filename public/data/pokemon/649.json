@@ -1,0 +1,18 @@
+{
+  "id": 649,
+  "sprite": "sprites/home/649.png",
+  "name_en": "genesect",
+  "translations": {
+    "ja-Hrkt": "ゲノセクト",
+    "roomaji": "Genesect",
+    "ko": "게노세크트",
+    "zh-Hant": "蓋諾賽克特",
+    "fr": "Genesect",
+    "de": "Genesect",
+    "es": "Genesect",
+    "it": "Genesect",
+    "en": "Genesect",
+    "ja": "ゲノセクト",
+    "zh-Hans": "盖诺赛克特"
+  }
+}

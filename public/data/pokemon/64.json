@@ -1,0 +1,18 @@
+{
+  "id": 64,
+  "sprite": "sprites/home/64.png",
+  "name_en": "kadabra",
+  "translations": {
+    "ja-Hrkt": "ユンゲラー",
+    "roomaji": "Yungerer",
+    "ko": "윤겔라",
+    "zh-Hant": "勇基拉",
+    "fr": "Kadabra",
+    "de": "Kadabra",
+    "es": "Kadabra",
+    "it": "Kadabra",
+    "en": "Kadabra",
+    "ja": "ユンゲラー",
+    "zh-Hans": "勇基拉"
+  }
+}

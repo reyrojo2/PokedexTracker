@@ -1,0 +1,19 @@
+{
+  "id": 1059,
+  "sprite": "sprites/home/1059.png",
+  "name_en": "Galarian Darumaka",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ダルマッカ",
+    "roomaji": "Darumakka",
+    "ko": "달막화",
+    "zh-Hant": "火紅不倒翁",
+    "fr": "Darumarond",
+    "de": "Flampion",
+    "es": "Darumaka",
+    "it": "Darumaka",
+    "en": "Darumaka",
+    "ja": "ダルマッカ",
+    "zh-Hans": "火红不倒翁"
+  }
+}

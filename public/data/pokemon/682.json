@@ -1,0 +1,18 @@
+{
+  "id": 682,
+  "sprite": "sprites/home/682.png",
+  "name_en": "spritzee",
+  "translations": {
+    "ja-Hrkt": "シュシュプ",
+    "roomaji": "Shushupu",
+    "ko": "슈쁘",
+    "zh-Hant": "粉香香",
+    "fr": "Fluvetin",
+    "de": "Parfi",
+    "es": "Spritzee",
+    "it": "Spritzee",
+    "en": "Spritzee",
+    "ja": "シュシュプ",
+    "zh-Hans": "粉香香"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 393,
+  "sprite": "sprites/home/393.png",
+  "name_en": "piplup",
+  "translations": {
+    "ja-Hrkt": "ポッチャマ",
+    "roomaji": "Pochama",
+    "ko": "팽도리",
+    "zh-Hant": "波加曼",
+    "fr": "Tiplouf",
+    "de": "Plinfa",
+    "es": "Piplup",
+    "it": "Piplup",
+    "en": "Piplup",
+    "ja": "ポッチャマ",
+    "zh-Hans": "波加曼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 801,
+  "sprite": "sprites/home/801.png",
+  "name_en": "magearna",
+  "translations": {
+    "ja-Hrkt": "マギアナ",
+    "roomaji": "Magearna",
+    "ko": "마기아나",
+    "zh-Hant": "瑪機雅娜",
+    "fr": "Magearna",
+    "de": "Magearna",
+    "es": "Magearna",
+    "it": "Magearna",
+    "en": "Magearna",
+    "ja": "マギアナ",
+    "zh-Hans": "玛机雅娜"
+  }
+}

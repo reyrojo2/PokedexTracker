@@ -1,0 +1,18 @@
+{
+  "id": 396,
+  "sprite": "sprites/home/396.png",
+  "name_en": "starly",
+  "translations": {
+    "ja-Hrkt": "ムックル",
+    "roomaji": "Mukkuru",
+    "ko": "찌르꼬",
+    "zh-Hant": "姆克兒",
+    "fr": "Étourmi",
+    "de": "Staralili",
+    "es": "Starly",
+    "it": "Starly",
+    "en": "Starly",
+    "ja": "ムックル",
+    "zh-Hans": "姆克儿"
+  }
+}

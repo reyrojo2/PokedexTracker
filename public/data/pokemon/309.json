@@ -1,0 +1,18 @@
+{
+  "id": 309,
+  "sprite": "sprites/home/309.png",
+  "name_en": "electrike",
+  "translations": {
+    "ja-Hrkt": "ラクライ",
+    "roomaji": "Rakurai",
+    "ko": "썬더라이",
+    "zh-Hant": "落雷獸",
+    "fr": "Dynavolt",
+    "de": "Frizelbliz",
+    "es": "Electrike",
+    "it": "Electrike",
+    "en": "Electrike",
+    "ja": "ラクライ",
+    "zh-Hans": "落雷兽"
+  }
+}

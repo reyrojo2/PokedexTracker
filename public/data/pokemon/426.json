@@ -1,0 +1,18 @@
+{
+  "id": 426,
+  "sprite": "sprites/home/426.png",
+  "name_en": "drifblim",
+  "translations": {
+    "ja-Hrkt": "フワライド",
+    "roomaji": "Fuwaride",
+    "ko": "둥실라이드",
+    "zh-Hant": "隨風球",
+    "fr": "Grodrive",
+    "de": "Drifzepeli",
+    "es": "Drifblim",
+    "it": "Drifblim",
+    "en": "Drifblim",
+    "ja": "フワライド",
+    "zh-Hans": "随风球"
+  }
+}

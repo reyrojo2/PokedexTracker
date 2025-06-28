@@ -1,0 +1,18 @@
+{
+  "id": 656,
+  "sprite": "sprites/home/656.png",
+  "name_en": "froakie",
+  "translations": {
+    "ja-Hrkt": "ケロマツ",
+    "roomaji": "Keromatsu",
+    "ko": "개구마르",
+    "zh-Hant": "呱呱泡蛙",
+    "fr": "Grenousse",
+    "de": "Froxy",
+    "es": "Froakie",
+    "it": "Froakie",
+    "en": "Froakie",
+    "ja": "ケロマツ",
+    "zh-Hans": "呱呱泡蛙"
+  }
+}

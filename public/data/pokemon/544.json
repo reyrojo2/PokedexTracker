@@ -1,0 +1,18 @@
+{
+  "id": 544,
+  "sprite": "sprites/home/544.png",
+  "name_en": "whirlipede",
+  "translations": {
+    "ja-Hrkt": "ホイーガ",
+    "roomaji": "Wheega",
+    "ko": "휠구",
+    "zh-Hant": "車輪毬",
+    "fr": "Scobolide",
+    "de": "Rollum",
+    "es": "Whirlipede",
+    "it": "Whirlipede",
+    "en": "Whirlipede",
+    "ja": "ホイーガ",
+    "zh-Hans": "车轮球"
+  }
+}

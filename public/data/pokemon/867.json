@@ -1,0 +1,18 @@
+{
+  "id": 867,
+  "sprite": "sprites/home/867.png",
+  "name_en": "runerigus",
+  "translations": {
+    "ja-Hrkt": "デスバーン",
+    "roomaji": "Deathbarn",
+    "ko": "데스판",
+    "zh-Hant": "死神板",
+    "fr": "Tutétékri",
+    "de": "Oghnatoll",
+    "es": "Runerigus",
+    "it": "Runerigus",
+    "en": "Runerigus",
+    "ja": "デスバーン",
+    "zh-Hans": "迭失板"
+  }
+}

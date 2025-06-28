@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "sprite": "sprites/home/698.png",
+  "name_en": "amaura",
+  "translations": {
+    "ja-Hrkt": "アマルス",
+    "roomaji": "Amarus",
+    "ko": "아마루스",
+    "zh-Hant": "冰雪龍",
+    "fr": "Amagara",
+    "de": "Amarino",
+    "es": "Amaura",
+    "it": "Amaura",
+    "en": "Amaura",
+    "ja": "アマルス",
+    "zh-Hans": "冰雪龙"
+  }
+}

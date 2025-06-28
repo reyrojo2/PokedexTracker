@@ -1,0 +1,18 @@
+{
+  "id": 988,
+  "sprite": "sprites/home/988.png",
+  "name_en": "slither-wing",
+  "translations": {
+    "ja-Hrkt": "チヲハウハネ",
+    "roomaji": "Chiwohauhane",
+    "ko": "땅을기는날개",
+    "zh-Hant": "爬地翅",
+    "fr": "Rampe-Ailes",
+    "de": "Kriechflügel",
+    "es": "Reptalada",
+    "it": "Alirasenti",
+    "en": "Slither Wing",
+    "ja": "チヲハウハネ",
+    "zh-Hans": "爬地翅"
+  }
+}

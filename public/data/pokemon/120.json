@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "sprite": "sprites/home/120.png",
+  "name_en": "staryu",
+  "translations": {
+    "ja-Hrkt": "ヒトデマン",
+    "roomaji": "Hitodeman",
+    "ko": "별가사리",
+    "zh-Hant": "海星星",
+    "fr": "Stari",
+    "de": "Sterndu",
+    "es": "Staryu",
+    "it": "Staryu",
+    "en": "Staryu",
+    "ja": "ヒトデマン",
+    "zh-Hans": "海星星"
+  }
+}

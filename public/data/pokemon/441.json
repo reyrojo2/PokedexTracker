@@ -1,0 +1,18 @@
+{
+  "id": 441,
+  "sprite": "sprites/home/441.png",
+  "name_en": "chatot",
+  "translations": {
+    "ja-Hrkt": "ペラップ",
+    "roomaji": "Perap",
+    "ko": "페라페",
+    "zh-Hant": "聒噪鳥",
+    "fr": "Pijako",
+    "de": "Plaudagei",
+    "es": "Chatot",
+    "it": "Chatot",
+    "en": "Chatot",
+    "ja": "ペラップ",
+    "zh-Hans": "聒噪鸟"
+  }
+}

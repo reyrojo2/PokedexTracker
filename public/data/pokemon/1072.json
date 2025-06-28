@@ -1,0 +1,19 @@
+{
+  "id": 1072,
+  "sprite": "sprites/home/1072.png",
+  "name_en": "Hisuian Zorua",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ゾロア",
+    "roomaji": "Zorua",
+    "ko": "조로아",
+    "zh-Hant": "索羅亞",
+    "fr": "Zorua",
+    "de": "Zorua",
+    "es": "Zorua",
+    "it": "Zorua",
+    "en": "Zorua",
+    "ja": "ゾロア",
+    "zh-Hans": "索罗亚"
+  }
+}

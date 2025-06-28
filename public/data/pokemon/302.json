@@ -1,0 +1,18 @@
+{
+  "id": 302,
+  "sprite": "sprites/home/302.png",
+  "name_en": "sableye",
+  "translations": {
+    "ja-Hrkt": "ヤミラミ",
+    "roomaji": "Yamirami",
+    "ko": "깜까미",
+    "zh-Hant": "勾魂眼",
+    "fr": "Ténéfix",
+    "de": "Zobiris",
+    "es": "Sableye",
+    "it": "Sableye",
+    "en": "Sableye",
+    "ja": "ヤミラミ",
+    "zh-Hans": "勾魂眼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 106,
+  "sprite": "sprites/home/106.png",
+  "name_en": "hitmonlee",
+  "translations": {
+    "ja-Hrkt": "サワムラー",
+    "roomaji": "Sawamular",
+    "ko": "시라소몬",
+    "zh-Hant": "飛腿郎",
+    "fr": "Kicklee",
+    "de": "Kicklee",
+    "es": "Hitmonlee",
+    "it": "Hitmonlee",
+    "en": "Hitmonlee",
+    "ja": "サワムラー",
+    "zh-Hans": "飞腿郎"
+  }
+}

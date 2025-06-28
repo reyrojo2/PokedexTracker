@@ -1,0 +1,18 @@
+{
+  "id": 124,
+  "sprite": "sprites/home/124.png",
+  "name_en": "jynx",
+  "translations": {
+    "ja-Hrkt": "ルージュラ",
+    "roomaji": "Rougela",
+    "ko": "루주라",
+    "zh-Hant": "迷唇姐",
+    "fr": "Lippoutou",
+    "de": "Rossana",
+    "es": "Jynx",
+    "it": "Jynx",
+    "en": "Jynx",
+    "ja": "ルージュラ",
+    "zh-Hans": "迷唇姐"
+  }
+}

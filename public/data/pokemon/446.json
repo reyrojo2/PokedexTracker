@@ -1,0 +1,18 @@
+{
+  "id": 446,
+  "sprite": "sprites/home/446.png",
+  "name_en": "munchlax",
+  "translations": {
+    "ja-Hrkt": "ゴンベ",
+    "roomaji": "Gonbe",
+    "ko": "먹고자",
+    "zh-Hant": "小卡比獸",
+    "fr": "Goinfrex",
+    "de": "Mampfaxo",
+    "es": "Munchlax",
+    "it": "Munchlax",
+    "en": "Munchlax",
+    "ja": "ゴンベ",
+    "zh-Hans": "小卡比兽"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 107,
+  "sprite": "sprites/home/107.png",
+  "name_en": "hitmonchan",
+  "translations": {
+    "ja-Hrkt": "エビワラー",
+    "roomaji": "Ebiwalar",
+    "ko": "홍수몬",
+    "zh-Hant": "快拳郎",
+    "fr": "Tygnon",
+    "de": "Nockchan",
+    "es": "Hitmonchan",
+    "it": "Hitmonchan",
+    "en": "Hitmonchan",
+    "ja": "エビワラー",
+    "zh-Hans": "快拳郎"
+  }
+}

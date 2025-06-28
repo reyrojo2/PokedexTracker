@@ -1,0 +1,18 @@
+{
+  "id": 659,
+  "sprite": "sprites/home/659.png",
+  "name_en": "bunnelby",
+  "translations": {
+    "ja-Hrkt": "ホルビー",
+    "roomaji": "Horubee",
+    "ko": "파르빗",
+    "zh-Hant": "掘掘兔",
+    "fr": "Sapereau",
+    "de": "Scoppel",
+    "es": "Bunnelby",
+    "it": "Bunnelby",
+    "en": "Bunnelby",
+    "ja": "ホルビー",
+    "zh-Hans": "掘掘兔"
+  }
+}

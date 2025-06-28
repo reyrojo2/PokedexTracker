@@ -1,0 +1,18 @@
+{
+  "id": 781,
+  "sprite": "sprites/home/781.png",
+  "name_en": "dhelmise",
+  "translations": {
+    "ja-Hrkt": "ダダリン",
+    "roomaji": "Dadarin",
+    "ko": "타타륜",
+    "zh-Hant": "破破舵輪",
+    "fr": "Sinistrail",
+    "de": "Moruda",
+    "es": "Dhelmise",
+    "it": "Dhelmise",
+    "en": "Dhelmise",
+    "ja": "ダダリン",
+    "zh-Hans": "破破舵轮"
+  }
+}

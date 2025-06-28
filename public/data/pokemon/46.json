@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "sprite": "sprites/home/46.png",
+  "name_en": "paras",
+  "translations": {
+    "ja-Hrkt": "パラス",
+    "roomaji": "Paras",
+    "ko": "파라스",
+    "zh-Hant": "派拉斯",
+    "fr": "Paras",
+    "de": "Paras",
+    "es": "Paras",
+    "it": "Paras",
+    "en": "Paras",
+    "ja": "パラス",
+    "zh-Hans": "派拉斯"
+  }
+}

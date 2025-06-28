@@ -1,0 +1,18 @@
+{
+  "id": 196,
+  "sprite": "sprites/home/196.png",
+  "name_en": "espeon",
+  "translations": {
+    "ja-Hrkt": "エーフィ",
+    "roomaji": "Eifie",
+    "ko": "에브이",
+    "zh-Hant": "太陽伊布",
+    "fr": "Mentali",
+    "de": "Psiana",
+    "es": "Espeon",
+    "it": "Espeon",
+    "en": "Espeon",
+    "ja": "エーフィ",
+    "zh-Hans": "太阳伊布"
+  }
+}

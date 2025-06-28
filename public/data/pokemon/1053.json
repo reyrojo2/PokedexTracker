@@ -1,0 +1,19 @@
+{
+  "id": 1053,
+  "sprite": "sprites/home/1053.png",
+  "name_en": "Galarian Articuno",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "フリーザー",
+    "roomaji": "Freezer",
+    "ko": "프리져",
+    "zh-Hant": "急凍鳥",
+    "fr": "Artikodin",
+    "de": "Arktos",
+    "es": "Articuno",
+    "it": "Articuno",
+    "en": "Articuno",
+    "ja": "フリーザー",
+    "zh-Hans": "急冻鸟"
+  }
+}

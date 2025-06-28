@@ -1,0 +1,18 @@
+{
+  "id": 370,
+  "sprite": "sprites/home/370.png",
+  "name_en": "luvdisc",
+  "translations": {
+    "ja-Hrkt": "ラブカス",
+    "roomaji": "Lovecus",
+    "ko": "사랑동이",
+    "zh-Hant": "愛心魚",
+    "fr": "Lovdisc",
+    "de": "Liebiskus",
+    "es": "Luvdisc",
+    "it": "Luvdisc",
+    "en": "Luvdisc",
+    "ja": "ラブカス",
+    "zh-Hans": "爱心鱼"
+  }
+}

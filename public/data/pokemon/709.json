@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "sprite": "sprites/home/709.png",
+  "name_en": "trevenant",
+  "translations": {
+    "ja-Hrkt": "オーロット",
+    "roomaji": "Ohrot",
+    "ko": "대로트",
+    "zh-Hant": "朽木妖",
+    "fr": "Desséliande",
+    "de": "Trombork",
+    "es": "Trevenant",
+    "it": "Trevenant",
+    "en": "Trevenant",
+    "ja": "オーロット",
+    "zh-Hans": "朽木妖"
+  }
+}

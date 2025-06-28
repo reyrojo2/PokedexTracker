@@ -1,0 +1,18 @@
+{
+  "id": 125,
+  "sprite": "sprites/home/125.png",
+  "name_en": "electabuzz",
+  "translations": {
+    "ja-Hrkt": "エレブー",
+    "roomaji": "Eleboo",
+    "ko": "에레브",
+    "zh-Hant": "電擊獸",
+    "fr": "Élektek",
+    "de": "Elektek",
+    "es": "Electabuzz",
+    "it": "Electabuzz",
+    "en": "Electabuzz",
+    "ja": "エレブー",
+    "zh-Hans": "电击兽"
+  }
+}

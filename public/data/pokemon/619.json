@@ -1,0 +1,18 @@
+{
+  "id": 619,
+  "sprite": "sprites/home/619.png",
+  "name_en": "mienfoo",
+  "translations": {
+    "ja-Hrkt": "コジョフー",
+    "roomaji": "Kojofu",
+    "ko": "비조푸",
+    "zh-Hant": "功夫鼬",
+    "fr": "Kungfouine",
+    "de": "Lin-Fu",
+    "es": "Mienfoo",
+    "it": "Mienfoo",
+    "en": "Mienfoo",
+    "ja": "コジョフー",
+    "zh-Hans": "功夫鼬"
+  }
+}

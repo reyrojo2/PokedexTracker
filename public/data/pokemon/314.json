@@ -1,0 +1,18 @@
+{
+  "id": 314,
+  "sprite": "sprites/home/314.png",
+  "name_en": "illumise",
+  "translations": {
+    "ja-Hrkt": "イルミーゼ",
+    "roomaji": "Illumise",
+    "ko": "네오비트",
+    "zh-Hant": "甜甜螢",
+    "fr": "Lumivole",
+    "de": "Illumise",
+    "es": "Illumise",
+    "it": "Illumise",
+    "en": "Illumise",
+    "ja": "イルミーゼ",
+    "zh-Hans": "甜甜萤"
+  }
+}

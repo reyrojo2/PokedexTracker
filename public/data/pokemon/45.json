@@ -1,0 +1,18 @@
+{
+  "id": 45,
+  "sprite": "sprites/home/45.png",
+  "name_en": "vileplume",
+  "translations": {
+    "ja-Hrkt": "ラフレシア",
+    "roomaji": "Ruffresia",
+    "ko": "라플레시아",
+    "zh-Hant": "霸王花",
+    "fr": "Rafflesia",
+    "de": "Giflor",
+    "es": "Vileplume",
+    "it": "Vileplume",
+    "en": "Vileplume",
+    "ja": "ラフレシア",
+    "zh-Hans": "霸王花"
+  }
+}

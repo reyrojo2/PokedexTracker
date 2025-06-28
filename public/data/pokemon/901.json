@@ -1,0 +1,18 @@
+{
+  "id": 901,
+  "sprite": "sprites/home/901.png",
+  "name_en": "ursaluna",
+  "translations": {
+    "ja-Hrkt": "ガチグマ",
+    "roomaji": "Gachiguma",
+    "ko": "다투곰",
+    "zh-Hant": "月月熊",
+    "fr": "Ursaking",
+    "de": "Ursaluna",
+    "es": "Ursaluna",
+    "it": "Ursaluna",
+    "en": "Ursaluna",
+    "ja": "ガチグマ",
+    "zh-Hans": "月月熊"
+  }
+}

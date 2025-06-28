@@ -1,0 +1,18 @@
+{
+  "id": 392,
+  "sprite": "sprites/home/392.png",
+  "name_en": "infernape",
+  "translations": {
+    "ja-Hrkt": "ゴウカザル",
+    "roomaji": "Gōkazaru",
+    "ko": "초염몽",
+    "zh-Hant": "烈焰猴",
+    "fr": "Simiabraz",
+    "de": "Panferno",
+    "es": "Infernape",
+    "it": "Infernape",
+    "en": "Infernape",
+    "ja": "ゴウカザル",
+    "zh-Hans": "烈焰猴"
+  }
+}

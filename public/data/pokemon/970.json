@@ -1,0 +1,18 @@
+{
+  "id": 970,
+  "sprite": "sprites/home/970.png",
+  "name_en": "glimmora",
+  "translations": {
+    "ja-Hrkt": "キラフロル",
+    "roomaji": "Kiraflor",
+    "ko": "킬라플로르",
+    "zh-Hant": "晶光花",
+    "fr": "Floréclat",
+    "de": "Lumiflora",
+    "es": "Glimmora",
+    "it": "Glimmora",
+    "en": "Glimmora",
+    "ja": "キラフロル",
+    "zh-Hans": "晶光花"
+  }
+}

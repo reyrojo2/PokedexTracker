@@ -1,0 +1,19 @@
+{
+  "id": 1079,
+  "sprite": "sprites/home/1080.png",
+  "name_en": "Paldean Wooper",
+  "region": "Paldea",
+  "translations": {
+    "ja-Hrkt": "ウパー",
+    "roomaji": "Upah",
+    "ko": "우파",
+    "zh-Hant": "烏波",
+    "fr": "Axoloto",
+    "de": "Felino",
+    "es": "Wooper",
+    "it": "Wooper",
+    "en": "Wooper",
+    "ja": "ウパー",
+    "zh-Hans": "乌波"
+  }
+}

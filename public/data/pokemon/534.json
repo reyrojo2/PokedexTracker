@@ -1,0 +1,18 @@
+{
+  "id": 534,
+  "sprite": "sprites/home/534.png",
+  "name_en": "conkeldurr",
+  "translations": {
+    "ja-Hrkt": "ローブシン",
+    "roomaji": "Roubushin",
+    "ko": "노보청",
+    "zh-Hant": "修建老匠",
+    "fr": "Bétochef",
+    "de": "Meistagrif",
+    "es": "Conkeldurr",
+    "it": "Conkeldurr",
+    "en": "Conkeldurr",
+    "ja": "ローブシン",
+    "zh-Hans": "修建老匠"
+  }
+}

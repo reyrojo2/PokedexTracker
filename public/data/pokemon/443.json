@@ -1,0 +1,18 @@
+{
+  "id": 443,
+  "sprite": "sprites/home/443.png",
+  "name_en": "gible",
+  "translations": {
+    "ja-Hrkt": "フカマル",
+    "roomaji": "Fukamaru",
+    "ko": "딥상어동",
+    "zh-Hant": "圓陸鯊",
+    "fr": "Griknot",
+    "de": "Kaumalat",
+    "es": "Gible",
+    "it": "Gible",
+    "en": "Gible",
+    "ja": "フカマル",
+    "zh-Hans": "圆陆鲨"
+  }
+}

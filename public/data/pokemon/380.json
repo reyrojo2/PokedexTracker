@@ -1,0 +1,18 @@
+{
+  "id": 380,
+  "sprite": "sprites/home/380.png",
+  "name_en": "latias",
+  "translations": {
+    "ja-Hrkt": "ラティアス",
+    "roomaji": "Latias",
+    "ko": "라티아스",
+    "zh-Hant": "拉帝亞斯",
+    "fr": "Latias",
+    "de": "Latias",
+    "es": "Latias",
+    "it": "Latias",
+    "en": "Latias",
+    "ja": "ラティアス",
+    "zh-Hans": "拉帝亚斯"
+  }
+}

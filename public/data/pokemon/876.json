@@ -1,0 +1,18 @@
+{
+  "id": 876,
+  "sprite": "sprites/home/876.png",
+  "name_en": "indeedee-male",
+  "translations": {
+    "ja-Hrkt": "イエッサン",
+    "roomaji": "Yessan",
+    "ko": "에써르",
+    "zh-Hant": "愛管侍",
+    "fr": "Wimessir",
+    "de": "Servol",
+    "es": "Indeedee",
+    "it": "Indeedee",
+    "en": "Indeedee",
+    "ja": "イエッサン",
+    "zh-Hans": "爱管侍"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "sprite": "sprites/home/744.png",
+  "name_en": "rockruff",
+  "translations": {
+    "ja-Hrkt": "イワンコ",
+    "roomaji": "Iwanko",
+    "ko": "암멍이",
+    "zh-Hant": "岩狗狗",
+    "fr": "Rocabot",
+    "de": "Wuffels",
+    "es": "Rockruff",
+    "it": "Rockruff",
+    "en": "Rockruff",
+    "ja": "イワンコ",
+    "zh-Hans": "岩狗狗"
+  }
+}

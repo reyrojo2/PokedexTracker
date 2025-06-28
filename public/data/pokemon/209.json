@@ -1,0 +1,18 @@
+{
+  "id": 209,
+  "sprite": "sprites/home/209.png",
+  "name_en": "snubbull",
+  "translations": {
+    "ja-Hrkt": "ブルー",
+    "roomaji": "Bulu",
+    "ko": "블루",
+    "zh-Hant": "布魯",
+    "fr": "Snubbull",
+    "de": "Snubbull",
+    "es": "Snubbull",
+    "it": "Snubbull",
+    "en": "Snubbull",
+    "ja": "ブルー",
+    "zh-Hans": "布鲁"
+  }
+}

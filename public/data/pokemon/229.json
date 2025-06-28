@@ -1,0 +1,18 @@
+{
+  "id": 229,
+  "sprite": "sprites/home/229.png",
+  "name_en": "houndoom",
+  "translations": {
+    "ja-Hrkt": "ヘルガー",
+    "roomaji": "Hellgar",
+    "ko": "헬가",
+    "zh-Hant": "黑魯加",
+    "fr": "Démolosse",
+    "de": "Hundemon",
+    "es": "Houndoom",
+    "it": "Houndoom",
+    "en": "Houndoom",
+    "ja": "ヘルガー",
+    "zh-Hans": "黑鲁加"
+  }
+}

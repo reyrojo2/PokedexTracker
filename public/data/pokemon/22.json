@@ -1,0 +1,18 @@
+{
+  "id": 22,
+  "sprite": "sprites/home/22.png",
+  "name_en": "fearow",
+  "translations": {
+    "ja-Hrkt": "オニドリル",
+    "roomaji": "Onidrill",
+    "ko": "깨비드릴조",
+    "zh-Hant": "大嘴雀",
+    "fr": "Rapasdepic",
+    "de": "Ibitak",
+    "es": "Fearow",
+    "it": "Fearow",
+    "en": "Fearow",
+    "ja": "オニドリル",
+    "zh-Hans": "大嘴雀"
+  }
+}

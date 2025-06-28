@@ -1,0 +1,18 @@
+{
+  "id": 501,
+  "sprite": "sprites/home/501.png",
+  "name_en": "oshawott",
+  "translations": {
+    "ja-Hrkt": "ミジュマル",
+    "roomaji": "Mijumaru",
+    "ko": "수댕이",
+    "zh-Hant": "水水獺",
+    "fr": "Moustillon",
+    "de": "Ottaro",
+    "es": "Oshawott",
+    "it": "Oshawott",
+    "en": "Oshawott",
+    "ja": "ミジュマル",
+    "zh-Hans": "水水獭"
+  }
+}

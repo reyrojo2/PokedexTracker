@@ -1,0 +1,18 @@
+{
+  "id": 131,
+  "sprite": "sprites/home/131.png",
+  "name_en": "lapras",
+  "translations": {
+    "ja-Hrkt": "ラプラス",
+    "roomaji": "Laplace",
+    "ko": "라프라스",
+    "zh-Hant": "拉普拉斯",
+    "fr": "Lokhlass",
+    "de": "Lapras",
+    "es": "Lapras",
+    "it": "Lapras",
+    "en": "Lapras",
+    "ja": "ラプラス",
+    "zh-Hans": "拉普拉斯"
+  }
+}

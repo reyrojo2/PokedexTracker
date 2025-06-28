@@ -1,0 +1,18 @@
+{
+  "id": 180,
+  "sprite": "sprites/home/180.png",
+  "name_en": "flaaffy",
+  "translations": {
+    "ja-Hrkt": "モココ",
+    "roomaji": "Mokoko",
+    "ko": "보송송",
+    "zh-Hant": "茸茸羊",
+    "fr": "Lainergie",
+    "de": "Waaty",
+    "es": "Flaaffy",
+    "it": "Flaaffy",
+    "en": "Flaaffy",
+    "ja": "モココ",
+    "zh-Hans": "茸茸羊"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 444,
+  "sprite": "sprites/home/444.png",
+  "name_en": "gabite",
+  "translations": {
+    "ja-Hrkt": "ガバイト",
+    "roomaji": "Gabite",
+    "ko": "한바이트",
+    "zh-Hant": "尖牙陸鯊",
+    "fr": "Carmache",
+    "de": "Knarksel",
+    "es": "Gabite",
+    "it": "Gabite",
+    "en": "Gabite",
+    "ja": "ガバイト",
+    "zh-Hans": "尖牙陆鲨"
+  }
+}

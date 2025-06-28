@@ -1,0 +1,18 @@
+{
+  "id": 906,
+  "sprite": "sprites/home/906.png",
+  "name_en": "sprigatito",
+  "translations": {
+    "ja-Hrkt": "ニャオハ",
+    "roomaji": "Nyahoja",
+    "ko": "나오하",
+    "zh-Hant": "新葉喵",
+    "fr": "Poussacha",
+    "de": "Felori",
+    "es": "Sprigatito",
+    "it": "Sprigatito",
+    "en": "Sprigatito",
+    "ja": "ニャオハ",
+    "zh-Hans": "新叶喵"
+  }
+}

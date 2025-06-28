@@ -1,0 +1,18 @@
+{
+  "id": 410,
+  "sprite": "sprites/home/410.png",
+  "name_en": "shieldon",
+  "translations": {
+    "ja-Hrkt": "タテトプス",
+    "roomaji": "Tatetops",
+    "ko": "방패톱스",
+    "zh-Hant": "盾甲龍",
+    "fr": "Dinoclier",
+    "de": "Schilterus",
+    "es": "Shieldon",
+    "it": "Shieldon",
+    "en": "Shieldon",
+    "ja": "タテトプス",
+    "zh-Hans": "盾甲龙"
+  }
+}

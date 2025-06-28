@@ -1,0 +1,18 @@
+{
+  "id": 339,
+  "sprite": "sprites/home/339.png",
+  "name_en": "barboach",
+  "translations": {
+    "ja-Hrkt": "ドジョッチ",
+    "roomaji": "Dojoach",
+    "ko": "미꾸리",
+    "zh-Hant": "泥泥鰍",
+    "fr": "Barloche",
+    "de": "Schmerbe",
+    "es": "Barboach",
+    "it": "Barboach",
+    "en": "Barboach",
+    "ja": "ドジョッチ",
+    "zh-Hans": "泥泥鳅"
+  }
+}

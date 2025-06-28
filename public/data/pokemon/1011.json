@@ -1,0 +1,17 @@
+{
+  "id": 1011,
+  "sprite": "sprites/home/1011.png",
+  "name_en": "dipplin",
+  "translations": {
+    "ja-Hrkt": "カミッチュ",
+    "ko": "과미르",
+    "zh-Hant": "裹蜜蟲",
+    "fr": "Pomdramour",
+    "de": "Sirapfel",
+    "es": "Dipplin",
+    "it": "Dipplin",
+    "en": "Dipplin",
+    "ja": "カミッチュ",
+    "zh-Hans": "裹蜜虫"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 218,
+  "sprite": "sprites/home/218.png",
+  "name_en": "slugma",
+  "translations": {
+    "ja-Hrkt": "マグマッグ",
+    "roomaji": "Magmag",
+    "ko": "마그마그",
+    "zh-Hant": "熔岩蟲",
+    "fr": "Limagma",
+    "de": "Schneckmag",
+    "es": "Slugma",
+    "it": "Slugma",
+    "en": "Slugma",
+    "ja": "マグマッグ",
+    "zh-Hans": "熔岩虫"
+  }
+}

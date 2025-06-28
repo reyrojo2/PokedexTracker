@@ -1,0 +1,18 @@
+{
+  "id": 79,
+  "sprite": "sprites/home/79.png",
+  "name_en": "slowpoke",
+  "translations": {
+    "ja-Hrkt": "ヤドン",
+    "roomaji": "Yadon",
+    "ko": "야돈",
+    "zh-Hant": "呆呆獸",
+    "fr": "Ramoloss",
+    "de": "Flegmon",
+    "es": "Slowpoke",
+    "it": "Slowpoke",
+    "en": "Slowpoke",
+    "ja": "ヤドン",
+    "zh-Hans": "呆呆兽"
+  }
+}

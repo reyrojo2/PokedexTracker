@@ -1,0 +1,18 @@
+{
+  "id": 509,
+  "sprite": "sprites/home/509.png",
+  "name_en": "purrloin",
+  "translations": {
+    "ja-Hrkt": "チョロネコ",
+    "roomaji": "Choroneko",
+    "ko": "쌔비냥",
+    "zh-Hant": "扒手貓",
+    "fr": "Chacripan",
+    "de": "Felilou",
+    "es": "Purrloin",
+    "it": "Purrloin",
+    "en": "Purrloin",
+    "ja": "チョロネコ",
+    "zh-Hans": "扒手猫"
+  }
+}

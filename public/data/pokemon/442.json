@@ -1,0 +1,18 @@
+{
+  "id": 442,
+  "sprite": "sprites/home/442.png",
+  "name_en": "spiritomb",
+  "translations": {
+    "ja-Hrkt": "ミカルゲ",
+    "roomaji": "Mikaruge",
+    "ko": "화강돌",
+    "zh-Hant": "花岩怪",
+    "fr": "Spiritomb",
+    "de": "Kryppuk",
+    "es": "Spiritomb",
+    "it": "Spiritomb",
+    "en": "Spiritomb",
+    "ja": "ミカルゲ",
+    "zh-Hans": "花岩怪"
+  }
+}

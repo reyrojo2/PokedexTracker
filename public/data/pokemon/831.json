@@ -1,0 +1,18 @@
+{
+  "id": 831,
+  "sprite": "sprites/home/831.png",
+  "name_en": "wooloo",
+  "translations": {
+    "ja-Hrkt": "ウールー",
+    "roomaji": "Wooluu",
+    "ko": "우르",
+    "zh-Hant": "毛辮羊",
+    "fr": "Moumouton",
+    "de": "Wolly",
+    "es": "Wooloo",
+    "it": "Wooloo",
+    "en": "Wooloo",
+    "ja": "ウールー",
+    "zh-Hans": "毛辫羊"
+  }
+}

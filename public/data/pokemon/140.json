@@ -1,0 +1,18 @@
+{
+  "id": 140,
+  "sprite": "sprites/home/140.png",
+  "name_en": "kabuto",
+  "translations": {
+    "ja-Hrkt": "カブト",
+    "roomaji": "Kabuto",
+    "ko": "투구",
+    "zh-Hant": "化石盔",
+    "fr": "Kabuto",
+    "de": "Kabuto",
+    "es": "Kabuto",
+    "it": "Kabuto",
+    "en": "Kabuto",
+    "ja": "カブト",
+    "zh-Hans": "化石盔"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 826,
+  "sprite": "sprites/home/826.png",
+  "name_en": "orbeetle",
+  "translations": {
+    "ja-Hrkt": "イオルブ",
+    "roomaji": "Eolb",
+    "ko": "이올브",
+    "zh-Hant": "以歐路普",
+    "fr": "Astronelle",
+    "de": "Maritellit",
+    "es": "Orbeetle",
+    "it": "Orbeetle",
+    "en": "Orbeetle",
+    "ja": "イオルブ",
+    "zh-Hans": "以欧路普"
+  }
+}

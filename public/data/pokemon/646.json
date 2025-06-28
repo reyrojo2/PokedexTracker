@@ -1,0 +1,18 @@
+{
+  "id": 646,
+  "sprite": "sprites/home/646.png",
+  "name_en": "kyurem",
+  "translations": {
+    "ja-Hrkt": "キュレム",
+    "roomaji": "Kyurem",
+    "ko": "큐레무",
+    "zh-Hant": "酋雷姆",
+    "fr": "Kyurem",
+    "de": "Kyurem",
+    "es": "Kyurem",
+    "it": "Kyurem",
+    "en": "Kyurem",
+    "ja": "キュレム",
+    "zh-Hans": "酋雷姆"
+  }
+}

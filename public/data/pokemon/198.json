@@ -1,0 +1,18 @@
+{
+  "id": 198,
+  "sprite": "sprites/home/198.png",
+  "name_en": "murkrow",
+  "translations": {
+    "ja-Hrkt": "ヤミカラス",
+    "roomaji": "Yamikarasu",
+    "ko": "니로우",
+    "zh-Hant": "黑暗鴉",
+    "fr": "Cornèbre",
+    "de": "Kramurx",
+    "es": "Murkrow",
+    "it": "Murkrow",
+    "en": "Murkrow",
+    "ja": "ヤミカラス",
+    "zh-Hans": "黑暗鸦"
+  }
+}

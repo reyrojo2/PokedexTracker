@@ -1,0 +1,18 @@
+{
+  "id": 165,
+  "sprite": "sprites/home/165.png",
+  "name_en": "ledyba",
+  "translations": {
+    "ja-Hrkt": "レディバ",
+    "roomaji": "Rediba",
+    "ko": "레디바",
+    "zh-Hant": "芭瓢蟲",
+    "fr": "Coxy",
+    "de": "Ledyba",
+    "es": "Ledyba",
+    "it": "Ledyba",
+    "en": "Ledyba",
+    "ja": "レディバ",
+    "zh-Hans": "芭瓢虫"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1068,
+  "sprite": "sprites/home/1068.png",
+  "name_en": "Hisuian Qwilfish",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ハリーセン",
+    "roomaji": "Harysen",
+    "ko": "침바루",
+    "zh-Hant": "千針魚",
+    "fr": "Qwilfish",
+    "de": "Baldorfish",
+    "es": "Qwilfish",
+    "it": "Qwilfish",
+    "en": "Qwilfish",
+    "ja": "ハリーセン",
+    "zh-Hans": "千针鱼"
+  }
+}

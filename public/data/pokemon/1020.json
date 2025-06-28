@@ -1,0 +1,17 @@
+{
+  "id": 1020,
+  "sprite": "sprites/home/1020.png",
+  "name_en": "gouging-fire",
+  "translations": {
+    "ja-Hrkt": "ウガツホムラ",
+    "ko": "꿰뚫는화염",
+    "zh-Hant": "破空焰",
+    "fr": "Feu-Perçant",
+    "de": "Keilflamme",
+    "es": "Flamariete",
+    "it": "Vampeaguzze",
+    "en": "Gouging Fire",
+    "ja": "ウガツホムラ",
+    "zh-Hans": "破空焰"
+  }
+}

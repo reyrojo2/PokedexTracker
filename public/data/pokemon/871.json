@@ -1,0 +1,18 @@
+{
+  "id": 871,
+  "sprite": "sprites/home/871.png",
+  "name_en": "pincurchin",
+  "translations": {
+    "ja-Hrkt": "バチンウニ",
+    "roomaji": "Bachinuni",
+    "ko": "찌르성게",
+    "zh-Hant": "啪嚓海膽",
+    "fr": "Wattapik",
+    "de": "Britzigel",
+    "es": "Pincurchin",
+    "it": "Pincurchin",
+    "en": "Pincurchin",
+    "ja": "バチンウニ",
+    "zh-Hans": "啪嚓海胆"
+  }
+}

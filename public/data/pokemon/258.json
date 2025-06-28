@@ -1,0 +1,18 @@
+{
+  "id": 258,
+  "sprite": "sprites/home/258.png",
+  "name_en": "mudkip",
+  "translations": {
+    "ja-Hrkt": "ミズゴロウ",
+    "roomaji": "Mizugorou",
+    "ko": "물짱이",
+    "zh-Hant": "水躍魚",
+    "fr": "Gobou",
+    "de": "Hydropi",
+    "es": "Mudkip",
+    "it": "Mudkip",
+    "en": "Mudkip",
+    "ja": "ミズゴロウ",
+    "zh-Hans": "水跃鱼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 119,
+  "sprite": "sprites/home/119.png",
+  "name_en": "seaking",
+  "translations": {
+    "ja-Hrkt": "アズマオウ",
+    "roomaji": "Azumao",
+    "ko": "왕콘치",
+    "zh-Hant": "金魚王",
+    "fr": "Poissoroy",
+    "de": "Golking",
+    "es": "Seaking",
+    "it": "Seaking",
+    "en": "Seaking",
+    "ja": "アズマオウ",
+    "zh-Hans": "金鱼王"
+  }
+}

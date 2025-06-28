@@ -1,0 +1,19 @@
+{
+  "id": 1049,
+  "sprite": "sprites/home/1049.png",
+  "name_en": "Galarian Slowking",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ヤドキング",
+    "roomaji": "Yadoking",
+    "ko": "야도킹",
+    "zh-Hant": "呆呆王",
+    "fr": "Roigada",
+    "de": "Laschoking",
+    "es": "Slowking",
+    "it": "Slowking",
+    "en": "Slowking",
+    "ja": "ヤドキング",
+    "zh-Hans": "呆呆王"
+  }
+}

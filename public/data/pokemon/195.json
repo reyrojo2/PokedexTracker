@@ -1,0 +1,18 @@
+{
+  "id": 195,
+  "sprite": "sprites/home/195.png",
+  "name_en": "quagsire",
+  "translations": {
+    "ja-Hrkt": "ヌオー",
+    "roomaji": "Nuoh",
+    "ko": "누오",
+    "zh-Hant": "沼王",
+    "fr": "Maraiste",
+    "de": "Morlord",
+    "es": "Quagsire",
+    "it": "Quagsire",
+    "en": "Quagsire",
+    "ja": "ヌオー",
+    "zh-Hans": "沼王"
+  }
+}

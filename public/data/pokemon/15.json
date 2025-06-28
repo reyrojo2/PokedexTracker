@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "sprite": "sprites/home/15.png",
+  "name_en": "beedrill",
+  "translations": {
+    "ja-Hrkt": "スピアー",
+    "roomaji": "Spear",
+    "ko": "독침붕",
+    "zh-Hant": "大針蜂",
+    "fr": "Dardargnan",
+    "de": "Bibor",
+    "es": "Beedrill",
+    "it": "Beedrill",
+    "en": "Beedrill",
+    "ja": "スピアー",
+    "zh-Hans": "大针蜂"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 673,
+  "sprite": "sprites/home/673.png",
+  "name_en": "gogoat",
+  "translations": {
+    "ja-Hrkt": "ゴーゴート",
+    "roomaji": "Gogoat",
+    "ko": "고고트",
+    "zh-Hant": "坐騎山羊",
+    "fr": "Chevroum",
+    "de": "Chevrumm",
+    "es": "Gogoat",
+    "it": "Gogoat",
+    "en": "Gogoat",
+    "ja": "ゴーゴート",
+    "zh-Hans": "坐骑山羊"
+  }
+}

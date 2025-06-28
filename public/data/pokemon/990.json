@@ -1,0 +1,18 @@
+{
+  "id": 990,
+  "sprite": "sprites/home/990.png",
+  "name_en": "iron-treads",
+  "translations": {
+    "ja-Hrkt": "テツノワダチ",
+    "roomaji": "Tetsunowadachi",
+    "ko": "무쇠바퀴",
+    "zh-Hant": "鐵轍跡",
+    "fr": "Roue-de-Fer",
+    "de": "Eisenrad",
+    "es": "Ferrodada",
+    "it": "Solcoferreo",
+    "en": "Iron Treads",
+    "ja": "テツノワダチ",
+    "zh-Hans": "铁轍迹"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 650,
+  "sprite": "sprites/home/650.png",
+  "name_en": "chespin",
+  "translations": {
+    "ja-Hrkt": "ハリマロン",
+    "roomaji": "Harimaron",
+    "ko": "도치마론",
+    "zh-Hant": "哈力栗",
+    "fr": "Marisson",
+    "de": "Igamaro",
+    "es": "Chespin",
+    "it": "Chespin",
+    "en": "Chespin",
+    "ja": "ハリマロン",
+    "zh-Hans": "哈力栗"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 947,
+  "sprite": "sprites/home/947.png",
+  "name_en": "brambleghast",
+  "translations": {
+    "ja-Hrkt": "アノホラグサ",
+    "roomaji": "Anohoragusa",
+    "ko": "공푸리",
+    "zh-Hant": "怖納噬草",
+    "fr": "Virevorreur",
+    "de": "Horrerba",
+    "es": "Brambleghast",
+    "it": "Brambleghast",
+    "en": "Brambleghast",
+    "ja": "アノホラグサ",
+    "zh-Hans": "怖纳噬草"
+  }
+}

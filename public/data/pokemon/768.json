@@ -1,0 +1,18 @@
+{
+  "id": 768,
+  "sprite": "sprites/home/768.png",
+  "name_en": "golisopod",
+  "translations": {
+    "ja-Hrkt": "グソクムシャ",
+    "roomaji": "Gusokumusha",
+    "ko": "갑주무사",
+    "zh-Hant": "具甲武者",
+    "fr": "Sarmuraï",
+    "de": "Tectass",
+    "es": "Golisopod",
+    "it": "Golisopod",
+    "en": "Golisopod",
+    "ja": "グソクムシャ",
+    "zh-Hans": "具甲武者"
+  }
+}

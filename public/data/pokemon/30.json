@@ -1,0 +1,18 @@
+{
+  "id": 30,
+  "sprite": "sprites/home/30.png",
+  "name_en": "nidorina",
+  "translations": {
+    "ja-Hrkt": "ニドリーナ",
+    "roomaji": "Nidorina",
+    "ko": "니드리나",
+    "zh-Hant": "尼多娜",
+    "fr": "Nidorina",
+    "de": "Nidorina",
+    "es": "Nidorina",
+    "it": "Nidorina",
+    "en": "Nidorina",
+    "ja": "ニドリーナ",
+    "zh-Hans": "尼多娜"
+  }
+}

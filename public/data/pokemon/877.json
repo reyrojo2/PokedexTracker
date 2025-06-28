@@ -1,0 +1,18 @@
+{
+  "id": 877,
+  "sprite": "sprites/home/877.png",
+  "name_en": "morpeko-full-belly",
+  "translations": {
+    "ja-Hrkt": "モルペコ",
+    "roomaji": "Morpeko",
+    "ko": "모르페코",
+    "zh-Hant": "莫魯貝可",
+    "fr": "Morpeko",
+    "de": "Morpeko",
+    "es": "Morpeko",
+    "it": "Morpeko",
+    "en": "Morpeko",
+    "ja": "モルペコ",
+    "zh-Hans": "莫鲁贝可"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1036,
+  "sprite": "sprites/home/1036.png",
+  "name_en": "Alolan Persian",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "ペルシアン",
+    "roomaji": "Persian",
+    "ko": "페르시온",
+    "zh-Hant": "貓老大",
+    "fr": "Persian",
+    "de": "Snobilikat",
+    "es": "Persian",
+    "it": "Persian",
+    "en": "Persian",
+    "ja": "ペルシアン",
+    "zh-Hans": "猫老大"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 47,
+  "sprite": "sprites/home/47.png",
+  "name_en": "parasect",
+  "translations": {
+    "ja-Hrkt": "パラセクト",
+    "roomaji": "Parasect",
+    "ko": "파라섹트",
+    "zh-Hant": "派拉斯特",
+    "fr": "Parasect",
+    "de": "Parasek",
+    "es": "Parasect",
+    "it": "Parasect",
+    "en": "Parasect",
+    "ja": "パラセクト",
+    "zh-Hans": "派拉斯特"
+  }
+}

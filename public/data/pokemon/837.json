@@ -1,0 +1,18 @@
+{
+  "id": 837,
+  "sprite": "sprites/home/837.png",
+  "name_en": "rolycoly",
+  "translations": {
+    "ja-Hrkt": "タンドン",
+    "roomaji": "Tandon",
+    "ko": "탄동",
+    "zh-Hant": "小炭仔",
+    "fr": "Charbi",
+    "de": "Klonkett",
+    "es": "Rolycoly",
+    "it": "Rolycoly",
+    "en": "Rolycoly",
+    "ja": "タンドン",
+    "zh-Hans": "小炭仔"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 830,
+  "sprite": "sprites/home/830.png",
+  "name_en": "eldegoss",
+  "translations": {
+    "ja-Hrkt": "ワタシラガ",
+    "roomaji": "Watashiraga",
+    "ko": "백솜모카",
+    "zh-Hant": "白蓬蓬",
+    "fr": "Blancoton",
+    "de": "Cottomi",
+    "es": "Eldegoss",
+    "it": "Eldegoss",
+    "en": "Eldegoss",
+    "ja": "ワタシラガ",
+    "zh-Hans": "白蓬蓬"
+  }
+}

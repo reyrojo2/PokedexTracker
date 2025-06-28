@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "sprite": "sprites/home/100.png",
+  "name_en": "voltorb",
+  "translations": {
+    "ja-Hrkt": "ビリリダマ",
+    "roomaji": "Biriridama",
+    "ko": "찌리리공",
+    "zh-Hant": "霹靂電球",
+    "fr": "Voltorbe",
+    "de": "Voltobal",
+    "es": "Voltorb",
+    "it": "Voltorb",
+    "en": "Voltorb",
+    "ja": "ビリリダマ",
+    "zh-Hans": "霹雳电球"
+  }
+}

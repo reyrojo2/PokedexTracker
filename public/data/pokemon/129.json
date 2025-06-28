@@ -1,0 +1,18 @@
+{
+  "id": 129,
+  "sprite": "sprites/home/129.png",
+  "name_en": "magikarp",
+  "translations": {
+    "ja-Hrkt": "コイキング",
+    "roomaji": "Koiking",
+    "ko": "잉어킹",
+    "zh-Hant": "鯉魚王",
+    "fr": "Magicarpe",
+    "de": "Karpador",
+    "es": "Magikarp",
+    "it": "Magikarp",
+    "en": "Magikarp",
+    "ja": "コイキング",
+    "zh-Hans": "鲤鱼王"
+  }
+}

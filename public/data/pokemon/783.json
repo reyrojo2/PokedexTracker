@@ -1,0 +1,18 @@
+{
+  "id": 783,
+  "sprite": "sprites/home/783.png",
+  "name_en": "hakamo-o",
+  "translations": {
+    "ja-Hrkt": "ジャランゴ",
+    "roomaji": "Jyarango",
+    "ko": "짜랑고우",
+    "zh-Hant": "鱗甲龍",
+    "fr": "Écaïd",
+    "de": "Mediras",
+    "es": "Hakamo-o",
+    "it": "Hakamo-o",
+    "en": "Hakamo-o",
+    "ja": "ジャランゴ",
+    "zh-Hans": "鳞甲龙"
+  }
+}

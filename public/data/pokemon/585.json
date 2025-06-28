@@ -1,0 +1,18 @@
+{
+  "id": 585,
+  "sprite": "sprites/home/585.png",
+  "name_en": "deerling",
+  "translations": {
+    "ja-Hrkt": "シキジカ",
+    "roomaji": "Shikijika",
+    "ko": "사철록",
+    "zh-Hant": "四季鹿",
+    "fr": "Vivaldaim",
+    "de": "Sesokitz",
+    "es": "Deerling",
+    "it": "Deerling",
+    "en": "Deerling",
+    "ja": "シキジカ",
+    "zh-Hans": "四季鹿"
+  }
+}

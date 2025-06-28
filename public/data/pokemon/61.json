@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "sprite": "sprites/home/61.png",
+  "name_en": "poliwhirl",
+  "translations": {
+    "ja-Hrkt": "ニョロゾ",
+    "roomaji": "Nyorozo",
+    "ko": "슈륙챙이",
+    "zh-Hant": "蚊香君",
+    "fr": "Têtarte",
+    "de": "Quaputzi",
+    "es": "Poliwhirl",
+    "it": "Poliwhirl",
+    "en": "Poliwhirl",
+    "ja": "ニョロゾ",
+    "zh-Hans": "蚊香君"
+  }
+}

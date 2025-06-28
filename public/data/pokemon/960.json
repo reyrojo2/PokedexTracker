@@ -1,0 +1,18 @@
+{
+  "id": 960,
+  "sprite": "sprites/home/960.png",
+  "name_en": "wiglett",
+  "translations": {
+    "ja-Hrkt": "ウミディグダ",
+    "roomaji": "Umidigda",
+    "ko": "바다그다",
+    "zh-Hant": "海地鼠",
+    "fr": "Taupikeau",
+    "de": "Schligda",
+    "es": "Wiglett",
+    "it": "Wiglett",
+    "en": "Wiglett",
+    "ja": "ウミディグダ",
+    "zh-Hans": "海地鼠"
+  }
+}

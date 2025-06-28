@@ -1,0 +1,18 @@
+{
+  "id": 840,
+  "sprite": "sprites/home/840.png",
+  "name_en": "applin",
+  "translations": {
+    "ja-Hrkt": "カジッチュ",
+    "roomaji": "Kajicchu",
+    "ko": "과사삭벌레",
+    "zh-Hant": "啃果蟲",
+    "fr": "Verpom",
+    "de": "Knapfel",
+    "es": "Applin",
+    "it": "Applin",
+    "en": "Applin",
+    "ja": "カジッチュ",
+    "zh-Hans": "啃果虫"
+  }
+}

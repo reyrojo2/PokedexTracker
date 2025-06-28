@@ -1,0 +1,18 @@
+{
+  "id": 825,
+  "sprite": "sprites/home/825.png",
+  "name_en": "dottler",
+  "translations": {
+    "ja-Hrkt": "レドームシ",
+    "roomaji": "Redomushi",
+    "ko": "레돔벌레",
+    "zh-Hant": "天罩蟲",
+    "fr": "Coléodôme",
+    "de": "Keradar",
+    "es": "Dottler",
+    "it": "Dottler",
+    "en": "Dottler",
+    "ja": "レドームシ",
+    "zh-Hans": "天罩虫"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 366,
+  "sprite": "sprites/home/366.png",
+  "name_en": "clamperl",
+  "translations": {
+    "ja-Hrkt": "パールル",
+    "roomaji": "Pearlulu",
+    "ko": "진주몽",
+    "zh-Hant": "珍珠貝",
+    "fr": "Coquiperl",
+    "de": "Perlu",
+    "es": "Clamperl",
+    "it": "Clamperl",
+    "en": "Clamperl",
+    "ja": "パールル",
+    "zh-Hans": "珍珠贝"
+  }
+}

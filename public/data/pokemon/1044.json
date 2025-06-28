@@ -1,0 +1,19 @@
+{
+  "id": 1044,
+  "sprite": "sprites/home/1044.png",
+  "name_en": "Galarian Meowth",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ニャース",
+    "roomaji": "Nyarth",
+    "ko": "나옹",
+    "zh-Hant": "喵喵",
+    "fr": "Miaouss",
+    "de": "Mauzi",
+    "es": "Meowth",
+    "it": "Meowth",
+    "en": "Meowth",
+    "ja": "ニャース",
+    "zh-Hans": "喵喵"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 735,
+  "sprite": "sprites/home/735.png",
+  "name_en": "gumshoos",
+  "translations": {
+    "ja-Hrkt": "デカグース",
+    "roomaji": "Dekagoose",
+    "ko": "형사구스",
+    "zh-Hant": "貓鼬探長",
+    "fr": "Argouste",
+    "de": "Manguspektor",
+    "es": "Gumshoos",
+    "it": "Gumshoos",
+    "en": "Gumshoos",
+    "ja": "デカグース",
+    "zh-Hans": "猫鼬探长"
+  }
+}

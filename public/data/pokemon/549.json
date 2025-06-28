@@ -1,0 +1,18 @@
+{
+  "id": 549,
+  "sprite": "sprites/home/549.png",
+  "name_en": "lilligant",
+  "translations": {
+    "ja-Hrkt": "ドレディア",
+    "roomaji": "Dredear",
+    "ko": "드레디어",
+    "zh-Hant": "裙兒小姐",
+    "fr": "Fragilady",
+    "de": "Dressella",
+    "es": "Lilligant",
+    "it": "Lilligant",
+    "en": "Lilligant",
+    "ja": "ドレディア",
+    "zh-Hans": "裙儿小姐"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 900,
+  "sprite": "sprites/home/900.png",
+  "name_en": "kleavor",
+  "translations": {
+    "ja-Hrkt": "バサギリ",
+    "roomaji": "Basagiri",
+    "ko": "사마자르",
+    "zh-Hant": "劈斧螳螂",
+    "fr": "Hachécateur",
+    "de": "Axantor",
+    "es": "Kleavor",
+    "it": "Kleavor",
+    "en": "Kleavor",
+    "ja": "バサギリ",
+    "zh-Hans": "劈斧螳螂"
+  }
+}

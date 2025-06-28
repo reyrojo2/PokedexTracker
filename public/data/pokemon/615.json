@@ -1,0 +1,18 @@
+{
+  "id": 615,
+  "sprite": "sprites/home/615.png",
+  "name_en": "cryogonal",
+  "translations": {
+    "ja-Hrkt": "フリージオ",
+    "roomaji": "Freegeo",
+    "ko": "프리지오",
+    "zh-Hant": "幾何雪花",
+    "fr": "Hexagel",
+    "de": "Frigometri",
+    "es": "Cryogonal",
+    "it": "Cryogonal",
+    "en": "Cryogonal",
+    "ja": "フリージオ",
+    "zh-Hans": "几何雪花"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 39,
+  "sprite": "sprites/home/39.png",
+  "name_en": "jigglypuff",
+  "translations": {
+    "ja-Hrkt": "プリン",
+    "roomaji": "Purin",
+    "ko": "푸린",
+    "zh-Hant": "胖丁",
+    "fr": "Rondoudou",
+    "de": "Pummeluff",
+    "es": "Jigglypuff",
+    "it": "Jigglypuff",
+    "en": "Jigglypuff",
+    "ja": "プリン",
+    "zh-Hans": "胖丁"
+  }
+}

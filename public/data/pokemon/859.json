@@ -1,0 +1,18 @@
+{
+  "id": 859,
+  "sprite": "sprites/home/859.png",
+  "name_en": "impidimp",
+  "translations": {
+    "ja-Hrkt": "ベロバー",
+    "roomaji": "Beroba",
+    "ko": "메롱꿍",
+    "zh-Hant": "搗蛋小妖",
+    "fr": "Grimalin",
+    "de": "Bähmon",
+    "es": "Impidimp",
+    "it": "Impidimp",
+    "en": "Impidimp",
+    "ja": "ベロバー",
+    "zh-Hans": "捣蛋小妖"
+  }
+}

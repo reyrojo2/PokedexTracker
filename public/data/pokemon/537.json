@@ -1,0 +1,18 @@
+{
+  "id": 537,
+  "sprite": "sprites/home/537.png",
+  "name_en": "seismitoad",
+  "translations": {
+    "ja-Hrkt": "ガマゲロゲ",
+    "roomaji": "Gamageroge",
+    "ko": "두빅굴",
+    "zh-Hant": "蟾蜍王",
+    "fr": "Crapustule",
+    "de": "Branawarz",
+    "es": "Seismitoad",
+    "it": "Seismitoad",
+    "en": "Seismitoad",
+    "ja": "ガマゲロゲ",
+    "zh-Hans": "蟾蜍王"
+  }
+}

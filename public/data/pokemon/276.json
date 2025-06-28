@@ -1,0 +1,18 @@
+{
+  "id": 276,
+  "sprite": "sprites/home/276.png",
+  "name_en": "taillow",
+  "translations": {
+    "ja-Hrkt": "スバメ",
+    "roomaji": "Subame",
+    "ko": "테일로",
+    "zh-Hant": "傲骨燕",
+    "fr": "Nirondelle",
+    "de": "Schwalbini",
+    "es": "Taillow",
+    "it": "Taillow",
+    "en": "Taillow",
+    "ja": "スバメ",
+    "zh-Hans": "傲骨燕"
+  }
+}

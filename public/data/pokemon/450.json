@@ -1,0 +1,18 @@
+{
+  "id": 450,
+  "sprite": "sprites/home/450.png",
+  "name_en": "hippowdon",
+  "translations": {
+    "ja-Hrkt": "カバルドン",
+    "roomaji": "Kabarudon",
+    "ko": "하마돈",
+    "zh-Hant": "河馬獸",
+    "fr": "Hippodocus",
+    "de": "Hippoterus",
+    "es": "Hippowdon",
+    "it": "Hippowdon",
+    "en": "Hippowdon",
+    "ja": "カバルドン",
+    "zh-Hans": "河马兽"
+  }
+}

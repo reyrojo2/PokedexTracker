@@ -1,0 +1,18 @@
+{
+  "id": 175,
+  "sprite": "sprites/home/175.png",
+  "name_en": "togepi",
+  "translations": {
+    "ja-Hrkt": "トゲピー",
+    "roomaji": "Togepy",
+    "ko": "토게피",
+    "zh-Hant": "波克比",
+    "fr": "Togepi",
+    "de": "Togepi",
+    "es": "Togepi",
+    "it": "Togepi",
+    "en": "Togepi",
+    "ja": "トゲピー",
+    "zh-Hans": "波克比"
+  }
+}

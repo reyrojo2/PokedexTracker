@@ -1,0 +1,18 @@
+{
+  "id": 353,
+  "sprite": "sprites/home/353.png",
+  "name_en": "shuppet",
+  "translations": {
+    "ja-Hrkt": "カゲボウズ",
+    "roomaji": "Kagebouzu",
+    "ko": "어둠대신",
+    "zh-Hant": "怨影娃娃",
+    "fr": "Polichombr",
+    "de": "Shuppet",
+    "es": "Shuppet",
+    "it": "Shuppet",
+    "en": "Shuppet",
+    "ja": "カゲボウズ",
+    "zh-Hans": "怨影娃娃"
+  }
+}

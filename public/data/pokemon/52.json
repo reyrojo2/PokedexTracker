@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "sprite": "sprites/home/52.png",
+  "name_en": "meowth",
+  "translations": {
+    "ja-Hrkt": "ニャース",
+    "roomaji": "Nyarth",
+    "ko": "나옹",
+    "zh-Hant": "喵喵",
+    "fr": "Miaouss",
+    "de": "Mauzi",
+    "es": "Meowth",
+    "it": "Meowth",
+    "en": "Meowth",
+    "ja": "ニャース",
+    "zh-Hans": "喵喵"
+  }
+}

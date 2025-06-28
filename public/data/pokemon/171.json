@@ -1,0 +1,18 @@
+{
+  "id": 171,
+  "sprite": "sprites/home/171.png",
+  "name_en": "lanturn",
+  "translations": {
+    "ja-Hrkt": "ランターン",
+    "roomaji": "Lantern",
+    "ko": "랜턴",
+    "zh-Hant": "電燈怪",
+    "fr": "Lanturn",
+    "de": "Lanturn",
+    "es": "Lanturn",
+    "it": "Lanturn",
+    "en": "Lanturn",
+    "ja": "ランターン",
+    "zh-Hans": "电灯怪"
+  }
+}

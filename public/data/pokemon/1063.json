@@ -1,0 +1,19 @@
+{
+  "id": 1063,
+  "sprite": "sprites/home/1063.png",
+  "name_en": "Hisuian Growlithe",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ガーディ",
+    "roomaji": "Gardie",
+    "ko": "가디",
+    "zh-Hant": "卡蒂狗",
+    "fr": "Caninos",
+    "de": "Fukano",
+    "es": "Growlithe",
+    "it": "Growlithe",
+    "en": "Growlithe",
+    "ja": "ガーディ",
+    "zh-Hans": "卡蒂狗"
+  }
+}

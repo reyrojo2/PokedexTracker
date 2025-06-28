@@ -1,0 +1,18 @@
+{
+  "id": 984,
+  "sprite": "sprites/home/984.png",
+  "name_en": "great-tusk",
+  "translations": {
+    "ja-Hrkt": "イダイナキバ",
+    "roomaji": "Idainakiba",
+    "ko": "위대한엄니",
+    "zh-Hant": "雄偉牙",
+    "fr": "Fort-Ivoire",
+    "de": "Riesenzahn",
+    "es": "Colmilargo",
+    "it": "Grandizanne",
+    "en": "Great Tusk",
+    "ja": "イダイナキバ",
+    "zh-Hans": "雄伟牙"
+  }
+}

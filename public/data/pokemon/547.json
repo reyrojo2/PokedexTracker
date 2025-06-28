@@ -1,0 +1,18 @@
+{
+  "id": 547,
+  "sprite": "sprites/home/547.png",
+  "name_en": "whimsicott",
+  "translations": {
+    "ja-Hrkt": "エルフーン",
+    "roomaji": "Elfuun",
+    "ko": "엘풍",
+    "zh-Hant": "風妖精",
+    "fr": "Farfaduvet",
+    "de": "Elfun",
+    "es": "Whimsicott",
+    "it": "Whimsicott",
+    "en": "Whimsicott",
+    "ja": "エルフーン",
+    "zh-Hans": "风妖精"
+  }
+}

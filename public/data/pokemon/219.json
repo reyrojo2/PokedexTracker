@@ -1,0 +1,18 @@
+{
+  "id": 219,
+  "sprite": "sprites/home/219.png",
+  "name_en": "magcargo",
+  "translations": {
+    "ja-Hrkt": "マグカルゴ",
+    "roomaji": "Magcargot",
+    "ko": "마그카르고",
+    "zh-Hant": "熔岩蝸牛",
+    "fr": "Volcaropod",
+    "de": "Magcargo",
+    "es": "Magcargo",
+    "it": "Magcargo",
+    "en": "Magcargo",
+    "ja": "マグカルゴ",
+    "zh-Hans": "熔岩蜗牛"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 529,
+  "sprite": "sprites/home/529.png",
+  "name_en": "drilbur",
+  "translations": {
+    "ja-Hrkt": "モグリュー",
+    "roomaji": "Mogurew",
+    "ko": "두더류",
+    "zh-Hant": "螺釘地鼠",
+    "fr": "Rototaupe",
+    "de": "Rotomurf",
+    "es": "Drilbur",
+    "it": "Drilbur",
+    "en": "Drilbur",
+    "ja": "モグリュー",
+    "zh-Hans": "螺钉地鼠"
+  }
+}

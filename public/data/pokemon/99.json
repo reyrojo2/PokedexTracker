@@ -1,0 +1,18 @@
+{
+  "id": 99,
+  "sprite": "sprites/home/99.png",
+  "name_en": "kingler",
+  "translations": {
+    "ja-Hrkt": "キングラー",
+    "roomaji": "Kingler",
+    "ko": "킹크랩",
+    "zh-Hant": "巨鉗蟹",
+    "fr": "Krabboss",
+    "de": "Kingler",
+    "es": "Kingler",
+    "it": "Kingler",
+    "en": "Kingler",
+    "ja": "キングラー",
+    "zh-Hans": "巨钳蟹"
+  }
+}

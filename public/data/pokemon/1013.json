@@ -1,0 +1,17 @@
+{
+  "id": 1013,
+  "sprite": "sprites/home/1013.png",
+  "name_en": "sinistcha",
+  "translations": {
+    "ja-Hrkt": "ヤバソチャ",
+    "ko": "그우린차",
+    "zh-Hant": "來悲粗茶",
+    "fr": "Théffroyable",
+    "de": "Fatalitcha",
+    "es": "Sinistcha",
+    "it": "Sinistcha",
+    "en": "Sinistcha",
+    "ja": "ヤバソチャ",
+    "zh-Hans": "来悲粗茶"
+  }
+}

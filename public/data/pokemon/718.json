@@ -1,0 +1,18 @@
+{
+  "id": 718,
+  "sprite": "sprites/home/718.png",
+  "name_en": "zygarde-50",
+  "translations": {
+    "ja-Hrkt": "ジガルデ",
+    "roomaji": "Zygarde",
+    "ko": "지가르데",
+    "zh-Hant": "基格爾德",
+    "fr": "Zygarde",
+    "de": "Zygarde",
+    "es": "Zygarde",
+    "it": "Zygarde",
+    "en": "Zygarde",
+    "ja": "ジガルデ",
+    "zh-Hans": "基格尔德"
+  }
+}

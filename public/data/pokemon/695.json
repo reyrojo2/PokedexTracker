@@ -1,0 +1,18 @@
+{
+  "id": 695,
+  "sprite": "sprites/home/695.png",
+  "name_en": "heliolisk",
+  "translations": {
+    "ja-Hrkt": "エレザード",
+    "roomaji": "Elezard",
+    "ko": "일레도리자드",
+    "zh-Hant": "光電傘蜥",
+    "fr": "Iguolta",
+    "de": "Elezard",
+    "es": "Heliolisk",
+    "it": "Heliolisk",
+    "en": "Heliolisk",
+    "ja": "エレザード",
+    "zh-Hans": "光电伞蜥"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 451,
+  "sprite": "sprites/home/451.png",
+  "name_en": "skorupi",
+  "translations": {
+    "ja-Hrkt": "スコルピ",
+    "roomaji": "Scorpi",
+    "ko": "스콜피",
+    "zh-Hant": "鉗尾蠍",
+    "fr": "Rapion",
+    "de": "Pionskora",
+    "es": "Skorupi",
+    "it": "Skorupi",
+    "en": "Skorupi",
+    "ja": "スコルピ",
+    "zh-Hans": "钳尾蝎"
+  }
+}

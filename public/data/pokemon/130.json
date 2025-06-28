@@ -1,0 +1,18 @@
+{
+  "id": 130,
+  "sprite": "sprites/home/130.png",
+  "name_en": "gyarados",
+  "translations": {
+    "ja-Hrkt": "ギャラドス",
+    "roomaji": "Gyarados",
+    "ko": "갸라도스",
+    "zh-Hant": "暴鯉龍",
+    "fr": "Léviator",
+    "de": "Garados",
+    "es": "Gyarados",
+    "it": "Gyarados",
+    "en": "Gyarados",
+    "ja": "ギャラドス",
+    "zh-Hans": "暴鲤龙"
+  }
+}

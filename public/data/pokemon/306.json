@@ -1,0 +1,18 @@
+{
+  "id": 306,
+  "sprite": "sprites/home/306.png",
+  "name_en": "aggron",
+  "translations": {
+    "ja-Hrkt": "ボスゴドラ",
+    "roomaji": "Bossgodora",
+    "ko": "보스로라",
+    "zh-Hant": "波士可多拉",
+    "fr": "Galeking",
+    "de": "Stolloss",
+    "es": "Aggron",
+    "it": "Aggron",
+    "en": "Aggron",
+    "ja": "ボスゴドラ",
+    "zh-Hans": "波士可多拉"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 944,
+  "sprite": "sprites/home/944.png",
+  "name_en": "shroodle",
+  "translations": {
+    "ja-Hrkt": "シルシュルー",
+    "roomaji": "Shirushrew",
+    "ko": "땃쭈르",
+    "zh-Hant": "滋汁鼴",
+    "fr": "Gribouraigne",
+    "de": "Sproxi",
+    "es": "Shroodle",
+    "it": "Shroodle",
+    "en": "Shroodle",
+    "ja": "シルシュルー",
+    "zh-Hans": "滋汁鼹"
+  }
+}

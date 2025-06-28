@@ -1,0 +1,18 @@
+{
+  "id": 404,
+  "sprite": "sprites/home/404.png",
+  "name_en": "luxio",
+  "translations": {
+    "ja-Hrkt": "ルクシオ",
+    "roomaji": "Luxio",
+    "ko": "럭시오",
+    "zh-Hant": "勒克貓",
+    "fr": "Luxio",
+    "de": "Luxio",
+    "es": "Luxio",
+    "it": "Luxio",
+    "en": "Luxio",
+    "ja": "ルクシオ",
+    "zh-Hans": "勒克猫"
+  }
+}

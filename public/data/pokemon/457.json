@@ -1,0 +1,18 @@
+{
+  "id": 457,
+  "sprite": "sprites/home/457.png",
+  "name_en": "lumineon",
+  "translations": {
+    "ja-Hrkt": "ネオラント",
+    "roomaji": "Neolant",
+    "ko": "네오라이트",
+    "zh-Hant": "霓虹魚",
+    "fr": "Luminéon",
+    "de": "Lumineon",
+    "es": "Lumineon",
+    "it": "Lumineon",
+    "en": "Lumineon",
+    "ja": "ネオラント",
+    "zh-Hans": "霓虹鱼"
+  }
+}

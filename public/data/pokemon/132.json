@@ -1,0 +1,18 @@
+{
+  "id": 132,
+  "sprite": "sprites/home/132.png",
+  "name_en": "ditto",
+  "translations": {
+    "ja-Hrkt": "メタモン",
+    "roomaji": "Metamon",
+    "ko": "메타몽",
+    "zh-Hant": "百變怪",
+    "fr": "Métamorph",
+    "de": "Ditto",
+    "es": "Ditto",
+    "it": "Ditto",
+    "en": "Ditto",
+    "ja": "メタモン",
+    "zh-Hans": "百变怪"
+  }
+}

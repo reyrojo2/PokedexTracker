@@ -1,0 +1,18 @@
+{
+  "id": 566,
+  "sprite": "sprites/home/566.png",
+  "name_en": "archen",
+  "translations": {
+    "ja-Hrkt": "アーケン",
+    "roomaji": "Archen",
+    "ko": "아켄",
+    "zh-Hant": "始祖小鳥",
+    "fr": "Arkéapti",
+    "de": "Flapteryx",
+    "es": "Archen",
+    "it": "Archen",
+    "en": "Archen",
+    "ja": "アーケン",
+    "zh-Hans": "始祖小鸟"
+  }
+}

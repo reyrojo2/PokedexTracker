@@ -1,0 +1,18 @@
+{
+  "id": 280,
+  "sprite": "sprites/home/280.png",
+  "name_en": "ralts",
+  "translations": {
+    "ja-Hrkt": "ラルトス",
+    "roomaji": "Ralts",
+    "ko": "랄토스",
+    "zh-Hant": "拉魯拉絲",
+    "fr": "Tarsal",
+    "de": "Trasla",
+    "es": "Ralts",
+    "it": "Ralts",
+    "en": "Ralts",
+    "ja": "ラルトス",
+    "zh-Hans": "拉鲁拉丝"
+  }
+}

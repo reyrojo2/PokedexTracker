@@ -1,0 +1,18 @@
+{
+  "id": 335,
+  "sprite": "sprites/home/335.png",
+  "name_en": "zangoose",
+  "translations": {
+    "ja-Hrkt": "ザングース",
+    "roomaji": "Zangoose",
+    "ko": "쟝고",
+    "zh-Hant": "貓鼬斬",
+    "fr": "Mangriff",
+    "de": "Sengo",
+    "es": "Zangoose",
+    "it": "Zangoose",
+    "en": "Zangoose",
+    "ja": "ザングース",
+    "zh-Hans": "猫鼬斩"
+  }
+}

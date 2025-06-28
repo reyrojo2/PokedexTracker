@@ -1,0 +1,18 @@
+{
+  "id": 138,
+  "sprite": "sprites/home/138.png",
+  "name_en": "omanyte",
+  "translations": {
+    "ja-Hrkt": "オムナイト",
+    "roomaji": "Omnite",
+    "ko": "암나이트",
+    "zh-Hant": "菊石獸",
+    "fr": "Amonita",
+    "de": "Amonitas",
+    "es": "Omanyte",
+    "it": "Omanyte",
+    "en": "Omanyte",
+    "ja": "オムナイト",
+    "zh-Hans": "菊石兽"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 603,
+  "sprite": "sprites/home/603.png",
+  "name_en": "eelektrik",
+  "translations": {
+    "ja-Hrkt": "シビビール",
+    "roomaji": "Shibibeel",
+    "ko": "저리릴",
+    "zh-Hant": "麻麻鰻",
+    "fr": "Lampéroie",
+    "de": "Zapplalek",
+    "es": "Eelektrik",
+    "it": "Eelektrik",
+    "en": "Eelektrik",
+    "ja": "シビビール",
+    "zh-Hans": "麻麻鳗"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 511,
+  "sprite": "sprites/home/511.png",
+  "name_en": "pansage",
+  "translations": {
+    "ja-Hrkt": "ヤナップ",
+    "roomaji": "Yanappu",
+    "ko": "야나프",
+    "zh-Hant": "花椰猴",
+    "fr": "Feuillajou",
+    "de": "Vegimak",
+    "es": "Pansage",
+    "it": "Pansage",
+    "en": "Pansage",
+    "ja": "ヤナップ",
+    "zh-Hans": "花椰猴"
+  }
+}

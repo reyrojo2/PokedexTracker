@@ -1,0 +1,18 @@
+{
+  "id": 610,
+  "sprite": "sprites/home/610.png",
+  "name_en": "axew",
+  "translations": {
+    "ja-Hrkt": "キバゴ",
+    "roomaji": "Kibago",
+    "ko": "터검니",
+    "zh-Hant": "牙牙",
+    "fr": "Coupenotte",
+    "de": "Milza",
+    "es": "Axew",
+    "it": "Axew",
+    "en": "Axew",
+    "ja": "キバゴ",
+    "zh-Hans": "牙牙"
+  }
+}

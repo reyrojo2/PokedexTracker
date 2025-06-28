@@ -1,0 +1,18 @@
+{
+  "id": 858,
+  "sprite": "sprites/home/858.png",
+  "name_en": "hatterene",
+  "translations": {
+    "ja-Hrkt": "ブリムオン",
+    "roomaji": "Brimuon",
+    "ko": "브리무음",
+    "zh-Hant": "布莉姆溫",
+    "fr": "Sorcilence",
+    "de": "Silembrim",
+    "es": "Hatterene",
+    "it": "Hatterene",
+    "en": "Hatterene",
+    "ja": "ブリムオン",
+    "zh-Hans": "布莉姆温"
+  }
+}

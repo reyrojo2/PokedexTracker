@@ -1,0 +1,18 @@
+{
+  "id": 749,
+  "sprite": "sprites/home/749.png",
+  "name_en": "mudbray",
+  "translations": {
+    "ja-Hrkt": "ドロバンコ",
+    "roomaji": "Dorobanko",
+    "ko": "머드나기",
+    "zh-Hant": "泥驢仔",
+    "fr": "Tiboudet",
+    "de": "Pampuli",
+    "es": "Mudbray",
+    "it": "Mudbray",
+    "en": "Mudbray",
+    "ja": "ドロバンコ",
+    "zh-Hans": "泥驴仔"
+  }
+}

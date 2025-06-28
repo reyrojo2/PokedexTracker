@@ -1,0 +1,18 @@
+{
+  "id": 490,
+  "sprite": "sprites/home/490.png",
+  "name_en": "manaphy",
+  "translations": {
+    "ja-Hrkt": "マナフィ",
+    "roomaji": "Manaphy",
+    "ko": "마나피",
+    "zh-Hant": "瑪納霏",
+    "fr": "Manaphy",
+    "de": "Manaphy",
+    "es": "Manaphy",
+    "it": "Manaphy",
+    "en": "Manaphy",
+    "ja": "マナフィ",
+    "zh-Hans": "玛纳霏"
+  }
+}

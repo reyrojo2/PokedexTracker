@@ -1,0 +1,18 @@
+{
+  "id": 456,
+  "sprite": "sprites/home/456.png",
+  "name_en": "finneon",
+  "translations": {
+    "ja-Hrkt": "ケイコウオ",
+    "roomaji": "Keikouo",
+    "ko": "형광어",
+    "zh-Hant": "螢光魚",
+    "fr": "Écayon",
+    "de": "Finneon",
+    "es": "Finneon",
+    "it": "Finneon",
+    "en": "Finneon",
+    "ja": "ケイコウオ",
+    "zh-Hans": "荧光鱼"
+  }
+}

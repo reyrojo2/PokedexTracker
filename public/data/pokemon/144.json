@@ -1,0 +1,18 @@
+{
+  "id": 144,
+  "sprite": "sprites/home/144.png",
+  "name_en": "articuno",
+  "translations": {
+    "ja-Hrkt": "フリーザー",
+    "roomaji": "Freezer",
+    "ko": "프리져",
+    "zh-Hant": "急凍鳥",
+    "fr": "Artikodin",
+    "de": "Arktos",
+    "es": "Articuno",
+    "it": "Articuno",
+    "en": "Articuno",
+    "ja": "フリーザー",
+    "zh-Hans": "急冻鸟"
+  }
+}

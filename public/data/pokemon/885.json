@@ -1,0 +1,18 @@
+{
+  "id": 885,
+  "sprite": "sprites/home/885.png",
+  "name_en": "dreepy",
+  "translations": {
+    "ja-Hrkt": "ドラメシヤ",
+    "roomaji": "Dorameshiya",
+    "ko": "드라꼰",
+    "zh-Hant": "多龍梅西亞",
+    "fr": "Fantyrm",
+    "de": "Grolldra",
+    "es": "Dreepy",
+    "it": "Dreepy",
+    "en": "Dreepy",
+    "ja": "ドラメシヤ",
+    "zh-Hans": "多龙梅西亚"
+  }
+}

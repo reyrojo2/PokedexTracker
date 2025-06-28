@@ -1,0 +1,18 @@
+{
+  "id": 767,
+  "sprite": "sprites/home/767.png",
+  "name_en": "wimpod",
+  "translations": {
+    "ja-Hrkt": "コソクムシ",
+    "roomaji": "Kosokumushi",
+    "ko": "꼬시레",
+    "zh-Hant": "膽小蟲",
+    "fr": "Sovkipou",
+    "de": "Reißlaus",
+    "es": "Wimpod",
+    "it": "Wimpod",
+    "en": "Wimpod",
+    "ja": "コソクムシ",
+    "zh-Hans": "胆小虫"
+  }
+}

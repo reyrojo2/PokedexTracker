@@ -1,0 +1,18 @@
+{
+  "id": 766,
+  "sprite": "sprites/home/766.png",
+  "name_en": "passimian",
+  "translations": {
+    "ja-Hrkt": "ナゲツケサル",
+    "roomaji": "Nagetukesaru",
+    "ko": "내던숭이",
+    "zh-Hant": "投擲猴",
+    "fr": "Quartermac",
+    "de": "Quartermak",
+    "es": "Passimian",
+    "it": "Passimian",
+    "en": "Passimian",
+    "ja": "ナゲツケサル",
+    "zh-Hans": "投掷猴"
+  }
+}

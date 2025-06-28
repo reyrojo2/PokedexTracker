@@ -1,0 +1,18 @@
+{
+  "id": 82,
+  "sprite": "sprites/home/82.png",
+  "name_en": "magneton",
+  "translations": {
+    "ja-Hrkt": "レアコイル",
+    "roomaji": "Rarecoil",
+    "ko": "레어코일",
+    "zh-Hant": "三合一磁怪",
+    "fr": "Magnéton",
+    "de": "Magneton",
+    "es": "Magneton",
+    "it": "Magneton",
+    "en": "Magneton",
+    "ja": "レアコイル",
+    "zh-Hans": "三合一磁怪"
+  }
+}

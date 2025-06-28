@@ -1,0 +1,18 @@
+{
+  "id": 408,
+  "sprite": "sprites/home/408.png",
+  "name_en": "cranidos",
+  "translations": {
+    "ja-Hrkt": "ズガイドス",
+    "roomaji": "Zugaidos",
+    "ko": "두개도스",
+    "zh-Hant": "頭蓋龍",
+    "fr": "Kranidos",
+    "de": "Koknodon",
+    "es": "Cranidos",
+    "it": "Cranidos",
+    "en": "Cranidos",
+    "ja": "ズガイドス",
+    "zh-Hans": "头盖龙"
+  }
+}

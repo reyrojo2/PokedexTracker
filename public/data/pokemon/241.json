@@ -1,0 +1,18 @@
+{
+  "id": 241,
+  "sprite": "sprites/home/241.png",
+  "name_en": "miltank",
+  "translations": {
+    "ja-Hrkt": "ミルタンク",
+    "roomaji": "Miltank",
+    "ko": "밀탱크",
+    "zh-Hant": "大奶罐",
+    "fr": "Écrémeuh",
+    "de": "Miltank",
+    "es": "Miltank",
+    "it": "Miltank",
+    "en": "Miltank",
+    "ja": "ミルタンク",
+    "zh-Hans": "大奶罐"
+  }
+}

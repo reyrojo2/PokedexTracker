@@ -1,0 +1,18 @@
+{
+  "id": 618,
+  "sprite": "sprites/home/618.png",
+  "name_en": "stunfisk",
+  "translations": {
+    "ja-Hrkt": "マッギョ",
+    "roomaji": "Maggyo",
+    "ko": "메더",
+    "zh-Hant": "泥巴魚",
+    "fr": "Limonde",
+    "de": "Flunschlik",
+    "es": "Stunfisk",
+    "it": "Stunfisk",
+    "en": "Stunfisk",
+    "ja": "マッギョ",
+    "zh-Hans": "泥巴鱼"
+  }
+}

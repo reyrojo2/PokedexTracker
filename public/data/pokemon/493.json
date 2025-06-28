@@ -1,0 +1,18 @@
+{
+  "id": 493,
+  "sprite": "sprites/home/493.png",
+  "name_en": "arceus",
+  "translations": {
+    "ja-Hrkt": "アルセウス",
+    "roomaji": "Arceus",
+    "ko": "아르세우스",
+    "zh-Hant": "阿爾宙斯",
+    "fr": "Arceus",
+    "de": "Arceus",
+    "es": "Arceus",
+    "it": "Arceus",
+    "en": "Arceus",
+    "ja": "アルセウス",
+    "zh-Hans": "阿尔宙斯"
+  }
+}

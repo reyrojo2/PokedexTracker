@@ -1,0 +1,18 @@
+{
+  "id": 752,
+  "sprite": "sprites/home/752.png",
+  "name_en": "araquanid",
+  "translations": {
+    "ja-Hrkt": "オニシズクモ",
+    "roomaji": "Onishizukumo",
+    "ko": "깨비물거미",
+    "zh-Hant": "滴蛛霸",
+    "fr": "Tarenbulle",
+    "de": "Aranestro",
+    "es": "Araquanid",
+    "it": "Araquanid",
+    "en": "Araquanid",
+    "ja": "オニシズクモ",
+    "zh-Hans": "滴蛛霸"
+  }
+}

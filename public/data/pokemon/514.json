@@ -1,0 +1,18 @@
+{
+  "id": 514,
+  "sprite": "sprites/home/514.png",
+  "name_en": "simisear",
+  "translations": {
+    "ja-Hrkt": "バオッキー",
+    "roomaji": "Baokkie",
+    "ko": "바오키",
+    "zh-Hant": "爆香猿",
+    "fr": "Flamoutan",
+    "de": "Grillchita",
+    "es": "Simisear",
+    "it": "Simisear",
+    "en": "Simisear",
+    "ja": "バオッキー",
+    "zh-Hans": "爆香猿"
+  }
+}

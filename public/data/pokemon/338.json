@@ -1,0 +1,18 @@
+{
+  "id": 338,
+  "sprite": "sprites/home/338.png",
+  "name_en": "solrock",
+  "translations": {
+    "ja-Hrkt": "ソルロック",
+    "roomaji": "Solrock",
+    "ko": "솔록",
+    "zh-Hant": "太陽岩",
+    "fr": "Solaroc",
+    "de": "Sonnfel",
+    "es": "Solrock",
+    "it": "Solrock",
+    "en": "Solrock",
+    "ja": "ソルロック",
+    "zh-Hans": "太阳岩"
+  }
+}

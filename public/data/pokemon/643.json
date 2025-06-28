@@ -1,0 +1,18 @@
+{
+  "id": 643,
+  "sprite": "sprites/home/643.png",
+  "name_en": "reshiram",
+  "translations": {
+    "ja-Hrkt": "レシラム",
+    "roomaji": "Reshiram",
+    "ko": "레시라무",
+    "zh-Hant": "萊希拉姆",
+    "fr": "Reshiram",
+    "de": "Reshiram",
+    "es": "Reshiram",
+    "it": "Reshiram",
+    "en": "Reshiram",
+    "ja": "レシラム",
+    "zh-Hans": "莱希拉姆"
+  }
+}

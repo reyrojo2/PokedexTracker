@@ -1,0 +1,18 @@
+{
+  "id": 234,
+  "sprite": "sprites/home/234.png",
+  "name_en": "stantler",
+  "translations": {
+    "ja-Hrkt": "オドシシ",
+    "roomaji": "Odoshishi",
+    "ko": "노라키",
+    "zh-Hant": "驚角鹿",
+    "fr": "Cerfrousse",
+    "de": "Damhirplex",
+    "es": "Stantler",
+    "it": "Stantler",
+    "en": "Stantler",
+    "ja": "オドシシ",
+    "zh-Hans": "惊角鹿"
+  }
+}

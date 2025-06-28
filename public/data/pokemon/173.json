@@ -1,0 +1,18 @@
+{
+  "id": 173,
+  "sprite": "sprites/home/173.png",
+  "name_en": "cleffa",
+  "translations": {
+    "ja-Hrkt": "ピィ",
+    "roomaji": "Py",
+    "ko": "삐",
+    "zh-Hant": "皮寶寶",
+    "fr": "Mélo",
+    "de": "Pii",
+    "es": "Cleffa",
+    "it": "Cleffa",
+    "en": "Cleffa",
+    "ja": "ピィ",
+    "zh-Hans": "皮宝宝"
+  }
+}

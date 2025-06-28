@@ -1,0 +1,18 @@
+{
+  "id": 849,
+  "sprite": "sprites/home/849.png",
+  "name_en": "toxtricity-amped",
+  "translations": {
+    "ja-Hrkt": "ストリンダー",
+    "roomaji": "Strinder",
+    "ko": "스트린더",
+    "zh-Hant": "顫弦蠑螈",
+    "fr": "Salarsen",
+    "de": "Riffex",
+    "es": "Toxtricity",
+    "it": "Toxtricity",
+    "en": "Toxtricity",
+    "ja": "ストリンダー",
+    "zh-Hans": "颤弦蝾螈"
+  }
+}

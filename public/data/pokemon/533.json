@@ -1,0 +1,18 @@
+{
+  "id": 533,
+  "sprite": "sprites/home/533.png",
+  "name_en": "gurdurr",
+  "translations": {
+    "ja-Hrkt": "ドテッコツ",
+    "roomaji": "Dotekkotsu",
+    "ko": "토쇠골",
+    "zh-Hant": "鐵骨土人",
+    "fr": "Ouvrifier",
+    "de": "Strepoli",
+    "es": "Gurdurr",
+    "it": "Gurdurr",
+    "en": "Gurdurr",
+    "ja": "ドテッコツ",
+    "zh-Hans": "铁骨土人"
+  }
+}

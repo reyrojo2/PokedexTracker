@@ -1,0 +1,18 @@
+{
+  "id": 601,
+  "sprite": "sprites/home/601.png",
+  "name_en": "klinklang",
+  "translations": {
+    "ja-Hrkt": "ギギギアル",
+    "roomaji": "Gigigiaru",
+    "ko": "기기기어르",
+    "zh-Hant": "齒輪怪",
+    "fr": "Cliticlic",
+    "de": "Klikdiklak",
+    "es": "Klinklang",
+    "it": "Klinklang",
+    "en": "Klinklang",
+    "ja": "ギギギアル",
+    "zh-Hans": "齿轮怪"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 277,
+  "sprite": "sprites/home/277.png",
+  "name_en": "swellow",
+  "translations": {
+    "ja-Hrkt": "オオスバメ",
+    "roomaji": "Ohsubame",
+    "ko": "스왈로",
+    "zh-Hant": "大王燕",
+    "fr": "Hélédelle",
+    "de": "Schwalboss",
+    "es": "Swellow",
+    "it": "Swellow",
+    "en": "Swellow",
+    "ja": "オオスバメ",
+    "zh-Hans": "大王燕"
+  }
+}

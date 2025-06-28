@@ -1,0 +1,18 @@
+{
+  "id": 914,
+  "sprite": "sprites/home/914.png",
+  "name_en": "quaquaval",
+  "translations": {
+    "ja-Hrkt": "ウェーニバル",
+    "roomaji": "Wanival",
+    "ko": "웨이니발",
+    "zh-Hant": "狂歡浪舞鴨",
+    "fr": "Palmaval",
+    "de": "Bailonda",
+    "es": "Quaquaval",
+    "it": "Quaquaval",
+    "en": "Quaquaval",
+    "ja": "ウェーニバル",
+    "zh-Hans": "狂欢浪舞鸭"
+  }
+}

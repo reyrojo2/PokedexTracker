@@ -1,0 +1,18 @@
+{
+  "id": 676,
+  "sprite": "sprites/home/676.png",
+  "name_en": "furfrou",
+  "translations": {
+    "ja-Hrkt": "トリミアン",
+    "roomaji": "Trimmien",
+    "ko": "트리미앙",
+    "zh-Hant": "多麗米亞",
+    "fr": "Couafarel",
+    "de": "Coiffwaff",
+    "es": "Furfrou",
+    "it": "Furfrou",
+    "en": "Furfrou",
+    "ja": "トリミアン",
+    "zh-Hans": "多丽米亚"
+  }
+}

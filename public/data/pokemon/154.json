@@ -1,0 +1,18 @@
+{
+  "id": 154,
+  "sprite": "sprites/home/154.png",
+  "name_en": "meganium",
+  "translations": {
+    "ja-Hrkt": "メガニウム",
+    "roomaji": "Meganium",
+    "ko": "메가니움",
+    "zh-Hant": "大竺葵",
+    "fr": "Méganium",
+    "de": "Meganie",
+    "es": "Meganium",
+    "it": "Meganium",
+    "en": "Meganium",
+    "ja": "メガニウム",
+    "zh-Hans": "大竺葵"
+  }
+}

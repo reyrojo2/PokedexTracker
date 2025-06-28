@@ -1,0 +1,18 @@
+{
+  "id": 693,
+  "sprite": "sprites/home/693.png",
+  "name_en": "clawitzer",
+  "translations": {
+    "ja-Hrkt": "ブロスター",
+    "roomaji": "Bloster",
+    "ko": "블로스터",
+    "zh-Hant": "鋼炮臂蝦",
+    "fr": "Gamblast",
+    "de": "Wummer",
+    "es": "Clawitzer",
+    "it": "Clawitzer",
+    "en": "Clawitzer",
+    "ja": "ブロスター",
+    "zh-Hans": "钢炮臂虾"
+  }
+}

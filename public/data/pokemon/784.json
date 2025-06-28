@@ -1,0 +1,18 @@
+{
+  "id": 784,
+  "sprite": "sprites/home/784.png",
+  "name_en": "kommo-o",
+  "translations": {
+    "ja-Hrkt": "ジャラランガ",
+    "roomaji": "Jyararanga",
+    "ko": "짜랑고우거",
+    "zh-Hant": "杖尾鱗甲龍",
+    "fr": "Ékaïser",
+    "de": "Grandiras",
+    "es": "Kommo-o",
+    "it": "Kommo-o",
+    "en": "Kommo-o",
+    "ja": "ジャラランガ",
+    "zh-Hans": "杖尾鳞甲龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 652,
+  "sprite": "sprites/home/652.png",
+  "name_en": "chesnaught",
+  "translations": {
+    "ja-Hrkt": "ブリガロン",
+    "roomaji": "Brigarron",
+    "ko": "브리가론",
+    "zh-Hant": "布里卡隆",
+    "fr": "Blindépique",
+    "de": "Brigaron",
+    "es": "Chesnaught",
+    "it": "Chesnaught",
+    "en": "Chesnaught",
+    "ja": "ブリガロン",
+    "zh-Hans": "布里卡隆"
+  }
+}

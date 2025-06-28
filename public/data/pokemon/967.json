@@ -1,0 +1,18 @@
+{
+  "id": 967,
+  "sprite": "sprites/home/967.png",
+  "name_en": "cyclizar",
+  "translations": {
+    "ja-Hrkt": "モトトカゲ",
+    "roomaji": "Mototokage",
+    "ko": "모토마",
+    "zh-Hant": "摩托蜥",
+    "fr": "Motorizard",
+    "de": "Mopex",
+    "es": "Cyclizar",
+    "it": "Cyclizar",
+    "en": "Cyclizar",
+    "ja": "モトトカゲ",
+    "zh-Hans": "摩托蜥"
+  }
+}

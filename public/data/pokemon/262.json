@@ -1,0 +1,18 @@
+{
+  "id": 262,
+  "sprite": "sprites/home/262.png",
+  "name_en": "mightyena",
+  "translations": {
+    "ja-Hrkt": "グラエナ",
+    "roomaji": "Guraena",
+    "ko": "그라에나",
+    "zh-Hant": "大狼犬",
+    "fr": "Grahyèna",
+    "de": "Magnayen",
+    "es": "Mightyena",
+    "it": "Mightyena",
+    "en": "Mightyena",
+    "ja": "グラエナ",
+    "zh-Hans": "大狼犬"
+  }
+}

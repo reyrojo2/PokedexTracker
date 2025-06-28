@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "sprite": "sprites/home/875.png",
+  "name_en": "eiscue-ice",
+  "translations": {
+    "ja-Hrkt": "コオリッポ",
+    "roomaji": "Korippo",
+    "ko": "빙큐보",
+    "zh-Hant": "冰砌鵝",
+    "fr": "Bekaglaçon",
+    "de": "Kubuin",
+    "es": "Eiscue",
+    "it": "Eiscue",
+    "en": "Eiscue",
+    "ja": "コオリッポ",
+    "zh-Hans": "冰砌鹅"
+  }
+}

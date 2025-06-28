@@ -1,0 +1,18 @@
+{
+  "id": 551,
+  "sprite": "sprites/home/551.png",
+  "name_en": "sandile",
+  "translations": {
+    "ja-Hrkt": "メグロコ",
+    "roomaji": "Meguroco",
+    "ko": "깜눈크",
+    "zh-Hant": "黑眼鱷",
+    "fr": "Mascaïman",
+    "de": "Ganovil",
+    "es": "Sandile",
+    "it": "Sandile",
+    "en": "Sandile",
+    "ja": "メグロコ",
+    "zh-Hans": "黑眼鳄"
+  }
+}

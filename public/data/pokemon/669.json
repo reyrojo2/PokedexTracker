@@ -1,0 +1,18 @@
+{
+  "id": 669,
+  "sprite": "sprites/home/669.png",
+  "name_en": "flabebe",
+  "translations": {
+    "ja-Hrkt": "フラベベ",
+    "roomaji": "Flabebe",
+    "ko": "플라베베",
+    "zh-Hant": "花蓓蓓",
+    "fr": "Flabébé",
+    "de": "Flabébé",
+    "es": "Flabébé",
+    "it": "Flabébé",
+    "en": "Flabébé",
+    "ja": "フラベベ",
+    "zh-Hans": "花蓓蓓"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 312,
+  "sprite": "sprites/home/312.png",
+  "name_en": "minun",
+  "translations": {
+    "ja-Hrkt": "マイナン",
+    "roomaji": "Minun",
+    "ko": "마이농",
+    "zh-Hant": "負電拍拍",
+    "fr": "Négapi",
+    "de": "Minun",
+    "es": "Minun",
+    "it": "Minun",
+    "en": "Minun",
+    "ja": "マイナン",
+    "zh-Hans": "負电拍拍"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 929,
+  "sprite": "sprites/home/929.png",
+  "name_en": "dolliv",
+  "translations": {
+    "ja-Hrkt": "オリーニョ",
+    "roomaji": "Olinyo",
+    "ko": "올리뇨",
+    "zh-Hant": "奧利紐",
+    "fr": "Olivado",
+    "de": "Olivinio",
+    "es": "Dolliv",
+    "it": "Dolliv",
+    "en": "Dolliv",
+    "ja": "オリーニョ",
+    "zh-Hans": "奥利纽"
+  }
+}

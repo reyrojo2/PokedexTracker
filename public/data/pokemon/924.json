@@ -1,0 +1,18 @@
+{
+  "id": 924,
+  "sprite": "sprites/home/924.png",
+  "name_en": "tandemaus",
+  "translations": {
+    "ja-Hrkt": "ワッカネズミ",
+    "roomaji": "Wakkanezumi",
+    "ko": "두리쥐",
+    "zh-Hant": "一對鼠",
+    "fr": "Compagnol",
+    "de": "Zwieps",
+    "es": "Tandemaus",
+    "it": "Tandemaus",
+    "en": "Tandemaus",
+    "ja": "ワッカネズミ",
+    "zh-Hans": "一对鼠"
+  }
+}

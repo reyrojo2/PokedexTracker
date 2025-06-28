@@ -1,0 +1,18 @@
+{
+  "id": 815,
+  "sprite": "sprites/home/815.png",
+  "name_en": "cinderace",
+  "translations": {
+    "ja-Hrkt": "エースバーン",
+    "roomaji": "Aceburn",
+    "ko": "에이스번",
+    "zh-Hant": "閃焰王牌",
+    "fr": "Pyrobut",
+    "de": "Liberlo",
+    "es": "Cinderace",
+    "it": "Cinderace",
+    "en": "Cinderace",
+    "ja": "エースバーン",
+    "zh-Hans": "闪焰王牌"
+  }
+}

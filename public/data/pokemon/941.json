@@ -1,0 +1,18 @@
+{
+  "id": 941,
+  "sprite": "sprites/home/941.png",
+  "name_en": "kilowattrel",
+  "translations": {
+    "ja-Hrkt": "タイカイデン",
+    "roomaji": "Taikaiden",
+    "ko": "찌리비크",
+    "zh-Hant": "大電海燕",
+    "fr": "Fulgulairo",
+    "de": "Voltrean",
+    "es": "Kilowattrel",
+    "it": "Kilowattrel",
+    "en": "Kilowattrel",
+    "ja": "タイカイデン",
+    "zh-Hans": "大电海燕"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 971,
+  "sprite": "sprites/home/971.png",
+  "name_en": "greavard",
+  "translations": {
+    "ja-Hrkt": "ボチ",
+    "roomaji": "Bochi",
+    "ko": "망망이",
+    "zh-Hant": "墓仔狗",
+    "fr": "Toutombe",
+    "de": "Gruff",
+    "es": "Greavard",
+    "it": "Greavard",
+    "en": "Greavard",
+    "ja": "ボチ",
+    "zh-Hans": "墓仔狗"
+  }
+}

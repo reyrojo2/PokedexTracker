@@ -1,0 +1,18 @@
+{
+  "id": 663,
+  "sprite": "sprites/home/663.png",
+  "name_en": "talonflame",
+  "translations": {
+    "ja-Hrkt": "ファイアロー",
+    "roomaji": "Fiarrow",
+    "ko": "파이어로",
+    "zh-Hant": "烈箭鷹",
+    "fr": "Flambusard",
+    "de": "Fiaro",
+    "es": "Talonflame",
+    "it": "Talonflame",
+    "en": "Talonflame",
+    "ja": "ファイアロー",
+    "zh-Hans": "烈箭鹰"
+  }
+}

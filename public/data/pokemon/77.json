@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "sprite": "sprites/home/77.png",
+  "name_en": "ponyta",
+  "translations": {
+    "ja-Hrkt": "ポニータ",
+    "roomaji": "Ponyta",
+    "ko": "포니타",
+    "zh-Hant": "小火馬",
+    "fr": "Ponyta",
+    "de": "Ponita",
+    "es": "Ponyta",
+    "it": "Ponyta",
+    "en": "Ponyta",
+    "ja": "ポニータ",
+    "zh-Hans": "小火马"
+  }
+}

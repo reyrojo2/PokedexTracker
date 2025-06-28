@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "sprite": "sprites/home/777.png",
+  "name_en": "togedemaru",
+  "translations": {
+    "ja-Hrkt": "トゲデマル",
+    "roomaji": "Togedemaru",
+    "ko": "토게데마루",
+    "zh-Hant": "托戈德瑪爾",
+    "fr": "Togedemaru",
+    "de": "Togedemaru",
+    "es": "Togedemaru",
+    "it": "Togedemaru",
+    "en": "Togedemaru",
+    "ja": "トゲデマル",
+    "zh-Hans": "托戈德玛尔"
+  }
+}

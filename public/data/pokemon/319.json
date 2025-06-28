@@ -1,0 +1,18 @@
+{
+  "id": 319,
+  "sprite": "sprites/home/319.png",
+  "name_en": "sharpedo",
+  "translations": {
+    "ja-Hrkt": "サメハダー",
+    "roomaji": "Samehader",
+    "ko": "샤크니아",
+    "zh-Hant": "巨牙鯊",
+    "fr": "Sharpedo",
+    "de": "Tohaido",
+    "es": "Sharpedo",
+    "it": "Sharpedo",
+    "en": "Sharpedo",
+    "ja": "サメハダー",
+    "zh-Hans": "巨牙鲨"
+  }
+}

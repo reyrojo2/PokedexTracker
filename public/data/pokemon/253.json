@@ -1,0 +1,18 @@
+{
+  "id": 253,
+  "sprite": "sprites/home/253.png",
+  "name_en": "grovyle",
+  "translations": {
+    "ja-Hrkt": "ジュプトル",
+    "roomaji": "Juptile",
+    "ko": "나무돌이",
+    "zh-Hant": "森林蜥蜴",
+    "fr": "Massko",
+    "de": "Reptain",
+    "es": "Grovyle",
+    "it": "Grovyle",
+    "en": "Grovyle",
+    "ja": "ジュプトル",
+    "zh-Hans": "森林蜥蜴"
+  }
+}

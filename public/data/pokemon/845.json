@@ -1,0 +1,18 @@
+{
+  "id": 845,
+  "sprite": "sprites/home/845.png",
+  "name_en": "cramorant",
+  "translations": {
+    "ja-Hrkt": "ウッウ",
+    "roomaji": "Uu",
+    "ko": "윽우지",
+    "zh-Hant": "古月鳥",
+    "fr": "Nigosier",
+    "de": "Urgl",
+    "es": "Cramorant",
+    "it": "Cramorant",
+    "en": "Cramorant",
+    "ja": "ウッウ",
+    "zh-Hans": "古月鸟"
+  }
+}

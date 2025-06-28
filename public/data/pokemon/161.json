@@ -1,0 +1,18 @@
+{
+  "id": 161,
+  "sprite": "sprites/home/161.png",
+  "name_en": "sentret",
+  "translations": {
+    "ja-Hrkt": "オタチ",
+    "roomaji": "Otachi",
+    "ko": "꼬리선",
+    "zh-Hant": "尾立",
+    "fr": "Fouinette",
+    "de": "Wiesor",
+    "es": "Sentret",
+    "it": "Sentret",
+    "en": "Sentret",
+    "ja": "オタチ",
+    "zh-Hans": "尾立"
+  }
+}

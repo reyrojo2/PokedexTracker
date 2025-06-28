@@ -1,0 +1,18 @@
+{
+  "id": 938,
+  "sprite": "sprites/home/938.png",
+  "name_en": "tadbulb",
+  "translations": {
+    "ja-Hrkt": "ズピカ",
+    "roomaji": "Zupika",
+    "ko": "빈나두",
+    "zh-Hant": "光蚪仔",
+    "fr": "Têtampoule",
+    "de": "Blipp",
+    "es": "Tadbulb",
+    "it": "Tadbulb",
+    "en": "Tadbulb",
+    "ja": "ズピカ",
+    "zh-Hans": "光蚪仔"
+  }
+}

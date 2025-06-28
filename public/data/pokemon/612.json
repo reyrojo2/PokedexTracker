@@ -1,0 +1,18 @@
+{
+  "id": 612,
+  "sprite": "sprites/home/612.png",
+  "name_en": "haxorus",
+  "translations": {
+    "ja-Hrkt": "オノノクス",
+    "roomaji": "Ononokus",
+    "ko": "액스라이즈",
+    "zh-Hant": "雙斧戰龍",
+    "fr": "Tranchodon",
+    "de": "Maxax",
+    "es": "Haxorus",
+    "it": "Haxorus",
+    "en": "Haxorus",
+    "ja": "オノノクス",
+    "zh-Hans": "双斧战龙"
+  }
+}

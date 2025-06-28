@@ -1,0 +1,18 @@
+{
+  "id": 117,
+  "sprite": "sprites/home/117.png",
+  "name_en": "seadra",
+  "translations": {
+    "ja-Hrkt": "シードラ",
+    "roomaji": "Seadra",
+    "ko": "시드라",
+    "zh-Hant": "海刺龍",
+    "fr": "Hypocéan",
+    "de": "Seemon",
+    "es": "Seadra",
+    "it": "Seadra",
+    "en": "Seadra",
+    "ja": "シードラ",
+    "zh-Hans": "海刺龙"
+  }
+}

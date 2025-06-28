@@ -1,0 +1,18 @@
+{
+  "id": 775,
+  "sprite": "sprites/home/775.png",
+  "name_en": "komala",
+  "translations": {
+    "ja-Hrkt": "ネッコアラ",
+    "roomaji": "Nekkoara",
+    "ko": "자말라",
+    "zh-Hant": "樹枕尾熊",
+    "fr": "Dodoala",
+    "de": "Koalelu",
+    "es": "Komala",
+    "it": "Komala",
+    "en": "Komala",
+    "ja": "ネッコアラ",
+    "zh-Hans": "树枕尾熊"
+  }
+}

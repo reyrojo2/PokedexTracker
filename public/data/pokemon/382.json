@@ -1,0 +1,18 @@
+{
+  "id": 382,
+  "sprite": "sprites/home/382.png",
+  "name_en": "kyogre",
+  "translations": {
+    "ja-Hrkt": "カイオーガ",
+    "roomaji": "Kyogre",
+    "ko": "가이오가",
+    "zh-Hant": "蓋歐卡",
+    "fr": "Kyogre",
+    "de": "Kyogre",
+    "es": "Kyogre",
+    "it": "Kyogre",
+    "en": "Kyogre",
+    "ja": "カイオーガ",
+    "zh-Hans": "盖欧卡"
+  }
+}

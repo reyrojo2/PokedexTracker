@@ -1,0 +1,18 @@
+{
+  "id": 65,
+  "sprite": "sprites/home/65.png",
+  "name_en": "alakazam",
+  "translations": {
+    "ja-Hrkt": "フーディン",
+    "roomaji": "Foodin",
+    "ko": "후딘",
+    "zh-Hant": "胡地",
+    "fr": "Alakazam",
+    "de": "Simsala",
+    "es": "Alakazam",
+    "it": "Alakazam",
+    "en": "Alakazam",
+    "ja": "フーディン",
+    "zh-Hans": "胡地"
+  }
+}

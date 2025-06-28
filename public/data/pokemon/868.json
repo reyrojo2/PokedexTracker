@@ -1,0 +1,18 @@
+{
+  "id": 868,
+  "sprite": "sprites/home/868.png",
+  "name_en": "milcery",
+  "translations": {
+    "ja-Hrkt": "マホミル",
+    "roomaji": "Mahomil",
+    "ko": "마빌크",
+    "zh-Hant": "小仙奶",
+    "fr": "Crèmy",
+    "de": "Hokumil",
+    "es": "Milcery",
+    "it": "Milcery",
+    "en": "Milcery",
+    "ja": "マホミル",
+    "zh-Hans": "小仙奶"
+  }
+}

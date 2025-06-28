@@ -1,0 +1,18 @@
+{
+  "id": 787,
+  "sprite": "sprites/home/787.png",
+  "name_en": "tapu-bulu",
+  "translations": {
+    "ja-Hrkt": "カプ・ブルル",
+    "roomaji": "Bulul",
+    "ko": "카푸브루루",
+    "zh-Hant": "卡璞・哞哞",
+    "fr": "Tokotoro",
+    "de": "Kapu-Toro",
+    "es": "Tapu Bulu",
+    "it": "Tapu Bulu",
+    "en": "Tapu Bulu",
+    "ja": "カプ・ブルル",
+    "zh-Hans": "卡璞・哞哞"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 84,
+  "sprite": "sprites/home/84.png",
+  "name_en": "doduo",
+  "translations": {
+    "ja-Hrkt": "ドードー",
+    "roomaji": "Dodo",
+    "ko": "두두",
+    "zh-Hant": "嘟嘟",
+    "fr": "Doduo",
+    "de": "Dodu",
+    "es": "Doduo",
+    "it": "Doduo",
+    "en": "Doduo",
+    "ja": "ドードー",
+    "zh-Hans": "嘟嘟"
+  }
+}

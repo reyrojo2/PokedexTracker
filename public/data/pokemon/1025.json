@@ -1,0 +1,17 @@
+{
+  "id": 1025,
+  "sprite": "sprites/home/1025.png",
+  "name_en": "pecharunt",
+  "translations": {
+    "ja-Hrkt": "モモワロウ",
+    "ko": "복숭악동",
+    "zh-Hant": "桃歹郎",
+    "fr": "Pêchaminus",
+    "de": "Infamomo",
+    "es": "Pecharunt",
+    "it": "Pecharunt",
+    "en": "Pecharunt",
+    "ja": "モモワロウ",
+    "zh-Hans": "桃歹郎"
+  }
+}

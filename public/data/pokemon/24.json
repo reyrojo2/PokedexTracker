@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "sprite": "sprites/home/24.png",
+  "name_en": "arbok",
+  "translations": {
+    "ja-Hrkt": "アーボック",
+    "roomaji": "Arbok",
+    "ko": "아보크",
+    "zh-Hant": "阿柏怪",
+    "fr": "Arbok",
+    "de": "Arbok",
+    "es": "Arbok",
+    "it": "Arbok",
+    "en": "Arbok",
+    "ja": "アーボック",
+    "zh-Hans": "阿柏怪"
+  }
+}

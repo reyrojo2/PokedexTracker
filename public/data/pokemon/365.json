@@ -1,0 +1,18 @@
+{
+  "id": 365,
+  "sprite": "sprites/home/365.png",
+  "name_en": "walrein",
+  "translations": {
+    "ja-Hrkt": "トドゼルガ",
+    "roomaji": "Todoseruga",
+    "ko": "씨카이저",
+    "zh-Hant": "帝牙海獅",
+    "fr": "Kaimorse",
+    "de": "Walraisa",
+    "es": "Walrein",
+    "it": "Walrein",
+    "en": "Walrein",
+    "ja": "トドゼルガ",
+    "zh-Hans": "帝牙海狮"
+  }
+}

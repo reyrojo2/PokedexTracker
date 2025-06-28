@@ -1,0 +1,18 @@
+{
+  "id": 1003,
+  "sprite": "sprites/home/1003.png",
+  "name_en": "ting-lu",
+  "translations": {
+    "ja-Hrkt": "ディンルー",
+    "roomaji": "Dinlu",
+    "ko": "딩루",
+    "zh-Hant": "古鼎鹿",
+    "fr": "Dinglu",
+    "de": "Dinglu",
+    "es": "Ting-Lu",
+    "it": "Ting-Lu",
+    "en": "Ting-Lu",
+    "ja": "ディンルー",
+    "zh-Hans": "古鼎鹿"
+  }
+}

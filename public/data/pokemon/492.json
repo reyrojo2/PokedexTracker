@@ -1,0 +1,18 @@
+{
+  "id": 492,
+  "sprite": "sprites/home/492.png",
+  "name_en": "shaymin-land",
+  "translations": {
+    "ja-Hrkt": "シェイミ",
+    "roomaji": "Shaymin",
+    "ko": "쉐이미",
+    "zh-Hant": "謝米",
+    "fr": "Shaymin",
+    "de": "Shaymin",
+    "es": "Shaymin",
+    "it": "Shaymin",
+    "en": "Shaymin",
+    "ja": "シェイミ",
+    "zh-Hans": "谢米"
+  }
+}

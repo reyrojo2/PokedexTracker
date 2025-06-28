@@ -1,0 +1,19 @@
+{
+  "id": 1073,
+  "sprite": "sprites/home/1073.png",
+  "name_en": "Hisuian Zoroark",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ゾロアーク",
+    "roomaji": "Zoroark",
+    "ko": "조로아크",
+    "zh-Hant": "索羅亞克",
+    "fr": "Zoroark",
+    "de": "Zoroark",
+    "es": "Zoroark",
+    "it": "Zoroark",
+    "en": "Zoroark",
+    "ja": "ゾロアーク",
+    "zh-Hans": "索罗亚克"
+  }
+}

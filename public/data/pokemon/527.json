@@ -1,0 +1,18 @@
+{
+  "id": 527,
+  "sprite": "sprites/home/527.png",
+  "name_en": "woobat",
+  "translations": {
+    "ja-Hrkt": "コロモリ",
+    "roomaji": "Koromori",
+    "ko": "또르박쥐",
+    "zh-Hant": "滾滾蝙蝠",
+    "fr": "Chovsourir",
+    "de": "Fleknoil",
+    "es": "Woobat",
+    "it": "Woobat",
+    "en": "Woobat",
+    "ja": "コロモリ",
+    "zh-Hans": "滚滚蝙蝠"
+  }
+}

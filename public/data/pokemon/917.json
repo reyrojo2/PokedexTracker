@@ -1,0 +1,18 @@
+{
+  "id": 917,
+  "sprite": "sprites/home/917.png",
+  "name_en": "tarountula",
+  "translations": {
+    "de": "Tarundel",
+    "ja-Hrkt": "タマンチュラ",
+    "roomaji": "Tamantula",
+    "ko": "타랜툴라",
+    "zh-Hant": "團珠蛛",
+    "fr": "Tissenboule",
+    "es": "Tarountula",
+    "it": "Tarountula",
+    "en": "Tarountula",
+    "ja": "タマンチュラ",
+    "zh-Hans": "团珠蛛"
+  }
+}

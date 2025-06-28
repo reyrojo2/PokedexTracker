@@ -1,0 +1,18 @@
+{
+  "id": 642,
+  "sprite": "sprites/home/642.png",
+  "name_en": "thundurus-incarnate",
+  "translations": {
+    "ja-Hrkt": "ボルトロス",
+    "roomaji": "Voltolos",
+    "ko": "볼트로스",
+    "zh-Hant": "雷電雲",
+    "fr": "Fulguris",
+    "de": "Voltolos",
+    "es": "Thundurus",
+    "it": "Thundurus",
+    "en": "Thundurus",
+    "ja": "ボルトロス",
+    "zh-Hans": "雷电云"
+  }
+}

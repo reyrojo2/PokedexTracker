@@ -1,0 +1,18 @@
+{
+  "id": 274,
+  "sprite": "sprites/home/274.png",
+  "name_en": "nuzleaf",
+  "translations": {
+    "ja-Hrkt": "コノハナ",
+    "roomaji": "Konohana",
+    "ko": "잎새코",
+    "zh-Hant": "長鼻葉",
+    "fr": "Pifeuil",
+    "de": "Blanas",
+    "es": "Nuzleaf",
+    "it": "Nuzleaf",
+    "en": "Nuzleaf",
+    "ja": "コノハナ",
+    "zh-Hans": "长鼻叶"
+  }
+}

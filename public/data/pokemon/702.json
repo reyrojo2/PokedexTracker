@@ -1,0 +1,18 @@
+{
+  "id": 702,
+  "sprite": "sprites/home/702.png",
+  "name_en": "dedenne",
+  "translations": {
+    "ja-Hrkt": "デデンネ",
+    "roomaji": "Dedenne",
+    "ko": "데덴네",
+    "zh-Hant": "咚咚鼠",
+    "fr": "Dedenne",
+    "de": "Dedenne",
+    "es": "Dedenne",
+    "it": "Dedenne",
+    "en": "Dedenne",
+    "ja": "デデンネ",
+    "zh-Hans": "咚咚鼠"
+  }
+}

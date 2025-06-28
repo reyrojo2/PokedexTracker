@@ -1,0 +1,19 @@
+{
+  "id": 1055,
+  "sprite": "sprites/home/1055.png",
+  "name_en": "Galarian Moltres",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ファイヤー",
+    "roomaji": "Fire",
+    "ko": "파이어",
+    "zh-Hant": "火焰鳥",
+    "fr": "Sulfura",
+    "de": "Lavados",
+    "es": "Moltres",
+    "it": "Moltres",
+    "en": "Moltres",
+    "ja": "ファイヤー",
+    "zh-Hans": "火焰鸟"
+  }
+}

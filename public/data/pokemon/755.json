@@ -1,0 +1,18 @@
+{
+  "id": 755,
+  "sprite": "sprites/home/755.png",
+  "name_en": "morelull",
+  "translations": {
+    "ja-Hrkt": "ネマシュ",
+    "roomaji": "Nemasyu",
+    "ko": "자마슈",
+    "zh-Hant": "睡睡菇",
+    "fr": "Spododo",
+    "de": "Bubungus",
+    "es": "Morelull",
+    "it": "Morelull",
+    "en": "Morelull",
+    "ja": "ネマシュ",
+    "zh-Hans": "睡睡菇"
+  }
+}

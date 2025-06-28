@@ -1,0 +1,18 @@
+{
+  "id": 197,
+  "sprite": "sprites/home/197.png",
+  "name_en": "umbreon",
+  "translations": {
+    "ja-Hrkt": "ブラッキー",
+    "roomaji": "Blacky",
+    "ko": "블래키",
+    "zh-Hant": "月亮伊布",
+    "fr": "Noctali",
+    "de": "Nachtara",
+    "es": "Umbreon",
+    "it": "Umbreon",
+    "en": "Umbreon",
+    "ja": "ブラッキー",
+    "zh-Hans": "月亮伊布"
+  }
+}

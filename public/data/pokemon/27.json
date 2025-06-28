@@ -1,0 +1,18 @@
+{
+  "id": 27,
+  "sprite": "sprites/home/27.png",
+  "name_en": "sandshrew",
+  "translations": {
+    "ja-Hrkt": "サンド",
+    "roomaji": "Sand",
+    "ko": "모래두지",
+    "zh-Hant": "穿山鼠",
+    "fr": "Sabelette",
+    "de": "Sandan",
+    "es": "Sandshrew",
+    "it": "Sandshrew",
+    "en": "Sandshrew",
+    "ja": "サンド",
+    "zh-Hans": "穿山鼠"
+  }
+}

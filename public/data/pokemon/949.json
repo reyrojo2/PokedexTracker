@@ -1,0 +1,18 @@
+{
+  "id": 949,
+  "sprite": "sprites/home/949.png",
+  "name_en": "toedscruel",
+  "translations": {
+    "ja-Hrkt": "リククラゲ",
+    "roomaji": "Rikukurage",
+    "ko": "육파리",
+    "zh-Hant": "陸地水母",
+    "fr": "Terracruel",
+    "de": "Tenterra",
+    "es": "Toedscruel",
+    "it": "Toedscruel",
+    "en": "Toedscruel",
+    "ja": "リククラゲ",
+    "zh-Hans": "陆地水母"
+  }
+}

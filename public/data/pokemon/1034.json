@@ -1,0 +1,19 @@
+{
+  "id": 1034,
+  "sprite": "sprites/home/1034.png",
+  "name_en": "Alolan Dugtrio",
+  "region": "Alola",
+  "translations": {
+    "ja-Hrkt": "ダグトリオ",
+    "roomaji": "Dugtrio",
+    "ko": "닥트리오",
+    "zh-Hant": "三地鼠",
+    "fr": "Triopikeur",
+    "de": "Digdri",
+    "es": "Dugtrio",
+    "it": "Dugtrio",
+    "en": "Dugtrio",
+    "ja": "ダグトリオ",
+    "zh-Hans": "三地鼠"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 31,
+  "sprite": "sprites/home/31.png",
+  "name_en": "nidoqueen",
+  "translations": {
+    "ja-Hrkt": "ニドクイン",
+    "roomaji": "Nidoqueen",
+    "ko": "니드퀸",
+    "zh-Hant": "尼多后",
+    "fr": "Nidoqueen",
+    "de": "Nidoqueen",
+    "es": "Nidoqueen",
+    "it": "Nidoqueen",
+    "en": "Nidoqueen",
+    "ja": "ニドクイン",
+    "zh-Hans": "尼多后"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 599,
+  "sprite": "sprites/home/599.png",
+  "name_en": "klink",
+  "translations": {
+    "ja-Hrkt": "ギアル",
+    "roomaji": "Giaru",
+    "ko": "기어르",
+    "zh-Hant": "齒輪兒",
+    "fr": "Tic",
+    "de": "Klikk",
+    "es": "Klink",
+    "it": "Klink",
+    "en": "Klink",
+    "ja": "ギアル",
+    "zh-Hans": "齿轮儿"
+  }
+}

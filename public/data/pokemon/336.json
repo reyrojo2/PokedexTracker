@@ -1,0 +1,18 @@
+{
+  "id": 336,
+  "sprite": "sprites/home/336.png",
+  "name_en": "seviper",
+  "translations": {
+    "ja-Hrkt": "ハブネーク",
+    "roomaji": "Habunake",
+    "ko": "세비퍼",
+    "zh-Hant": "飯匙蛇",
+    "fr": "Séviper",
+    "de": "Vipitis",
+    "es": "Seviper",
+    "it": "Seviper",
+    "en": "Seviper",
+    "ja": "ハブネーク",
+    "zh-Hans": "饭匙蛇"
+  }
+}

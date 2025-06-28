@@ -1,0 +1,18 @@
+{
+  "id": 609,
+  "sprite": "sprites/home/609.png",
+  "name_en": "chandelure",
+  "translations": {
+    "ja-Hrkt": "シャンデラ",
+    "roomaji": "Chandela",
+    "ko": "샹델라",
+    "zh-Hant": "水晶燈火靈",
+    "fr": "Lugulabre",
+    "de": "Skelabra",
+    "es": "Chandelure",
+    "it": "Chandelure",
+    "en": "Chandelure",
+    "ja": "シャンデラ",
+    "zh-Hans": "水晶灯火灵"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 467,
+  "sprite": "sprites/home/467.png",
+  "name_en": "magmortar",
+  "translations": {
+    "ja-Hrkt": "ブーバーン",
+    "roomaji": "Booburn",
+    "ko": "마그마번",
+    "zh-Hant": "鴨嘴炎獸",
+    "fr": "Maganon",
+    "de": "Magbrant",
+    "es": "Magmortar",
+    "it": "Magmortar",
+    "en": "Magmortar",
+    "ja": "ブーバーン",
+    "zh-Hans": "鸭嘴炎兽"
+  }
+}

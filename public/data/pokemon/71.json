@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "sprite": "sprites/home/71.png",
+  "name_en": "victreebel",
+  "translations": {
+    "ja-Hrkt": "ウツボット",
+    "roomaji": "Utsubot",
+    "ko": "우츠보트",
+    "zh-Hant": "大食花",
+    "fr": "Empiflor",
+    "de": "Sarzenia",
+    "es": "Victreebel",
+    "it": "Victreebel",
+    "en": "Victreebel",
+    "ja": "ウツボット",
+    "zh-Hans": "大食花"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 981,
+  "sprite": "sprites/home/981.png",
+  "name_en": "farigiraf",
+  "translations": {
+    "ja-Hrkt": "リキキリン",
+    "roomaji": "Rikikirin",
+    "ko": "키키링",
+    "zh-Hant": "奇麒麟",
+    "fr": "Farigiraf",
+    "de": "Farigiraf",
+    "es": "Farigiraf",
+    "it": "Farigiraf",
+    "en": "Farigiraf",
+    "ja": "リキキリン",
+    "zh-Hans": "奇麒麟"
+  }
+}

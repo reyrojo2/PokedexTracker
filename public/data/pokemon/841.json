@@ -1,0 +1,18 @@
+{
+  "id": 841,
+  "sprite": "sprites/home/841.png",
+  "name_en": "flapple",
+  "translations": {
+    "ja-Hrkt": "アップリュー",
+    "roomaji": "Appryu",
+    "ko": "애프룡",
+    "zh-Hant": "蘋裹龍",
+    "fr": "Pomdrapi",
+    "de": "Drapfel",
+    "es": "Flapple",
+    "it": "Flapple",
+    "en": "Flapple",
+    "ja": "アップリュー",
+    "zh-Hans": "苹裹龙"
+  }
+}

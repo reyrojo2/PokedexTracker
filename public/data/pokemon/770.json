@@ -1,0 +1,18 @@
+{
+  "id": 770,
+  "sprite": "sprites/home/770.png",
+  "name_en": "palossand",
+  "translations": {
+    "ja-Hrkt": "シロデスナ",
+    "roomaji": "Sirodethna",
+    "ko": "모래성이당",
+    "zh-Hant": "噬沙堡爺",
+    "fr": "Trépassable",
+    "de": "Colossand",
+    "es": "Palossand",
+    "it": "Palossand",
+    "en": "Palossand",
+    "ja": "シロデスナ",
+    "zh-Hans": "噬沙堡爷"
+  }
+}

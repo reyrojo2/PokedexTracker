@@ -1,0 +1,18 @@
+{
+  "id": 299,
+  "sprite": "sprites/home/299.png",
+  "name_en": "nosepass",
+  "translations": {
+    "ja-Hrkt": "ノズパス",
+    "roomaji": "Nosepass",
+    "ko": "코코파스",
+    "zh-Hant": "朝北鼻",
+    "fr": "Tarinor",
+    "de": "Nasgnet",
+    "es": "Nosepass",
+    "it": "Nosepass",
+    "en": "Nosepass",
+    "ja": "ノズパス",
+    "zh-Hans": "朝北鼻"
+  }
+}

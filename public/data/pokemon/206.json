@@ -1,0 +1,18 @@
+{
+  "id": 206,
+  "sprite": "sprites/home/206.png",
+  "name_en": "dunsparce",
+  "translations": {
+    "ja-Hrkt": "ノコッチ",
+    "roomaji": "Nokocchi",
+    "ko": "노고치",
+    "zh-Hant": "土龍弟弟",
+    "fr": "Insolourdo",
+    "de": "Dummisel",
+    "es": "Dunsparce",
+    "it": "Dunsparce",
+    "en": "Dunsparce",
+    "ja": "ノコッチ",
+    "zh-Hans": "土龙弟弟"
+  }
+}

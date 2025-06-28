@@ -1,0 +1,18 @@
+{
+  "id": 86,
+  "sprite": "sprites/home/86.png",
+  "name_en": "seel",
+  "translations": {
+    "ja-Hrkt": "パウワウ",
+    "roomaji": "Pawou",
+    "ko": "쥬쥬",
+    "zh-Hant": "小海獅",
+    "fr": "Otaria",
+    "de": "Jurob",
+    "es": "Seel",
+    "it": "Seel",
+    "en": "Seel",
+    "ja": "パウワウ",
+    "zh-Hans": "小海狮"
+  }
+}

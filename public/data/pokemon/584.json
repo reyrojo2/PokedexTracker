@@ -1,0 +1,18 @@
+{
+  "id": 584,
+  "sprite": "sprites/home/584.png",
+  "name_en": "vanilluxe",
+  "translations": {
+    "ja-Hrkt": "バイバニラ",
+    "roomaji": "Baivanilla",
+    "ko": "배바닐라",
+    "zh-Hant": "雙倍多多冰",
+    "fr": "Sorbouboul",
+    "de": "Gelatwino",
+    "es": "Vanilluxe",
+    "it": "Vanilluxe",
+    "en": "Vanilluxe",
+    "ja": "バイバニラ",
+    "zh-Hans": "双倍多多冰"
+  }
+}

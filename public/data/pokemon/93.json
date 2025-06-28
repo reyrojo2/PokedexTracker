@@ -1,0 +1,18 @@
+{
+  "id": 93,
+  "sprite": "sprites/home/93.png",
+  "name_en": "haunter",
+  "translations": {
+    "ja-Hrkt": "ゴースト",
+    "roomaji": "Ghost",
+    "ko": "고우스트",
+    "zh-Hant": "鬼斯通",
+    "fr": "Spectrum",
+    "de": "Alpollo",
+    "es": "Haunter",
+    "it": "Haunter",
+    "en": "Haunter",
+    "ja": "ゴースト",
+    "zh-Hans": "鬼斯通"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 33,
+  "sprite": "sprites/home/33.png",
+  "name_en": "nidorino",
+  "translations": {
+    "ja-Hrkt": "ニドリーノ",
+    "roomaji": "Nidorino",
+    "ko": "니드리노",
+    "zh-Hant": "尼多力諾",
+    "fr": "Nidorino",
+    "de": "Nidorino",
+    "es": "Nidorino",
+    "it": "Nidorino",
+    "en": "Nidorino",
+    "ja": "ニドリーノ",
+    "zh-Hans": "尼多力诺"
+  }
+}

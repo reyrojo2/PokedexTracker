@@ -1,0 +1,18 @@
+{
+  "id": 587,
+  "sprite": "sprites/home/587.png",
+  "name_en": "emolga",
+  "translations": {
+    "ja-Hrkt": "エモンガ",
+    "roomaji": "Emonga",
+    "ko": "에몽가",
+    "zh-Hant": "電飛鼠",
+    "fr": "Emolga",
+    "de": "Emolga",
+    "es": "Emolga",
+    "it": "Emolga",
+    "en": "Emolga",
+    "ja": "エモンガ",
+    "zh-Hans": "电飞鼠"
+  }
+}

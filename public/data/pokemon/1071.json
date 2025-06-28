@@ -1,0 +1,19 @@
+{
+  "id": 1071,
+  "sprite": "sprites/home/1071.png",
+  "name_en": "Hisuian Lilligant",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ドレディア",
+    "roomaji": "Dredear",
+    "ko": "드레디어",
+    "zh-Hant": "裙兒小姐",
+    "fr": "Fragilady",
+    "de": "Dressella",
+    "es": "Lilligant",
+    "it": "Lilligant",
+    "en": "Lilligant",
+    "ja": "ドレディア",
+    "zh-Hans": "裙儿小姐"
+  }
+}

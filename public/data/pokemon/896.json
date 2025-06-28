@@ -1,0 +1,18 @@
+{
+  "id": 896,
+  "sprite": "sprites/home/896.png",
+  "name_en": "glastrier",
+  "translations": {
+    "ja-Hrkt": "ブリザポス",
+    "roomaji": "Blizzapos",
+    "ko": "블리자포스",
+    "zh-Hant": "雪暴馬",
+    "fr": "Blizzeval",
+    "de": "Polaross",
+    "es": "Glastrier",
+    "it": "Glastrier",
+    "en": "Glastrier",
+    "ja": "ブリザポス",
+    "zh-Hans": "雪暴马"
+  }
+}

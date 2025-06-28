@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "sprite": "sprites/home/223.png",
+  "name_en": "remoraid",
+  "translations": {
+    "ja-Hrkt": "テッポウオ",
+    "roomaji": "Teppouo",
+    "ko": "총어",
+    "zh-Hant": "鐵炮魚",
+    "fr": "Rémoraid",
+    "de": "Remoraid",
+    "es": "Remoraid",
+    "it": "Remoraid",
+    "en": "Remoraid",
+    "ja": "テッポウオ",
+    "zh-Hans": "铁炮鱼"
+  }
+}

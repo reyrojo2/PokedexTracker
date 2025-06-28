@@ -1,0 +1,19 @@
+{
+  "id": 1046,
+  "sprite": "sprites/home/1046.png",
+  "name_en": "Galarian Rapidash",
+  "region": "Galar",
+  "translations": {
+    "ja-Hrkt": "ギャロップ",
+    "roomaji": "Gallop",
+    "ko": "날쌩마",
+    "zh-Hant": "烈焰馬",
+    "fr": "Galopa",
+    "de": "Gallopa",
+    "es": "Rapidash",
+    "it": "Rapidash",
+    "en": "Rapidash",
+    "ja": "ギャロップ",
+    "zh-Hans": "烈焰马"
+  }
+}

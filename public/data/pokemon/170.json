@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "sprite": "sprites/home/170.png",
+  "name_en": "chinchou",
+  "translations": {
+    "ko": "초라기",
+    "ja-Hrkt": "チョンチー",
+    "roomaji": "Chonchie",
+    "zh-Hant": "燈籠魚",
+    "fr": "Loupio",
+    "de": "Lampi",
+    "es": "Chinchou",
+    "it": "Chinchou",
+    "en": "Chinchou",
+    "ja": "チョンチー",
+    "zh-Hans": "灯笼鱼"
+  }
+}

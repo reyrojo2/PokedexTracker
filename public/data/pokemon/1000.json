@@ -1,0 +1,18 @@
+{
+  "id": 1000,
+  "sprite": "sprites/home/1000.png",
+  "name_en": "gholdengo",
+  "translations": {
+    "ja-Hrkt": "サーフゴー",
+    "roomaji": "Surfugo",
+    "ko": "타부자고",
+    "zh-Hant": "賽富豪",
+    "fr": "Gromago",
+    "de": "Monetigo",
+    "es": "Gholdengo",
+    "it": "Gholdengo",
+    "en": "Gholdengo",
+    "ja": "サーフゴー",
+    "zh-Hans": "赛富豪"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 792,
+  "sprite": "sprites/home/792.png",
+  "name_en": "lunala",
+  "translations": {
+    "ja-Hrkt": "ルナアーラ",
+    "roomaji": "Lunala",
+    "ko": "루나아라",
+    "zh-Hant": "露奈雅拉",
+    "fr": "Lunala",
+    "de": "Lunala",
+    "es": "Lunala",
+    "it": "Lunala",
+    "en": "Lunala",
+    "ja": "ルナアーラ",
+    "zh-Hans": "露奈雅拉"
+  }
+}

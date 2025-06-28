@@ -1,0 +1,18 @@
+{
+  "id": 362,
+  "sprite": "sprites/home/362.png",
+  "name_en": "glalie",
+  "translations": {
+    "ja-Hrkt": "オニゴーリ",
+    "roomaji": "Onigohri",
+    "ko": "얼음귀신",
+    "zh-Hant": "冰鬼護",
+    "fr": "Oniglali",
+    "de": "Firnontor",
+    "es": "Glalie",
+    "it": "Glalie",
+    "en": "Glalie",
+    "ja": "オニゴーリ",
+    "zh-Hans": "冰鬼护"
+  }
+}

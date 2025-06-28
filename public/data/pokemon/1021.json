@@ -1,0 +1,17 @@
+{
+  "id": 1021,
+  "sprite": "sprites/home/1021.png",
+  "name_en": "raging-bolt",
+  "translations": {
+    "ja-Hrkt": "タケルライコ",
+    "ko": "날뛰는우레",
+    "zh-Hant": "猛雷鼓",
+    "fr": "Ire-Foudre",
+    "de": "Furienblitz",
+    "es": "Electrofuria",
+    "it": "Furiatonante",
+    "en": "Raging Bolt",
+    "ja": "タケルライコ",
+    "zh-Hans": "猛雷鼓"
+  }
+}

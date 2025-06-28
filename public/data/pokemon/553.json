@@ -1,0 +1,18 @@
+{
+  "id": 553,
+  "sprite": "sprites/home/553.png",
+  "name_en": "krookodile",
+  "translations": {
+    "ja-Hrkt": "ワルビアル",
+    "roomaji": "Waruvial",
+    "ko": "악비아르",
+    "zh-Hant": "流氓鱷",
+    "fr": "Crocorible",
+    "de": "Rabigator",
+    "es": "Krookodile",
+    "it": "Krookodile",
+    "en": "Krookodile",
+    "ja": "ワルビアル",
+    "zh-Hans": "流氓鳄"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 720,
+  "sprite": "sprites/home/720.png",
+  "name_en": "hoopa",
+  "translations": {
+    "ja-Hrkt": "フーパ",
+    "roomaji": "Hoopa",
+    "ko": "후파",
+    "zh-Hant": "胡帕",
+    "fr": "Hoopa",
+    "de": "Hoopa",
+    "es": "Hoopa",
+    "it": "Hoopa",
+    "en": "Hoopa",
+    "ja": "フーパ",
+    "zh-Hans": "胡帕"
+  }
+}

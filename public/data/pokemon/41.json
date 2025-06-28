@@ -1,0 +1,18 @@
+{
+  "id": 41,
+  "sprite": "sprites/home/41.png",
+  "name_en": "zubat",
+  "translations": {
+    "ja-Hrkt": "ズバット",
+    "roomaji": "Zubat",
+    "ko": "주뱃",
+    "zh-Hant": "超音蝠",
+    "fr": "Nosferapti",
+    "de": "Zubat",
+    "es": "Zubat",
+    "it": "Zubat",
+    "en": "Zubat",
+    "ja": "ズバット",
+    "zh-Hans": "超音蝠"
+  }
+}

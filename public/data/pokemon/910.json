@@ -1,0 +1,18 @@
+{
+  "id": 910,
+  "sprite": "sprites/home/910.png",
+  "name_en": "crocalor",
+  "translations": {
+    "ja-Hrkt": "アチゲータ",
+    "roomaji": "Achigator",
+    "ko": "악뜨거",
+    "zh-Hant": "炙燙鱷",
+    "fr": "Crocogril",
+    "de": "Lokroko",
+    "es": "Crocalor",
+    "it": "Crocalor",
+    "en": "Crocalor",
+    "ja": "アチゲータ",
+    "zh-Hans": "炙烫鳄"
+  }
+}

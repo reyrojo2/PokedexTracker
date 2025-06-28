@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "sprite": "sprites/home/307.png",
+  "name_en": "meditite",
+  "translations": {
+    "ja-Hrkt": "アサナン",
+    "roomaji": "Asanan",
+    "ko": "요가랑",
+    "zh-Hant": "瑪沙那",
+    "fr": "Méditikka",
+    "de": "Meditie",
+    "es": "Meditite",
+    "it": "Meditite",
+    "en": "Meditite",
+    "ja": "アサナン",
+    "zh-Hans": "玛沙那"
+  }
+}

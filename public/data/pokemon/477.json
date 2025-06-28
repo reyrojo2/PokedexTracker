@@ -1,0 +1,18 @@
+{
+  "id": 477,
+  "sprite": "sprites/home/477.png",
+  "name_en": "dusknoir",
+  "translations": {
+    "ja-Hrkt": "ヨノワール",
+    "roomaji": "Yonoir",
+    "ko": "야느와르몽",
+    "zh-Hant": "黑夜魔靈",
+    "fr": "Noctunoir",
+    "de": "Zwirrfinst",
+    "es": "Dusknoir",
+    "it": "Dusknoir",
+    "en": "Dusknoir",
+    "ja": "ヨノワール",
+    "zh-Hans": "黑夜魔灵"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1014,
+  "sprite": "sprites/home/1014.png",
+  "name_en": "okidogi",
+  "translations": {
+    "ja-Hrkt": "イイネイヌ",
+    "ko": "조타구",
+    "zh-Hant": "夠讚狗",
+    "fr": "Félicanis",
+    "de": "Boninu",
+    "es": "Okidogi",
+    "it": "Okidogi",
+    "en": "Okidogi",
+    "ja": "イイネイヌ",
+    "zh-Hans": "够赞狗"
+  }
+}

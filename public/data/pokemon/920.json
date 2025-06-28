@@ -1,0 +1,18 @@
+{
+  "id": 920,
+  "sprite": "sprites/home/920.png",
+  "name_en": "lokix",
+  "translations": {
+    "ja-Hrkt": "エクスレッグ",
+    "roomaji": "Exleg",
+    "ko": "엑스레그",
+    "zh-Hant": "烈腿蝗",
+    "fr": "Gambex",
+    "de": "Lextremo",
+    "es": "Lokix",
+    "it": "Lokix",
+    "en": "Lokix",
+    "ja": "エクスレッグ",
+    "zh-Hans": "烈腿蝗"
+  }
+}

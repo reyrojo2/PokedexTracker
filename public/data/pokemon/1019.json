@@ -1,0 +1,17 @@
+{
+  "id": 1019,
+  "sprite": "sprites/home/1019.png",
+  "name_en": "hydrapple",
+  "translations": {
+    "ja-Hrkt": "カミツオロチ",
+    "ko": "과미드라",
+    "zh-Hant": "蜜集大蛇",
+    "fr": "Pomdorochi",
+    "de": "Hydrapfel",
+    "es": "Hydrapple",
+    "it": "Hydrapple",
+    "en": "Hydrapple",
+    "ja": "カミツオロチ",
+    "zh-Hans": "蜜集大蛇"
+  }
+}

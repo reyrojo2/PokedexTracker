@@ -1,0 +1,18 @@
+{
+  "id": 671,
+  "sprite": "sprites/home/671.png",
+  "name_en": "florges",
+  "translations": {
+    "ja-Hrkt": "フラージェス",
+    "roomaji": "Florges",
+    "ko": "플라제스",
+    "zh-Hant": "花潔夫人",
+    "fr": "Florges",
+    "de": "Florges",
+    "es": "Florges",
+    "it": "Florges",
+    "en": "Florges",
+    "ja": "フラージェス",
+    "zh-Hans": "花洁夫人"
+  }
+}

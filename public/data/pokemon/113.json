@@ -1,0 +1,18 @@
+{
+  "id": 113,
+  "sprite": "sprites/home/113.png",
+  "name_en": "chansey",
+  "translations": {
+    "ja-Hrkt": "ラッキー",
+    "roomaji": "Lucky",
+    "ko": "럭키",
+    "zh-Hant": "吉利蛋",
+    "fr": "Leveinard",
+    "de": "Chaneira",
+    "es": "Chansey",
+    "it": "Chansey",
+    "en": "Chansey",
+    "ja": "ラッキー",
+    "zh-Hans": "吉利蛋"
+  }
+}

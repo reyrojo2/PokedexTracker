@@ -1,0 +1,18 @@
+{
+  "id": 328,
+  "sprite": "sprites/home/328.png",
+  "name_en": "trapinch",
+  "translations": {
+    "ja-Hrkt": "ナックラー",
+    "roomaji": "Nuckrar",
+    "ko": "톱치",
+    "zh-Hant": "大顎蟻",
+    "fr": "Kraknoix",
+    "de": "Knacklion",
+    "es": "Trapinch",
+    "it": "Trapinch",
+    "en": "Trapinch",
+    "ja": "ナックラー",
+    "zh-Hans": "大颚蚁"
+  }
+}

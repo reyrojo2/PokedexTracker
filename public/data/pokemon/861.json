@@ -1,0 +1,18 @@
+{
+  "id": 861,
+  "sprite": "sprites/home/861.png",
+  "name_en": "grimmsnarl",
+  "translations": {
+    "ja-Hrkt": "オーロンゲ",
+    "roomaji": "Ohlonge",
+    "ko": "오롱털",
+    "zh-Hant": "長毛巨魔",
+    "fr": "Angoliath",
+    "de": "Olangaar",
+    "es": "Grimmsnarl",
+    "it": "Grimmsnarl",
+    "en": "Grimmsnarl",
+    "ja": "オーロンゲ",
+    "zh-Hans": "长毛巨魔"
+  }
+}

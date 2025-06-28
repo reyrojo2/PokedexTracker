@@ -1,0 +1,18 @@
+{
+  "id": 200,
+  "sprite": "sprites/home/200.png",
+  "name_en": "misdreavus",
+  "translations": {
+    "ja-Hrkt": "ムウマ",
+    "roomaji": "Muma",
+    "ko": "무우마",
+    "zh-Hant": "夢妖",
+    "fr": "Feuforêve",
+    "de": "Traunfugil",
+    "es": "Misdreavus",
+    "it": "Misdreavus",
+    "en": "Misdreavus",
+    "ja": "ムウマ",
+    "zh-Hans": "梦妖"
+  }
+}

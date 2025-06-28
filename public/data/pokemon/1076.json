@@ -1,0 +1,19 @@
+{
+  "id": 1076,
+  "sprite": "sprites/home/1076.png",
+  "name_en": "Hisuian Goodra",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ヌメルゴン",
+    "roomaji": "Numelgon",
+    "ko": "미끄래곤",
+    "zh-Hant": "黏美龍",
+    "fr": "Muplodocus",
+    "de": "Viscogon",
+    "es": "Goodra",
+    "it": "Goodra",
+    "en": "Goodra",
+    "ja": "ヌメルゴン",
+    "zh-Hans": "黏美龙"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 729,
+  "sprite": "sprites/home/729.png",
+  "name_en": "brionne",
+  "translations": {
+    "ja-Hrkt": "オシャマリ",
+    "roomaji": "Osyamari",
+    "ko": "키요공",
+    "zh-Hant": "花漾海獅",
+    "fr": "Otarlette",
+    "de": "Marikeck",
+    "es": "Brionne",
+    "it": "Brionne",
+    "en": "Brionne",
+    "ja": "オシャマリ",
+    "zh-Hans": "花漾海狮"
+  }
+}

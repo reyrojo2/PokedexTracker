@@ -1,0 +1,18 @@
+{
+  "id": 143,
+  "sprite": "sprites/home/143.png",
+  "name_en": "snorlax",
+  "translations": {
+    "ja-Hrkt": "カビゴン",
+    "roomaji": "Kabigon",
+    "ko": "잠만보",
+    "zh-Hant": "卡比獸",
+    "fr": "Ronflex",
+    "de": "Relaxo",
+    "es": "Snorlax",
+    "it": "Snorlax",
+    "en": "Snorlax",
+    "ja": "カビゴン",
+    "zh-Hans": "卡比兽"
+  }
+}

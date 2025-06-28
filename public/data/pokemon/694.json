@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "sprite": "sprites/home/694.png",
+  "name_en": "helioptile",
+  "translations": {
+    "ja-Hrkt": "エリキテル",
+    "roomaji": "Erikiteru",
+    "ko": "목도리키텔",
+    "zh-Hant": "傘電蜥",
+    "fr": "Galvaran",
+    "de": "Eguana",
+    "es": "Helioptile",
+    "it": "Helioptile",
+    "en": "Helioptile",
+    "ja": "エリキテル",
+    "zh-Hans": "伞电蜥"
+  }
+}

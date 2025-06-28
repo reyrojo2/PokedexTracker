@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "sprite": "sprites/home/6.png",
+  "name_en": "charizard",
+  "translations": {
+    "ja-Hrkt": "リザードン",
+    "roomaji": "Lizardon",
+    "ko": "리자몽",
+    "zh-Hant": "噴火龍",
+    "fr": "Dracaufeu",
+    "de": "Glurak",
+    "es": "Charizard",
+    "it": "Charizard",
+    "en": "Charizard",
+    "ja": "リザードン",
+    "zh-Hans": "喷火龙"
+  }
+}

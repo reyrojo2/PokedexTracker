@@ -1,0 +1,18 @@
+{
+  "id": 1006,
+  "sprite": "sprites/home/1006.png",
+  "name_en": "iron-valiant",
+  "translations": {
+    "ja-Hrkt": "テツノブジン",
+    "roomaji": "Tetsunobujin",
+    "ko": "무쇠무인",
+    "zh-Hant": "鐵武者",
+    "fr": "Garde-de-Fer",
+    "de": "Eisenkrieger",
+    "es": "Ferropaladín",
+    "it": "Eroeferreo",
+    "en": "Iron Valiant",
+    "ja": "テツノブジン",
+    "zh-Hans": "铁武者"
+  }
+}

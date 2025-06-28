@@ -1,0 +1,18 @@
+{
+  "id": 746,
+  "sprite": "sprites/home/746.png",
+  "name_en": "wishiwashi-solo",
+  "translations": {
+    "ja-Hrkt": "ヨワシ",
+    "roomaji": "Yowashi",
+    "ko": "약어리",
+    "zh-Hant": "弱丁魚",
+    "fr": "Froussardine",
+    "de": "Lusardin",
+    "es": "Wishiwashi",
+    "it": "Wishiwashi",
+    "en": "Wishiwashi",
+    "ja": "ヨワシ",
+    "zh-Hans": "弱丁鱼"
+  }
+}

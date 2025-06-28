@@ -1,0 +1,18 @@
+{
+  "id": 517,
+  "sprite": "sprites/home/517.png",
+  "name_en": "munna",
+  "translations": {
+    "ja-Hrkt": "ムンナ",
+    "roomaji": "Munna",
+    "ko": "몽나",
+    "zh-Hant": "食夢夢",
+    "fr": "Munna",
+    "de": "Somniam",
+    "es": "Munna",
+    "it": "Munna",
+    "en": "Munna",
+    "ja": "ムンナ",
+    "zh-Hans": "食梦梦"
+  }
+}

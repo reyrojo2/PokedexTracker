@@ -1,0 +1,18 @@
+{
+  "id": 470,
+  "sprite": "sprites/home/470.png",
+  "name_en": "leafeon",
+  "translations": {
+    "ja-Hrkt": "リーフィア",
+    "roomaji": "Leafia",
+    "ko": "리피아",
+    "zh-Hant": "葉伊布",
+    "fr": "Phyllali",
+    "de": "Folipurba",
+    "es": "Leafeon",
+    "it": "Leafeon",
+    "en": "Leafeon",
+    "ja": "リーフィア",
+    "zh-Hans": "叶伊布"
+  }
+}

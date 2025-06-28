@@ -1,0 +1,18 @@
+{
+  "id": 588,
+  "sprite": "sprites/home/588.png",
+  "name_en": "karrablast",
+  "translations": {
+    "ja-Hrkt": "カブルモ",
+    "roomaji": "Kaburumo",
+    "ko": "딱정곤",
+    "zh-Hant": "蓋蓋蟲",
+    "fr": "Carabing",
+    "de": "Laukaps",
+    "es": "Karrablast",
+    "it": "Karrablast",
+    "en": "Karrablast",
+    "ja": "カブルモ",
+    "zh-Hans": "盖盖虫"
+  }
+}

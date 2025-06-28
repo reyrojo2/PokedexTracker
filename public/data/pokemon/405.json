@@ -1,0 +1,18 @@
+{
+  "id": 405,
+  "sprite": "sprites/home/405.png",
+  "name_en": "luxray",
+  "translations": {
+    "ja-Hrkt": "レントラー",
+    "roomaji": "Rentorar",
+    "ko": "렌트라",
+    "zh-Hant": "倫琴貓",
+    "fr": "Luxray",
+    "de": "Luxtra",
+    "es": "Luxray",
+    "it": "Luxray",
+    "en": "Luxray",
+    "ja": "レントラー",
+    "zh-Hans": "伦琴猫"
+  }
+}

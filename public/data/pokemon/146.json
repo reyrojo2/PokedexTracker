@@ -1,0 +1,18 @@
+{
+  "id": 146,
+  "sprite": "sprites/home/146.png",
+  "name_en": "moltres",
+  "translations": {
+    "ja-Hrkt": "ファイヤー",
+    "roomaji": "Fire",
+    "ko": "파이어",
+    "zh-Hant": "火焰鳥",
+    "fr": "Sulfura",
+    "de": "Lavados",
+    "es": "Moltres",
+    "it": "Moltres",
+    "en": "Moltres",
+    "ja": "ファイヤー",
+    "zh-Hans": "火焰鸟"
+  }
+}

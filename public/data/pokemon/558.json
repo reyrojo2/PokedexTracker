@@ -1,0 +1,18 @@
+{
+  "id": 558,
+  "sprite": "sprites/home/558.png",
+  "name_en": "crustle",
+  "translations": {
+    "ja-Hrkt": "イワパレス",
+    "roomaji": "Iwapalace",
+    "ko": "암팰리스",
+    "zh-Hant": "岩殿居蟹",
+    "fr": "Crabaraque",
+    "de": "Castellith",
+    "es": "Crustle",
+    "it": "Crustle",
+    "en": "Crustle",
+    "ja": "イワパレス",
+    "zh-Hans": "岩殿居蟹"
+  }
+}

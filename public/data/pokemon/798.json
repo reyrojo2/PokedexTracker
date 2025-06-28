@@ -1,0 +1,18 @@
+{
+  "id": 798,
+  "sprite": "sprites/home/798.png",
+  "name_en": "kartana",
+  "translations": {
+    "ja-Hrkt": "カミツルギ",
+    "roomaji": "Kamiturugi",
+    "ko": "종이신도",
+    "zh-Hant": "紙御劍",
+    "fr": "Katagami",
+    "de": "Katagami",
+    "es": "Kartana",
+    "it": "Kartana",
+    "en": "Kartana",
+    "ja": "カミツルギ",
+    "zh-Hans": "纸御剑"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 109,
+  "sprite": "sprites/home/109.png",
+  "name_en": "koffing",
+  "translations": {
+    "ja-Hrkt": "ドガース",
+    "roomaji": "Dogars",
+    "ko": "또가스",
+    "zh-Hant": "瓦斯彈",
+    "fr": "Smogo",
+    "de": "Smogon",
+    "es": "Koffing",
+    "it": "Koffing",
+    "en": "Koffing",
+    "ja": "ドガース",
+    "zh-Hans": "瓦斯弹"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 736,
+  "sprite": "sprites/home/736.png",
+  "name_en": "grubbin",
+  "translations": {
+    "ja-Hrkt": "アゴジムシ",
+    "roomaji": "Agojimushi",
+    "ko": "턱지충이",
+    "zh-Hant": "強顎雞母蟲",
+    "fr": "Larvibule",
+    "de": "Mabula",
+    "es": "Grubbin",
+    "it": "Grubbin",
+    "en": "Grubbin",
+    "ja": "アゴジムシ",
+    "zh-Hans": "强颚鸡母虫"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 398,
+  "sprite": "sprites/home/398.png",
+  "name_en": "staraptor",
+  "translations": {
+    "ja-Hrkt": "ムクホーク",
+    "roomaji": "Mukuhawk",
+    "ko": "찌르호크",
+    "zh-Hant": "姆克鷹",
+    "fr": "Étouraptor",
+    "de": "Staraptor",
+    "es": "Staraptor",
+    "it": "Staraptor",
+    "en": "Staraptor",
+    "ja": "ムクホーク",
+    "zh-Hans": "姆克鹰"
+  }
+}

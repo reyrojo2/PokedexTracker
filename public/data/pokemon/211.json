@@ -1,0 +1,18 @@
+{
+  "id": 211,
+  "sprite": "sprites/home/211.png",
+  "name_en": "qwilfish",
+  "translations": {
+    "ja-Hrkt": "ハリーセン",
+    "roomaji": "Harysen",
+    "ko": "침바루",
+    "zh-Hant": "千針魚",
+    "fr": "Qwilfish",
+    "de": "Baldorfish",
+    "es": "Qwilfish",
+    "it": "Qwilfish",
+    "en": "Qwilfish",
+    "ja": "ハリーセン",
+    "zh-Hans": "千针鱼"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "sprite": "sprites/home/21.png",
+  "name_en": "spearow",
+  "translations": {
+    "ja-Hrkt": "オニスズメ",
+    "roomaji": "Onisuzume",
+    "ko": "깨비참",
+    "zh-Hant": "烈雀",
+    "fr": "Piafabec",
+    "de": "Habitak",
+    "es": "Spearow",
+    "it": "Spearow",
+    "en": "Spearow",
+    "ja": "オニスズメ",
+    "zh-Hans": "烈雀"
+  }
+}

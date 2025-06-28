@@ -1,0 +1,18 @@
+{
+  "id": 445,
+  "sprite": "sprites/home/445.png",
+  "name_en": "garchomp",
+  "translations": {
+    "ja-Hrkt": "ガブリアス",
+    "roomaji": "Gablias",
+    "ko": "한카리아스",
+    "zh-Hant": "烈咬陸鯊",
+    "fr": "Carchacrok",
+    "de": "Knakrack",
+    "es": "Garchomp",
+    "it": "Garchomp",
+    "en": "Garchomp",
+    "ja": "ガブリアス",
+    "zh-Hans": "烈咬陆鲨"
+  }
+}

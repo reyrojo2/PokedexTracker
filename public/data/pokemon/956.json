@@ -1,0 +1,18 @@
+{
+  "id": 956,
+  "sprite": "sprites/home/956.png",
+  "name_en": "espathra",
+  "translations": {
+    "ja-Hrkt": "クエスパトラ",
+    "roomaji": "Cuespatra",
+    "ko": "클레스퍼트라",
+    "zh-Hant": "超能艷鴕",
+    "fr": "Cléopsytra",
+    "de": "Psiopatra",
+    "es": "Espathra",
+    "it": "Espathra",
+    "en": "Espathra",
+    "ja": "クエスパトラ",
+    "zh-Hans": "超能艳鸵"
+  }
+}

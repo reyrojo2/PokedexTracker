@@ -1,0 +1,18 @@
+{
+  "id": 833,
+  "sprite": "sprites/home/833.png",
+  "name_en": "chewtle",
+  "translations": {
+    "ja-Hrkt": "カムカメ",
+    "roomaji": "Kamukame",
+    "ko": "깨물부기",
+    "zh-Hant": "咬咬龜",
+    "fr": "Khélocrok",
+    "de": "Kamehaps",
+    "es": "Chewtle",
+    "it": "Chewtle",
+    "en": "Chewtle",
+    "ja": "カムカメ",
+    "zh-Hans": "咬咬龟"
+  }
+}

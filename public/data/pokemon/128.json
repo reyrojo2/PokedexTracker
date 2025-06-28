@@ -1,0 +1,18 @@
+{
+  "id": 128,
+  "sprite": "sprites/home/128.png",
+  "name_en": "tauros",
+  "translations": {
+    "ja-Hrkt": "ケンタロス",
+    "roomaji": "Kentauros",
+    "ko": "켄타로스",
+    "zh-Hant": "肯泰羅",
+    "fr": "Tauros",
+    "de": "Tauros",
+    "es": "Tauros",
+    "it": "Tauros",
+    "en": "Tauros",
+    "ja": "ケンタロス",
+    "zh-Hans": "肯泰罗"
+  }
+}

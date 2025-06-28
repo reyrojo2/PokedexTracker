@@ -1,0 +1,18 @@
+{
+  "id": 843,
+  "sprite": "sprites/home/843.png",
+  "name_en": "silicobra",
+  "translations": {
+    "ja-Hrkt": "スナヘビ",
+    "roomaji": "Sunahebi",
+    "ko": "모래뱀",
+    "zh-Hant": "沙包蛇",
+    "fr": "Dunaja",
+    "de": "Salanga",
+    "es": "Silicobra",
+    "it": "Silicobra",
+    "en": "Silicobra",
+    "ja": "スナヘビ",
+    "zh-Hans": "沙包蛇"
+  }
+}

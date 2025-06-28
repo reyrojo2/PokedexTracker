@@ -1,0 +1,18 @@
+{
+  "id": 437,
+  "sprite": "sprites/home/437.png",
+  "name_en": "bronzong",
+  "translations": {
+    "ja-Hrkt": "ドータクン",
+    "roomaji": "Dotakun",
+    "ko": "동탁군",
+    "zh-Hant": "青銅鐘",
+    "fr": "Archéodong",
+    "de": "Bronzong",
+    "es": "Bronzong",
+    "it": "Bronzong",
+    "en": "Bronzong",
+    "ja": "ドータクン",
+    "zh-Hans": "青铜钟"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 397,
+  "sprite": "sprites/home/397.png",
+  "name_en": "staravia",
+  "translations": {
+    "ja-Hrkt": "ムクバード",
+    "roomaji": "Mukubird",
+    "ko": "찌르버드",
+    "zh-Hant": "姆克鳥",
+    "fr": "Étourvol",
+    "de": "Staravia",
+    "es": "Staravia",
+    "it": "Staravia",
+    "en": "Staravia",
+    "ja": "ムクバード",
+    "zh-Hans": "姆克鸟"
+  }
+}

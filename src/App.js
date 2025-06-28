@@ -1,23 +1,67 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from 'react';
+import AllBoxes from './components/allBoxes';
+
+const BACK_URL = process.env.REACT_APP_SHEETS_URL;
+
+
 
 function App() {
+  const [capturados, setCapturados] = useState(new Set());
+  const [etiquetasGO, setEtiquetasGO] = useState({});
+  const [allPokemon, setAllPokemon] = useState([]);
+
+  const manejarCaptura = (id, nuevoEstado) => {
+    setCapturados((prev) => {
+      const nuevoSet = new Set(prev);
+      if (nuevoEstado === 'caught') {
+        nuevoSet.add(id);
+      } else {
+        nuevoSet.delete(id);
+      }
+      return nuevoSet;
+    });
+  };
+
+  useEffect(() => {
+    fetch(BACK_URL)
+      .then((res) => res.json())
+      .then((data) => {
+        const capturadosSet = new Set();
+        const etiquetas = {};
+
+        data.forEach((poke) => {
+          const realId = Number(poke.id);
+          if (poke.estado === 'caught') capturadosSet.add(realId);
+          if (poke.etiquetaGO === true || poke.etiquetaGO === 'true' || poke.etiquetaGO === 'TRUE') {
+            etiquetas[realId] = true;
+          }
+        });
+
+        setCapturados(capturadosSet);
+        setEtiquetasGO(etiquetas);
+      })
+      .catch((err) => console.error("Error al cargar datos desde Sheets:", err));
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="headerpoke">
+        <img id="imgPoke" src="/PokemonHOME.png" alt="pokeball" />
+        <p id="Progreso">Progreso actual: {capturados.size} / 1025 Pokémon</p>
+        <div className="user-info">
+          <span className="username">Víctor Duarte</span>
+          <div className="avatar">👤</div>
+        </div>
+      </div>
+      <br />
+
+      <AllBoxes
+        allPokemon={allPokemon}
+        onCaptureChange={manejarCaptura}
+        capturados={capturados}
+        etiquetasGO={etiquetasGO}
+        setEtiquetasGO={setEtiquetasGO}
+      />
     </div>
   );
 }

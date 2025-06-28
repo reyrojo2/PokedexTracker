@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "sprite": "sprites/home/5.png",
+  "name_en": "charmeleon",
+  "translations": {
+    "ja-Hrkt": "リザード",
+    "roomaji": "Lizardo",
+    "ko": "리자드",
+    "zh-Hant": "火恐龍",
+    "fr": "Reptincel",
+    "de": "Glutexo",
+    "es": "Charmeleon",
+    "it": "Charmeleon",
+    "en": "Charmeleon",
+    "ja": "リザード",
+    "zh-Hans": "火恐龙"
+  }
+}

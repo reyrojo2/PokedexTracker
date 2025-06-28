@@ -1,0 +1,18 @@
+{
+  "id": 589,
+  "sprite": "sprites/home/589.png",
+  "name_en": "escavalier",
+  "translations": {
+    "ja-Hrkt": "シュバルゴ",
+    "roomaji": "Chevargo",
+    "ko": "슈바르고",
+    "zh-Hant": "騎士蝸牛",
+    "fr": "Lançargot",
+    "de": "Cavalanzas",
+    "es": "Escavalier",
+    "it": "Escavalier",
+    "en": "Escavalier",
+    "ja": "シュバルゴ",
+    "zh-Hans": "骑士蜗牛"
+  }
+}

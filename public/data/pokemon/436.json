@@ -1,0 +1,18 @@
+{
+  "id": 436,
+  "sprite": "sprites/home/436.png",
+  "name_en": "bronzor",
+  "translations": {
+    "ja-Hrkt": "ドーミラー",
+    "roomaji": "Domirror",
+    "ko": "동미러",
+    "zh-Hant": "銅鏡怪",
+    "fr": "Archéomire",
+    "de": "Bronzel",
+    "es": "Bronzor",
+    "it": "Bronzor",
+    "en": "Bronzor",
+    "ja": "ドーミラー",
+    "zh-Hans": "铜镜怪"
+  }
+}

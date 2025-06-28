@@ -1,0 +1,18 @@
+{
+  "id": 246,
+  "sprite": "sprites/home/246.png",
+  "name_en": "larvitar",
+  "translations": {
+    "ja-Hrkt": "ヨーギラス",
+    "roomaji": "Yogiras",
+    "ko": "애버라스",
+    "zh-Hant": "幼基拉斯",
+    "fr": "Embrylex",
+    "de": "Larvitar",
+    "es": "Larvitar",
+    "it": "Larvitar",
+    "en": "Larvitar",
+    "ja": "ヨーギラス",
+    "zh-Hans": "幼基拉斯"
+  }
+}

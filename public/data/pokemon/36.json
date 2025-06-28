@@ -1,0 +1,18 @@
+{
+  "id": 36,
+  "sprite": "sprites/home/36.png",
+  "name_en": "clefable",
+  "translations": {
+    "ja-Hrkt": "ピクシー",
+    "roomaji": "Pixy",
+    "ko": "픽시",
+    "zh-Hant": "皮可西",
+    "fr": "Mélodelfe",
+    "de": "Pixi",
+    "es": "Clefable",
+    "it": "Clefable",
+    "en": "Clefable",
+    "ja": "ピクシー",
+    "zh-Hans": "皮可西"
+  }
+}

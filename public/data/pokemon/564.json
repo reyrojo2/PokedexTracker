@@ -1,0 +1,18 @@
+{
+  "id": 564,
+  "sprite": "sprites/home/564.png",
+  "name_en": "tirtouga",
+  "translations": {
+    "ja-Hrkt": "プロトーガ",
+    "roomaji": "Protoga",
+    "ko": "프로토가",
+    "zh-Hant": "原蓋海龜",
+    "fr": "Carapagos",
+    "de": "Galapaflos",
+    "es": "Tirtouga",
+    "it": "Tirtouga",
+    "en": "Tirtouga",
+    "ja": "プロトーガ",
+    "zh-Hans": "原盖海龟"
+  }
+}

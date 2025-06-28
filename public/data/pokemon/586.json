@@ -1,0 +1,18 @@
+{
+  "id": 586,
+  "sprite": "sprites/home/586.png",
+  "name_en": "sawsbuck",
+  "translations": {
+    "ja-Hrkt": "メブキジカ",
+    "roomaji": "Mebukijika",
+    "ko": "바라철록",
+    "zh-Hant": "萌芽鹿",
+    "fr": "Haydaim",
+    "de": "Kronjuwild",
+    "es": "Sawsbuck",
+    "it": "Sawsbuck",
+    "en": "Sawsbuck",
+    "ja": "メブキジカ",
+    "zh-Hans": "萌芽鹿"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 186,
+  "sprite": "sprites/home/186.png",
+  "name_en": "politoed",
+  "translations": {
+    "ja-Hrkt": "ニョロトノ",
+    "roomaji": "Nyorotono",
+    "ko": "왕구리",
+    "zh-Hant": "蚊香蛙皇",
+    "fr": "Tarpaud",
+    "de": "Quaxo",
+    "es": "Politoed",
+    "it": "Politoed",
+    "en": "Politoed",
+    "ja": "ニョロトノ",
+    "zh-Hans": "蚊香蛙皇"
+  }
+}

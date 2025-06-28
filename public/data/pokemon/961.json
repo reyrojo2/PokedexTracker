@@ -1,0 +1,18 @@
+{
+  "id": 961,
+  "sprite": "sprites/home/961.png",
+  "name_en": "wugtrio",
+  "translations": {
+    "ja-Hrkt": "ウミトリオ",
+    "roomaji": "Umitrio",
+    "ko": "바닥트리오",
+    "zh-Hant": "三海地鼠",
+    "fr": "Triopikeau",
+    "de": "Schligdri",
+    "es": "Wugtrio",
+    "it": "Wugtrio",
+    "en": "Wugtrio",
+    "ja": "ウミトリオ",
+    "zh-Hans": "三海地鼠"
+  }
+}

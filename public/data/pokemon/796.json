@@ -1,0 +1,18 @@
+{
+  "id": 796,
+  "sprite": "sprites/home/796.png",
+  "name_en": "xurkitree",
+  "translations": {
+    "ja-Hrkt": "デンジュモク",
+    "roomaji": "Denjyumoku",
+    "ko": "전수목",
+    "zh-Hant": "電束木",
+    "fr": "Câblifère",
+    "de": "Voltriant",
+    "es": "Xurkitree",
+    "it": "Xurkitree",
+    "en": "Xurkitree",
+    "ja": "デンジュモク",
+    "zh-Hans": "电束木"
+  }
+}

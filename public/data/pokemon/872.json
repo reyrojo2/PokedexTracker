@@ -1,0 +1,18 @@
+{
+  "id": 872,
+  "sprite": "sprites/home/872.png",
+  "name_en": "snom",
+  "translations": {
+    "ja-Hrkt": "ユキハミ",
+    "roomaji": "Yukihami",
+    "ko": "누니머기",
+    "zh-Hant": "雪吞蟲",
+    "fr": "Frissonille",
+    "de": "Snomnom",
+    "es": "Snom",
+    "it": "Snom",
+    "en": "Snom",
+    "ja": "ユキハミ",
+    "zh-Hans": "雪吞虫"
+  }
+}

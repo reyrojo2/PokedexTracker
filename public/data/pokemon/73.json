@@ -1,0 +1,18 @@
+{
+  "id": 73,
+  "sprite": "sprites/home/73.png",
+  "name_en": "tentacruel",
+  "translations": {
+    "ja-Hrkt": "ドククラゲ",
+    "roomaji": "Dokukurage",
+    "ko": "독파리",
+    "zh-Hant": "毒刺水母",
+    "fr": "Tentacruel",
+    "de": "Tentoxa",
+    "es": "Tentacruel",
+    "it": "Tentacruel",
+    "en": "Tentacruel",
+    "ja": "ドククラゲ",
+    "zh-Hans": "毒刺水母"
+  }
+}

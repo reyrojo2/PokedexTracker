@@ -1,0 +1,18 @@
+{
+  "id": 486,
+  "sprite": "sprites/home/486.png",
+  "name_en": "regigigas",
+  "translations": {
+    "ja-Hrkt": "レジギガス",
+    "roomaji": "Regigigas",
+    "ko": "레지기가스",
+    "zh-Hant": "雷吉奇卡斯",
+    "fr": "Regigigas",
+    "de": "Regigigas",
+    "es": "Regigigas",
+    "it": "Regigigas",
+    "en": "Regigigas",
+    "ja": "レジギガス",
+    "zh-Hans": "雷吉奇卡斯"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 639,
+  "sprite": "sprites/home/639.png",
+  "name_en": "terrakion",
+  "translations": {
+    "ja-Hrkt": "テラキオン",
+    "roomaji": "Terrakion",
+    "ko": "테라키온",
+    "zh-Hant": "代拉基翁",
+    "fr": "Terrakium",
+    "de": "Terrakium",
+    "es": "Terrakion",
+    "it": "Terrakion",
+    "en": "Terrakion",
+    "ja": "テラキオン",
+    "zh-Hans": "代拉基翁"
+  }
+}

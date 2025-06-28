@@ -1,0 +1,18 @@
+{
+  "id": 285,
+  "sprite": "sprites/home/285.png",
+  "name_en": "shroomish",
+  "translations": {
+    "ja-Hrkt": "キノココ",
+    "roomaji": "Kinococo",
+    "ko": "버섯꼬",
+    "zh-Hant": "蘑蘑菇",
+    "fr": "Balignon",
+    "de": "Knilz",
+    "es": "Shroomish",
+    "it": "Shroomish",
+    "en": "Shroomish",
+    "ja": "キノココ",
+    "zh-Hans": "蘑蘑菇"
+  }
+}

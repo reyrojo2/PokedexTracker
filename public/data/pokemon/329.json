@@ -1,0 +1,18 @@
+{
+  "id": 329,
+  "sprite": "sprites/home/329.png",
+  "name_en": "vibrava",
+  "translations": {
+    "ja-Hrkt": "ビブラーバ",
+    "roomaji": "Vibrava",
+    "ko": "비브라바",
+    "zh-Hant": "超音波幼蟲",
+    "fr": "Vibraninf",
+    "de": "Vibrava",
+    "es": "Vibrava",
+    "it": "Vibrava",
+    "en": "Vibrava",
+    "ja": "ビブラーバ",
+    "zh-Hans": "超音波幼虫"
+  }
+}

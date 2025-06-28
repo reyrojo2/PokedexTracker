@@ -1,0 +1,18 @@
+{
+  "id": 635,
+  "sprite": "sprites/home/635.png",
+  "name_en": "hydreigon",
+  "translations": {
+    "ja-Hrkt": "サザンドラ",
+    "roomaji": "Sazandora",
+    "ko": "삼삼드래",
+    "zh-Hant": "三首惡龍",
+    "fr": "Trioxhydre",
+    "de": "Trikephalo",
+    "es": "Hydreigon",
+    "it": "Hydreigon",
+    "en": "Hydreigon",
+    "ja": "サザンドラ",
+    "zh-Hans": "三首恶龙"
+  }
+}

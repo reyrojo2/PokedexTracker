@@ -1,0 +1,18 @@
+{
+  "id": 368,
+  "sprite": "sprites/home/368.png",
+  "name_en": "gorebyss",
+  "translations": {
+    "ja-Hrkt": "サクラビス",
+    "roomaji": "Sakurabyss",
+    "ko": "분홍장이",
+    "zh-Hant": "櫻花魚",
+    "fr": "Rosabyss",
+    "de": "Saganabyss",
+    "es": "Gorebyss",
+    "it": "Gorebyss",
+    "en": "Gorebyss",
+    "ja": "サクラビス",
+    "zh-Hans": "樱花鱼"
+  }
+}

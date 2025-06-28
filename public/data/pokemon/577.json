@@ -1,0 +1,18 @@
+{
+  "id": 577,
+  "sprite": "sprites/home/577.png",
+  "name_en": "solosis",
+  "translations": {
+    "ja-Hrkt": "ユニラン",
+    "roomaji": "Uniran",
+    "ko": "유니란",
+    "zh-Hant": "單卵細胞球",
+    "fr": "Nucléos",
+    "de": "Monozyto",
+    "es": "Solosis",
+    "it": "Solosis",
+    "en": "Solosis",
+    "ja": "ユニラン",
+    "zh-Hans": "单卵细胞球"
+  }
+}

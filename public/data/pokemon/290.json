@@ -1,0 +1,18 @@
+{
+  "id": 290,
+  "sprite": "sprites/home/290.png",
+  "name_en": "nincada",
+  "translations": {
+    "ja-Hrkt": "ツチニン",
+    "roomaji": "Tutinin",
+    "ko": "토중몬",
+    "zh-Hant": "土居忍士",
+    "fr": "Ningale",
+    "de": "Nincada",
+    "es": "Nincada",
+    "it": "Nincada",
+    "en": "Nincada",
+    "ja": "ツチニン",
+    "zh-Hans": "土居忍士"
+  }
+}

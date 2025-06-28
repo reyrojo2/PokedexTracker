@@ -1,0 +1,18 @@
+{
+  "id": 795,
+  "sprite": "sprites/home/795.png",
+  "name_en": "pheromosa",
+  "translations": {
+    "ja-Hrkt": "フェローチェ",
+    "roomaji": "Pheroache",
+    "ko": "페로코체",
+    "zh-Hant": "費洛美螂",
+    "fr": "Cancrelove",
+    "de": "Schabelle",
+    "es": "Pheromosa",
+    "it": "Pheromosa",
+    "en": "Pheromosa",
+    "ja": "フェローチェ",
+    "zh-Hans": "费洛美螂"
+  }
+}

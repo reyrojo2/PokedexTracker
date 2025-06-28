@@ -1,0 +1,18 @@
+{
+  "id": 516,
+  "sprite": "sprites/home/516.png",
+  "name_en": "simipour",
+  "translations": {
+    "ja-Hrkt": "ヒヤッキー",
+    "roomaji": "Hiyakkie",
+    "ko": "앗차키",
+    "zh-Hant": "冷水猿",
+    "fr": "Flotoutan",
+    "de": "Sodachita",
+    "es": "Simipour",
+    "it": "Simipour",
+    "en": "Simipour",
+    "ja": "ヒヤッキー",
+    "zh-Hans": "冷水猿"
+  }
+}

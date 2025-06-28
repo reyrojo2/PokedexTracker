@@ -1,0 +1,18 @@
+{
+  "id": 150,
+  "sprite": "sprites/home/150.png",
+  "name_en": "mewtwo",
+  "translations": {
+    "ja-Hrkt": "ミュウツー",
+    "roomaji": "Mewtwo",
+    "ko": "뮤츠",
+    "zh-Hant": "超夢",
+    "fr": "Mewtwo",
+    "de": "Mewtu",
+    "es": "Mewtwo",
+    "it": "Mewtwo",
+    "en": "Mewtwo",
+    "ja": "ミュウツー",
+    "zh-Hans": "超梦"
+  }
+}

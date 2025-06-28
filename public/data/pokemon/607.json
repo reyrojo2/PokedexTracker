@@ -1,0 +1,18 @@
+{
+  "id": 607,
+  "sprite": "sprites/home/607.png",
+  "name_en": "litwick",
+  "translations": {
+    "ja-Hrkt": "ヒトモシ",
+    "roomaji": "Hitomoshi",
+    "ko": "불켜미",
+    "zh-Hant": "燭光靈",
+    "fr": "Funécire",
+    "de": "Lichtel",
+    "es": "Litwick",
+    "it": "Litwick",
+    "en": "Litwick",
+    "ja": "ヒトモシ",
+    "zh-Hans": "烛光灵"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 870,
+  "sprite": "sprites/home/870.png",
+  "name_en": "falinks",
+  "translations": {
+    "ja-Hrkt": "タイレーツ",
+    "roomaji": "Tairetsu",
+    "ko": "대여르",
+    "zh-Hant": "列陣兵",
+    "fr": "Hexadron",
+    "de": "Legios",
+    "es": "Falinks",
+    "it": "Falinks",
+    "en": "Falinks",
+    "ja": "タイレーツ",
+    "zh-Hans": "列阵兵"
+  }
+}

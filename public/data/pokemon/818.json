@@ -1,0 +1,18 @@
+{
+  "id": 818,
+  "sprite": "sprites/home/818.png",
+  "name_en": "inteleon",
+  "translations": {
+    "ja-Hrkt": "インテレオン",
+    "roomaji": "Intereon",
+    "ko": "인텔리레온",
+    "zh-Hant": "千面避役",
+    "fr": "Lézargus",
+    "de": "Intelleon",
+    "es": "Inteleon",
+    "it": "Inteleon",
+    "en": "Inteleon",
+    "ja": "インテレオン",
+    "zh-Hans": "千面避役"
+  }
+}

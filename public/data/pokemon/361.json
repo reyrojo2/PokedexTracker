@@ -1,0 +1,18 @@
+{
+  "id": 361,
+  "sprite": "sprites/home/361.png",
+  "name_en": "snorunt",
+  "translations": {
+    "ja-Hrkt": "ユキワラシ",
+    "roomaji": "Yukiwarashi",
+    "ko": "눈꼬마",
+    "zh-Hant": "雪童子",
+    "fr": "Stalgamin",
+    "de": "Schneppke",
+    "es": "Snorunt",
+    "it": "Snorunt",
+    "en": "Snorunt",
+    "ja": "ユキワラシ",
+    "zh-Hans": "雪童子"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 995,
+  "sprite": "sprites/home/995.png",
+  "name_en": "iron-thorns",
+  "translations": {
+    "ja-Hrkt": "テツノイバラ",
+    "roomaji": "Tetsunoibara",
+    "ko": "무쇠가시",
+    "zh-Hant": "鐵荊棘",
+    "fr": "Épine-de-Fer",
+    "de": "Eisendorn",
+    "es": "Ferropúas",
+    "it": "Spineferree",
+    "en": "Iron Thorns",
+    "ja": "テツノイバラ",
+    "zh-Hans": "铁荆棘"
+  }
+}

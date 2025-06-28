@@ -1,0 +1,18 @@
+{
+  "id": 282,
+  "sprite": "sprites/home/282.png",
+  "name_en": "gardevoir",
+  "translations": {
+    "ja-Hrkt": "サーナイト",
+    "roomaji": "Sirnight",
+    "ko": "가디안",
+    "zh-Hant": "沙奈朵",
+    "fr": "Gardevoir",
+    "de": "Guardevoir",
+    "es": "Gardevoir",
+    "it": "Gardevoir",
+    "en": "Gardevoir",
+    "ja": "サーナイト",
+    "zh-Hans": "沙奈朵"
+  }
+}

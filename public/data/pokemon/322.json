@@ -1,0 +1,18 @@
+{
+  "id": 322,
+  "sprite": "sprites/home/322.png",
+  "name_en": "numel",
+  "translations": {
+    "ja-Hrkt": "ドンメル",
+    "roomaji": "Donmel",
+    "ko": "둔타",
+    "zh-Hant": "呆火駝",
+    "fr": "Chamallot",
+    "de": "Camaub",
+    "es": "Numel",
+    "it": "Numel",
+    "en": "Numel",
+    "ja": "ドンメル",
+    "zh-Hans": "呆火驼"
+  }
+}

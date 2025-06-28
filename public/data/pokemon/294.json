@@ -1,0 +1,18 @@
+{
+  "id": 294,
+  "sprite": "sprites/home/294.png",
+  "name_en": "loudred",
+  "translations": {
+    "ja-Hrkt": "ドゴーム",
+    "roomaji": "Dogohmb",
+    "ko": "노공룡",
+    "zh-Hant": "吼爆彈",
+    "fr": "Ramboum",
+    "de": "Krakeelo",
+    "es": "Loudred",
+    "it": "Loudred",
+    "en": "Loudred",
+    "ja": "ドゴーム",
+    "zh-Hans": "吼爆弹"
+  }
+}

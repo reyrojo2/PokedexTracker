@@ -1,0 +1,18 @@
+{
+  "id": 1005,
+  "sprite": "sprites/home/1005.png",
+  "name_en": "roaring-moon",
+  "translations": {
+    "ja-Hrkt": "トドロクツキ",
+    "roomaji": "Todorokutsuki",
+    "ko": "고동치는달",
+    "zh-Hant": "轟鳴月",
+    "fr": "Rugit-Lune",
+    "de": "Donnersichel",
+    "es": "Bramaluna",
+    "it": "Lunaruggente",
+    "en": "Roaring Moon",
+    "ja": "トドロクツキ",
+    "zh-Hans": "轰鸣月"
+  }
+}

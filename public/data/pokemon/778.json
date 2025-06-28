@@ -1,0 +1,18 @@
+{
+  "id": 778,
+  "sprite": "sprites/home/778.png",
+  "name_en": "mimikyu-disguised",
+  "translations": {
+    "ja-Hrkt": "ミミッキュ",
+    "roomaji": "Mimikkyu",
+    "ko": "따라큐",
+    "zh-Hant": "謎擬Ｑ",
+    "fr": "Mimiqui",
+    "de": "Mimigma",
+    "es": "Mimikyu",
+    "it": "Mimikyu",
+    "en": "Mimikyu",
+    "ja": "ミミッキュ",
+    "zh-Hans": "谜拟丘"
+  }
+}

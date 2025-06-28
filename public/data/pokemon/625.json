@@ -1,0 +1,18 @@
+{
+  "id": 625,
+  "sprite": "sprites/home/625.png",
+  "name_en": "bisharp",
+  "translations": {
+    "ja-Hrkt": "キリキザン",
+    "roomaji": "Kirikizan",
+    "ko": "절각참",
+    "zh-Hant": "劈斬司令",
+    "fr": "Scalproie",
+    "de": "Caesurio",
+    "es": "Bisharp",
+    "it": "Bisharp",
+    "en": "Bisharp",
+    "ja": "キリキザン",
+    "zh-Hans": "劈斩司令"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1008,
+  "sprite": "sprites/home/1008.png",
+  "name_en": "miraidon",
+  "translations": {
+    "ja-Hrkt": "ミライドン",
+    "roomaji": "Miraidon",
+    "ko": "미라이돈",
+    "zh-Hant": "密勒頓",
+    "fr": "Miraidon",
+    "de": "Miraidon",
+    "es": "Miraidon",
+    "it": "Miraidon",
+    "en": "Miraidon",
+    "ja": "ミライドン",
+    "zh-Hans": "密勒顿"
+  }
+}

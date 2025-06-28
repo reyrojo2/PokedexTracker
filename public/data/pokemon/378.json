@@ -1,0 +1,18 @@
+{
+  "id": 378,
+  "sprite": "sprites/home/378.png",
+  "name_en": "regice",
+  "translations": {
+    "ja-Hrkt": "レジアイス",
+    "roomaji": "Regice",
+    "ko": "레지아이스",
+    "zh-Hant": "雷吉艾斯",
+    "fr": "Regice",
+    "de": "Regice",
+    "es": "Regice",
+    "it": "Regice",
+    "en": "Regice",
+    "ja": "レジアイス",
+    "zh-Hans": "雷吉艾斯"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1066,
+  "sprite": "sprites/home/1066.png",
+  "name_en": "Hisuian Electrode",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "マルマイン",
+    "roomaji": "Marumine",
+    "ko": "붐볼",
+    "zh-Hant": "頑皮雷彈",
+    "fr": "Électrode",
+    "de": "Lektrobal",
+    "es": "Electrode",
+    "it": "Electrode",
+    "en": "Electrode",
+    "ja": "マルマイン",
+    "zh-Hans": "顽皮雷弹"
+  }
+}

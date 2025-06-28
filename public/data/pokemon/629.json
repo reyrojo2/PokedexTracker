@@ -1,0 +1,18 @@
+{
+  "id": 629,
+  "sprite": "sprites/home/629.png",
+  "name_en": "vullaby",
+  "translations": {
+    "ja-Hrkt": "バルチャイ",
+    "roomaji": "Valchai",
+    "ko": "벌차이",
+    "zh-Hant": "禿鷹丫頭",
+    "fr": "Vostourno",
+    "de": "Skallyk",
+    "es": "Vullaby",
+    "it": "Vullaby",
+    "en": "Vullaby",
+    "ja": "バルチャイ",
+    "zh-Hans": "秃鹰丫头"
+  }
+}

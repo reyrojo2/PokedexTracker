@@ -1,0 +1,18 @@
+{
+  "id": 318,
+  "sprite": "sprites/home/318.png",
+  "name_en": "carvanha",
+  "translations": {
+    "ja-Hrkt": "キバニア",
+    "roomaji": "Kibanha",
+    "ko": "샤프니아",
+    "zh-Hant": "利牙魚",
+    "fr": "Carvanha",
+    "de": "Kanivanha",
+    "es": "Carvanha",
+    "it": "Carvanha",
+    "en": "Carvanha",
+    "ja": "キバニア",
+    "zh-Hans": "利牙鱼"
+  }
+}

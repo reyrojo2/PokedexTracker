@@ -1,0 +1,18 @@
+{
+  "id": 350,
+  "sprite": "sprites/home/350.png",
+  "name_en": "milotic",
+  "translations": {
+    "ja-Hrkt": "ミロカロス",
+    "roomaji": "Milokaross",
+    "ko": "밀로틱",
+    "zh-Hant": "美納斯",
+    "fr": "Milobellus",
+    "de": "Milotic",
+    "es": "Milotic",
+    "it": "Milotic",
+    "en": "Milotic",
+    "ja": "ミロカロス",
+    "zh-Hans": "美纳斯"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 860,
+  "sprite": "sprites/home/860.png",
+  "name_en": "morgrem",
+  "translations": {
+    "ja-Hrkt": "ギモー",
+    "roomaji": "Gimoh",
+    "ko": "쏘겨모",
+    "zh-Hant": "詐唬魔",
+    "fr": "Fourbelin",
+    "de": "Pelzebub",
+    "es": "Morgrem",
+    "it": "Morgrem",
+    "en": "Morgrem",
+    "ja": "ギモー",
+    "zh-Hans": "诈唬魔"
+  }
+}

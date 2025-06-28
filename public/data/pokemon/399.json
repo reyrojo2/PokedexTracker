@@ -1,0 +1,18 @@
+{
+  "id": 399,
+  "sprite": "sprites/home/399.png",
+  "name_en": "bidoof",
+  "translations": {
+    "ja-Hrkt": "ビッパ",
+    "roomaji": "Bipper",
+    "ko": "비버니",
+    "zh-Hant": "大牙狸",
+    "fr": "Keunotor",
+    "de": "Bidiza",
+    "es": "Bidoof",
+    "it": "Bidoof",
+    "en": "Bidoof",
+    "ja": "ビッパ",
+    "zh-Hans": "大牙狸"
+  }
+}

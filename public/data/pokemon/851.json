@@ -1,0 +1,18 @@
+{
+  "id": 851,
+  "sprite": "sprites/home/851.png",
+  "name_en": "centiskorch",
+  "translations": {
+    "ja-Hrkt": "マルヤクデ",
+    "roomaji": "Maruyakude",
+    "ko": "다태우지네",
+    "zh-Hant": "焚焰蚣",
+    "fr": "Scolocendre",
+    "de": "Infernopod",
+    "es": "Centiskorch",
+    "it": "Centiskorch",
+    "en": "Centiskorch",
+    "ja": "マルヤクデ",
+    "zh-Hans": "焚焰蚣"
+  }
+}

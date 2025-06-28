@@ -1,0 +1,18 @@
+{
+  "id": 178,
+  "sprite": "sprites/home/178.png",
+  "name_en": "xatu",
+  "translations": {
+    "ja-Hrkt": "ネイティオ",
+    "roomaji": "Natio",
+    "ko": "네이티오",
+    "zh-Hant": "天然鳥",
+    "fr": "Xatu",
+    "de": "Xatu",
+    "es": "Xatu",
+    "it": "Xatu",
+    "en": "Xatu",
+    "ja": "ネイティオ",
+    "zh-Hans": "天然鸟"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 389,
+  "sprite": "sprites/home/389.png",
+  "name_en": "torterra",
+  "translations": {
+    "ja-Hrkt": "ドダイトス",
+    "roomaji": "Dodaitose",
+    "ko": "토대부기",
+    "zh-Hant": "土台龜",
+    "fr": "Torterra",
+    "de": "Chelterrar",
+    "es": "Torterra",
+    "it": "Torterra",
+    "en": "Torterra",
+    "ja": "ドダイトス",
+    "zh-Hans": "土台龟"
+  }
+}

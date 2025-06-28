@@ -1,38 +1,192 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
+
 }
 
-.App-logo {
-  height: 40vmin;
+:root {
+  --main_a: #E4E0DC;
+  --dark_a: #D7D1CC;
+  --text_a: #040A07;
+  --main_b: #F0EEEA;
+  --dark_b: #D6D2C9;
+  --text_b: #040A07;
+  --main_c: #2F734F;
+  --light_c: #C2E3D1;
+  --text_c: #F7F7F7;
+  --main_opposite: #7D2620;
+}
+
+body {
+  background: linear-gradient(to bottom, #D7F89D 0%, #B8EFB5 50%, #99E7C0 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100vh;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.headerpoke {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: linear-gradient(to right, #FAFBF5, #9DE7C4);
+  border-bottom: 4px solid #E1FAD0;
+  box-shadow: 0 4px 12px #CEE5B7;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/* Crea un triángulo con gradiente blanco, y línea inferior */
+.headerpoke::before {
+  content: '';
+  position: absolute;
+  top: -60px;
+  left: -120px;
+  width: 300px;
+  height: 250px;
+  background: linear-gradient(to bottom, transparent 0%, #FAFBF5 90%);
+  border-bottom: 2px solid #DCF2E5;
+  transform: rotate(35deg);
+  z-index: 1;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Contenido encima */
+#imgPoke,
+.user-info {
+  position: relative;
+  z-index: 2;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#imgPoke {
+  height: 120px;
+}
+
+#Progreso {
+  color: #FFA319;
+  font-weight: bold;
+}
+
+.user-info {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.username {
+  background-color: #11A7A8;
+  color: white;
+  font-size: 14px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  color: #5C5C5C;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.box-pairs-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+}
+
+.box-header {
+  position: relative;
+  margin: 0;
+  /* Necesario para que el check se posicione relativo a este */
+  background-color: #1abc9c;
+  padding: 6px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.check-verde {
+  position: absolute;
+  top: 0px;
+  left: 4px;
+  background-color: #4B9F9B;
   color: white;
+  font-size: 14px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
 }
 
-.App-link {
-  color: #61dafb;
+.box-title {
+  background-color: white;
+  color: #11A7A8;
+  padding: 8px 150px;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.box-wrapper {
+  width: 45%;
+  background-color: #FAFBF5;
+  border: 2px solid #32D4D7;
+  margin-bottom: 20px;
+  border-radius: 18px;
+  box-shadow: 0 6px 26px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  padding: 0;
+}
+
+.pokemon-grid {
+  display: grid;
+  margin: 5px;
+  grid-template-columns: repeat(6, 1fr);
+  grid-auto-rows: auto;
+  gap: 5px;
+}
+
+/* Estado intermedio con rayas */
+.pokemon-card.mid_caught {
+  background-color: #ffffff;
+  background: repeating-linear-gradient(45deg,
+      var(--main_b),
+      var(--main_b) 19px,
+      var(--light_c) 21px,
+      var(--light_c) 39px,
+      var(--main_b) 41px);
+  border-color: var(--main_c);
+}
+
+.pokemon-card.caught {
+  background-color: #FAFBF5;
+}
+
+/* Estado sombreado */
+
+.pokemon-card.shadowed {
+  background-color: #dbd3fa;
+  /* morado claro */
+  border-color: #948cd7;
+}
+
+.pokemon-card.shadowed img {
+  filter: brightness(0) invert(14%) sepia(34%) saturate(1390%) hue-rotate(212deg) brightness(92%) contrast(88%);
+  opacity: 0.9;
 }

@@ -1,0 +1,18 @@
+{
+  "id": 907,
+  "sprite": "sprites/home/907.png",
+  "name_en": "floragato",
+  "translations": {
+    "ja-Hrkt": "ニャローテ",
+    "roomaji": "Nyarote",
+    "ko": "나로테",
+    "zh-Hant": "蒂蕾喵",
+    "fr": "Matourgeon",
+    "de": "Feliospa",
+    "es": "Floragato",
+    "it": "Floragato",
+    "en": "Floragato",
+    "ja": "ニャローテ",
+    "zh-Hans": "蒂蕾喵"
+  }
+}

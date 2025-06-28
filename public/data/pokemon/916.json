@@ -1,0 +1,18 @@
+{
+  "id": 916,
+  "sprite": "sprites/home/916.png",
+  "name_en": "oinkologne-male",
+  "translations": {
+    "ja-Hrkt": "パフュートン",
+    "roomaji": "Perfuton",
+    "ko": "퍼퓨돈",
+    "zh-Hant": "飄香豚",
+    "fr": "Fragroin",
+    "de": "Fragrunz",
+    "es": "Oinkologne",
+    "it": "Oinkologne",
+    "en": "Oinkologne",
+    "ja": "パフュートン",
+    "zh-Hans": "飘香豚"
+  }
+}

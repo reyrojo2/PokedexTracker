@@ -1,0 +1,18 @@
+{
+  "id": 55,
+  "sprite": "sprites/home/55.png",
+  "name_en": "golduck",
+  "translations": {
+    "ja-Hrkt": "ゴルダック",
+    "roomaji": "Golduck",
+    "ko": "골덕",
+    "zh-Hant": "哥達鴨",
+    "fr": "Akwakwak",
+    "de": "Entoron",
+    "es": "Golduck",
+    "it": "Golduck",
+    "en": "Golduck",
+    "ja": "ゴルダック",
+    "zh-Hans": "哥达鸭"
+  }
+}

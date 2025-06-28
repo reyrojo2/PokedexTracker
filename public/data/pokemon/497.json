@@ -1,0 +1,18 @@
+{
+  "id": 497,
+  "sprite": "sprites/home/497.png",
+  "name_en": "serperior",
+  "translations": {
+    "ja-Hrkt": "ジャローダ",
+    "roomaji": "Jalorda",
+    "ko": "샤로다",
+    "zh-Hant": "君主蛇",
+    "fr": "Majaspic",
+    "de": "Serpiroyal",
+    "es": "Serperior",
+    "it": "Serperior",
+    "en": "Serperior",
+    "ja": "ジャローダ",
+    "zh-Hans": "君主蛇"
+  }
+}

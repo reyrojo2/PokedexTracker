@@ -1,0 +1,18 @@
+{
+  "id": 43,
+  "sprite": "sprites/home/43.png",
+  "name_en": "oddish",
+  "translations": {
+    "ja-Hrkt": "ナゾノクサ",
+    "roomaji": "Nazonokusa",
+    "ko": "뚜벅쵸",
+    "zh-Hant": "走路草",
+    "fr": "Mystherbe",
+    "de": "Myrapla",
+    "es": "Oddish",
+    "it": "Oddish",
+    "en": "Oddish",
+    "ja": "ナゾノクサ",
+    "zh-Hans": "走路草"
+  }
+}

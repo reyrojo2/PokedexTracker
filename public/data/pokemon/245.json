@@ -1,0 +1,18 @@
+{
+  "id": 245,
+  "sprite": "sprites/home/245.png",
+  "name_en": "suicune",
+  "translations": {
+    "ja-Hrkt": "スイクン",
+    "roomaji": "Suikun",
+    "ko": "스이쿤",
+    "zh-Hant": "水君",
+    "fr": "Suicune",
+    "de": "Suicune",
+    "es": "Suicune",
+    "it": "Suicune",
+    "en": "Suicune",
+    "ja": "スイクン",
+    "zh-Hans": "水君"
+  }
+}

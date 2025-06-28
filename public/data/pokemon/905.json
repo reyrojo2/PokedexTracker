@@ -1,0 +1,18 @@
+{
+  "id": 905,
+  "sprite": "sprites/home/905.png",
+  "name_en": "enamorus-incarnate",
+  "translations": {
+    "ja-Hrkt": "ラブトロス",
+    "roomaji": "Lovetolos",
+    "ko": "러브로스",
+    "zh-Hant": "眷戀雲",
+    "fr": "Amovénus",
+    "de": "Cupidos",
+    "es": "Enamorus",
+    "it": "Enamorus",
+    "en": "Enamorus",
+    "ja": "ラブトロス",
+    "zh-Hans": "眷恋云"
+  }
+}

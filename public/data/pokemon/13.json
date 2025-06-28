@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "sprite": "sprites/home/13.png",
+  "name_en": "weedle",
+  "translations": {
+    "ja-Hrkt": "ビードル",
+    "roomaji": "Beedle",
+    "ko": "뿔충이",
+    "zh-Hant": "獨角蟲",
+    "fr": "Aspicot",
+    "de": "Hornliu",
+    "es": "Weedle",
+    "it": "Weedle",
+    "en": "Weedle",
+    "ja": "ビードル",
+    "zh-Hans": "独角虫"
+  }
+}

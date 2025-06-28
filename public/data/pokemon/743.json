@@ -1,0 +1,18 @@
+{
+  "id": 743,
+  "sprite": "sprites/home/743.png",
+  "name_en": "ribombee",
+  "translations": {
+    "ja-Hrkt": "アブリボン",
+    "roomaji": "Aburibbon",
+    "ko": "에리본",
+    "zh-Hant": "蝶結萌虻",
+    "fr": "Rubombelle",
+    "de": "Bandelby",
+    "es": "Ribombee",
+    "it": "Ribombee",
+    "en": "Ribombee",
+    "ja": "アブリボン",
+    "zh-Hans": "蝶结萌虻"
+  }
+}

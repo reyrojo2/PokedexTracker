@@ -1,0 +1,18 @@
+{
+  "id": 661,
+  "sprite": "sprites/home/661.png",
+  "name_en": "fletchling",
+  "translations": {
+    "ja-Hrkt": "ヤヤコマ",
+    "roomaji": "Yayakoma",
+    "ko": "화살꼬빈",
+    "zh-Hant": "小箭雀",
+    "fr": "Passerouge",
+    "de": "Dartiri",
+    "es": "Fletchling",
+    "it": "Fletchling",
+    "en": "Fletchling",
+    "ja": "ヤヤコマ",
+    "zh-Hans": "小箭雀"
+  }
+}

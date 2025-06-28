@@ -1,0 +1,18 @@
+{
+  "id": 57,
+  "sprite": "sprites/home/57.png",
+  "name_en": "primeape",
+  "translations": {
+    "ja-Hrkt": "オコリザル",
+    "roomaji": "Okorizaru",
+    "ko": "성원숭",
+    "zh-Hant": "火爆猴",
+    "fr": "Colossinge",
+    "de": "Rasaff",
+    "es": "Primeape",
+    "it": "Primeape",
+    "en": "Primeape",
+    "ja": "オコリザル",
+    "zh-Hans": "火暴猴"
+  }
+}

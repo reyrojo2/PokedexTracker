@@ -1,0 +1,18 @@
+{
+  "id": 238,
+  "sprite": "sprites/home/238.png",
+  "name_en": "smoochum",
+  "translations": {
+    "ja-Hrkt": "ムチュール",
+    "roomaji": "Muchul",
+    "ko": "뽀뽀라",
+    "zh-Hant": "迷唇娃",
+    "fr": "Lippouti",
+    "de": "Kussilla",
+    "es": "Smoochum",
+    "it": "Smoochum",
+    "en": "Smoochum",
+    "ja": "ムチュール",
+    "zh-Hans": "迷唇娃"
+  }
+}

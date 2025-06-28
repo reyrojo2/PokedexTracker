@@ -1,0 +1,18 @@
+{
+  "id": 97,
+  "sprite": "sprites/home/97.png",
+  "name_en": "hypno",
+  "translations": {
+    "ja-Hrkt": "スリーパー",
+    "roomaji": "Sleeper",
+    "ko": "슬리퍼",
+    "zh-Hant": "引夢貘人",
+    "fr": "Hypnomade",
+    "de": "Hypno",
+    "es": "Hypno",
+    "it": "Hypno",
+    "en": "Hypno",
+    "ja": "スリーパー",
+    "zh-Hans": "引梦貘人"
+  }
+}

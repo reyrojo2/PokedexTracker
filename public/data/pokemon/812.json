@@ -1,0 +1,18 @@
+{
+  "id": 812,
+  "sprite": "sprites/home/812.png",
+  "name_en": "rillaboom",
+  "translations": {
+    "ja-Hrkt": "ゴリランダー",
+    "roomaji": "Gorirander",
+    "ko": "고릴타",
+    "zh-Hant": "轟擂金剛猩",
+    "fr": "Gorythmic",
+    "de": "Gortrom",
+    "es": "Rillaboom",
+    "it": "Rillaboom",
+    "en": "Rillaboom",
+    "ja": "ゴリランダー",
+    "zh-Hans": "轰擂金刚猩"
+  }
+}

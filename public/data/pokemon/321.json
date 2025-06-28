@@ -1,0 +1,18 @@
+{
+  "id": 321,
+  "sprite": "sprites/home/321.png",
+  "name_en": "wailord",
+  "translations": {
+    "ja-Hrkt": "ホエルオー",
+    "roomaji": "Whaloh",
+    "ko": "고래왕",
+    "zh-Hant": "吼鯨王",
+    "fr": "Wailord",
+    "de": "Wailord",
+    "es": "Wailord",
+    "it": "Wailord",
+    "en": "Wailord",
+    "ja": "ホエルオー",
+    "zh-Hans": "吼鲸王"
+  }
+}

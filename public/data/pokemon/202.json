@@ -1,0 +1,18 @@
+{
+  "id": 202,
+  "sprite": "sprites/home/202.png",
+  "name_en": "wobbuffet",
+  "translations": {
+    "ja-Hrkt": "ソーナンス",
+    "roomaji": "Sonans",
+    "ko": "마자용",
+    "zh-Hant": "果然翁",
+    "fr": "Qulbutoké",
+    "de": "Woingenau",
+    "es": "Wobbuffet",
+    "it": "Wobbuffet",
+    "en": "Wobbuffet",
+    "ja": "ソーナンス",
+    "zh-Hans": "果然翁"
+  }
+}

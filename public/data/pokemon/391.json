@@ -1,0 +1,18 @@
+{
+  "id": 391,
+  "sprite": "sprites/home/391.png",
+  "name_en": "monferno",
+  "translations": {
+    "ja-Hrkt": "モウカザル",
+    "roomaji": "Mōkazaru",
+    "ko": "파이숭이",
+    "zh-Hant": "猛火猴",
+    "fr": "Chimpenfeu",
+    "de": "Panpyro",
+    "es": "Monferno",
+    "it": "Monferno",
+    "en": "Monferno",
+    "ja": "モウカザル",
+    "zh-Hans": "猛火猴"
+  }
+}

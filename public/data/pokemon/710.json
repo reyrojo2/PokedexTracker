@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "sprite": "sprites/home/710.png",
+  "name_en": "pumpkaboo-average",
+  "translations": {
+    "ja-Hrkt": "バケッチャ",
+    "roomaji": "Bakeccha",
+    "ko": "호바귀",
+    "zh-Hant": "南瓜精",
+    "fr": "Pitrouille",
+    "de": "Irrbis",
+    "es": "Pumpkaboo",
+    "it": "Pumpkaboo",
+    "en": "Pumpkaboo",
+    "ja": "バケッチャ",
+    "zh-Hans": "南瓜精"
+  }
+}

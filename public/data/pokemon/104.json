@@ -1,0 +1,18 @@
+{
+  "id": 104,
+  "sprite": "sprites/home/104.png",
+  "name_en": "cubone",
+  "translations": {
+    "ja-Hrkt": "カラカラ",
+    "roomaji": "Karakara",
+    "ko": "탕구리",
+    "zh-Hant": "卡拉卡拉",
+    "fr": "Osselait",
+    "de": "Tragosso",
+    "es": "Cubone",
+    "it": "Cubone",
+    "en": "Cubone",
+    "ja": "カラカラ",
+    "zh-Hans": "卡拉卡拉"
+  }
+}

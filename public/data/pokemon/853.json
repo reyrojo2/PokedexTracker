@@ -1,0 +1,18 @@
+{
+  "id": 853,
+  "sprite": "sprites/home/853.png",
+  "name_en": "grapploct",
+  "translations": {
+    "ja-Hrkt": "オトスパス",
+    "roomaji": "Otosupus",
+    "ko": "케오퍼스",
+    "zh-Hant": "八爪武師",
+    "fr": "Krakos",
+    "de": "Kaocto",
+    "es": "Grapploct",
+    "it": "Grapploct",
+    "en": "Grapploct",
+    "ja": "オトスパス",
+    "zh-Hans": "八爪武师"
+  }
+}

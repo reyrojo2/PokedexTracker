@@ -1,0 +1,18 @@
+{
+  "id": 759,
+  "sprite": "sprites/home/759.png",
+  "name_en": "stufful",
+  "translations": {
+    "ja-Hrkt": "ヌイコグマ",
+    "roomaji": "Nuikoguma",
+    "ko": "포곰곰",
+    "zh-Hant": "童偶熊",
+    "fr": "Nounourson",
+    "de": "Velursi",
+    "es": "Stufful",
+    "it": "Stufful",
+    "en": "Stufful",
+    "ja": "ヌイコグマ",
+    "zh-Hans": "童偶熊"
+  }
+}

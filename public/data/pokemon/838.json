@@ -1,0 +1,18 @@
+{
+  "id": 838,
+  "sprite": "sprites/home/838.png",
+  "name_en": "carkol",
+  "translations": {
+    "ja-Hrkt": "トロッゴン",
+    "roomaji": "Toroggon",
+    "ko": "탄차곤",
+    "zh-Hant": "大炭車",
+    "fr": "Wagomine",
+    "de": "Wagong",
+    "es": "Carkol",
+    "it": "Carkol",
+    "en": "Carkol",
+    "ja": "トロッゴン",
+    "zh-Hans": "大炭车"
+  }
+}

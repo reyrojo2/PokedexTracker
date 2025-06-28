@@ -1,0 +1,18 @@
+{
+  "id": 213,
+  "sprite": "sprites/home/213.png",
+  "name_en": "shuckle",
+  "translations": {
+    "ja-Hrkt": "ツボツボ",
+    "roomaji": "Tsubotsubo",
+    "ko": "단단지",
+    "zh-Hant": "壺壺",
+    "fr": "Caratroc",
+    "de": "Pottrott",
+    "es": "Shuckle",
+    "it": "Shuckle",
+    "en": "Shuckle",
+    "ja": "ツボツボ",
+    "zh-Hans": "壶壶"
+  }
+}

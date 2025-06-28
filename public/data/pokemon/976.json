@@ -1,0 +1,18 @@
+{
+  "id": 976,
+  "sprite": "sprites/home/976.png",
+  "name_en": "veluza",
+  "translations": {
+    "ja-Hrkt": "ミガルーサ",
+    "roomaji": "Migalusa",
+    "ko": "가비루사",
+    "zh-Hant": "輕身鱈",
+    "fr": "Délestin",
+    "de": "Agiluza",
+    "es": "Veluza",
+    "it": "Veluza",
+    "en": "Veluza",
+    "ja": "ミガルーサ",
+    "zh-Hans": "轻身鳕"
+  }
+}

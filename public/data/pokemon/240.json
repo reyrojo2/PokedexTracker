@@ -1,0 +1,18 @@
+{
+  "id": 240,
+  "sprite": "sprites/home/240.png",
+  "name_en": "magby",
+  "translations": {
+    "ja-Hrkt": "ブビィ",
+    "roomaji": "Buby",
+    "ko": "마그비",
+    "zh-Hant": "鴨嘴寶寶",
+    "fr": "Magby",
+    "de": "Magby",
+    "es": "Magby",
+    "it": "Magby",
+    "en": "Magby",
+    "ja": "ブビィ",
+    "zh-Hans": "鸭嘴宝宝"
+  }
+}

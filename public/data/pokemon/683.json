@@ -1,0 +1,18 @@
+{
+  "id": 683,
+  "sprite": "sprites/home/683.png",
+  "name_en": "aromatisse",
+  "translations": {
+    "ja-Hrkt": "フレフワン",
+    "roomaji": "Frefuwan",
+    "ko": "프레프티르",
+    "zh-Hant": "芳香精",
+    "fr": "Cocotine",
+    "de": "Parfinesse",
+    "es": "Aromatisse",
+    "it": "Aromatisse",
+    "en": "Aromatisse",
+    "ja": "フレフワン",
+    "zh-Hans": "芳香精"
+  }
+}

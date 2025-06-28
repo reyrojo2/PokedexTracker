@@ -1,0 +1,18 @@
+{
+  "id": 310,
+  "sprite": "sprites/home/310.png",
+  "name_en": "manectric",
+  "translations": {
+    "ja-Hrkt": "ライボルト",
+    "roomaji": "Livolt",
+    "ko": "썬더볼트",
+    "zh-Hant": "雷電獸",
+    "fr": "Élecsprint",
+    "de": "Voltenso",
+    "es": "Manectric",
+    "it": "Manectric",
+    "en": "Manectric",
+    "ja": "ライボルト",
+    "zh-Hans": "雷电兽"
+  }
+}

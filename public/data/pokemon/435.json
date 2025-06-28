@@ -1,0 +1,18 @@
+{
+  "id": 435,
+  "sprite": "sprites/home/435.png",
+  "name_en": "skuntank",
+  "translations": {
+    "ja-Hrkt": "スカタンク",
+    "roomaji": "Skutank",
+    "ko": "스컹탱크",
+    "zh-Hant": "坦克臭鼬",
+    "fr": "Moufflair",
+    "de": "Skuntank",
+    "es": "Skuntank",
+    "it": "Skuntank",
+    "en": "Skuntank",
+    "ja": "スカタンク",
+    "zh-Hans": "坦克臭鼬"
+  }
+}

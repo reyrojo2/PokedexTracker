@@ -1,0 +1,18 @@
+{
+  "id": 255,
+  "sprite": "sprites/home/255.png",
+  "name_en": "torchic",
+  "translations": {
+    "ja-Hrkt": "アチャモ",
+    "roomaji": "Achamo",
+    "ko": "아차모",
+    "zh-Hant": "火稚雞",
+    "fr": "Poussifeu",
+    "de": "Flemmli",
+    "es": "Torchic",
+    "it": "Torchic",
+    "en": "Torchic",
+    "ja": "アチャモ",
+    "zh-Hans": "火稚鸡"
+  }
+}

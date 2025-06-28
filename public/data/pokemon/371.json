@@ -1,0 +1,18 @@
+{
+  "id": 371,
+  "sprite": "sprites/home/371.png",
+  "name_en": "bagon",
+  "translations": {
+    "ja-Hrkt": "タツベイ",
+    "roomaji": "Tatsubay",
+    "ko": "아공이",
+    "zh-Hant": "寶貝龍",
+    "fr": "Draby",
+    "de": "Kindwurm",
+    "es": "Bagon",
+    "it": "Bagon",
+    "en": "Bagon",
+    "ja": "タツベイ",
+    "zh-Hans": "宝贝龙"
+  }
+}

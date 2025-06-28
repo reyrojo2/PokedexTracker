@@ -1,0 +1,18 @@
+{
+  "id": 707,
+  "sprite": "sprites/home/707.png",
+  "name_en": "klefki",
+  "translations": {
+    "ja-Hrkt": "クレッフィ",
+    "roomaji": "Cleffy",
+    "ko": "클레피",
+    "zh-Hant": "鑰圈兒",
+    "fr": "Trousselin",
+    "de": "Clavion",
+    "es": "Klefki",
+    "it": "Klefki",
+    "en": "Klefki",
+    "ja": "クレッフィ",
+    "zh-Hans": "钥圈儿"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 242,
+  "sprite": "sprites/home/242.png",
+  "name_en": "blissey",
+  "translations": {
+    "ja-Hrkt": "ハピナス",
+    "roomaji": "Happinas",
+    "ko": "해피너스",
+    "zh-Hant": "幸福蛋",
+    "fr": "Leuphorie",
+    "de": "Heiteira",
+    "es": "Blissey",
+    "it": "Blissey",
+    "en": "Blissey",
+    "ja": "ハピナス",
+    "zh-Hans": "幸福蛋"
+  }
+}

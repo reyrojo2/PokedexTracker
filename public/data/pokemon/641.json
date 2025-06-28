@@ -1,0 +1,18 @@
+{
+  "id": 641,
+  "sprite": "sprites/home/641.png",
+  "name_en": "tornadus-incarnate",
+  "translations": {
+    "ja-Hrkt": "トルネロス",
+    "roomaji": "Tornelos",
+    "ko": "토네로스",
+    "zh-Hant": "龍捲雲",
+    "fr": "Boréas",
+    "de": "Boreos",
+    "es": "Tornadus",
+    "it": "Tornadus",
+    "en": "Tornadus",
+    "ja": "トルネロス",
+    "zh-Hans": "龙卷云"
+  }
+}

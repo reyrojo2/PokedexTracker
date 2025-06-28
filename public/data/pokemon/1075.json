@@ -1,0 +1,19 @@
+{
+  "id": 1075,
+  "sprite": "sprites/home/1075.png",
+  "name_en": "Hisuian Sliggoo",
+  "region": "Hisui",
+  "translations": {
+    "ja-Hrkt": "ヌメイル",
+    "roomaji": "Numeil",
+    "ko": "미끄네일",
+    "zh-Hant": "黏美兒",
+    "fr": "Colimucus",
+    "de": "Viscargot",
+    "es": "Sliggoo",
+    "it": "Sliggoo",
+    "en": "Sliggoo",
+    "ja": "ヌメイル",
+    "zh-Hans": "黏美儿"
+  }
+}

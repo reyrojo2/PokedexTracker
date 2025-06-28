@@ -1,0 +1,18 @@
+{
+  "id": 418,
+  "sprite": "sprites/home/418.png",
+  "name_en": "buizel",
+  "translations": {
+    "ja-Hrkt": "ブイゼル",
+    "roomaji": "Buoysel",
+    "ko": "브이젤",
+    "zh-Hant": "泳圈鼬",
+    "fr": "Mustébouée",
+    "de": "Bamelin",
+    "es": "Buizel",
+    "it": "Buizel",
+    "en": "Buizel",
+    "ja": "ブイゼル",
+    "zh-Hans": "泳圈鼬"
+  }
+}

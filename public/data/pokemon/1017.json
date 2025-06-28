@@ -1,0 +1,17 @@
+{
+  "id": 1017,
+  "sprite": "sprites/home/1017.png",
+  "name_en": "ogerpon",
+  "translations": {
+    "ja-Hrkt": "オーガポン",
+    "ko": "오거폰",
+    "zh-Hant": "厄鬼椪",
+    "fr": "Ogerpon",
+    "de": "Ogerpon",
+    "es": "Ogerpon",
+    "it": "Ogerpon",
+    "en": "Ogerpon",
+    "ja": "オーガポン",
+    "zh-Hans": "厄诡椪"
+  }
+}

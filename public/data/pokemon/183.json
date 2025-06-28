@@ -1,0 +1,18 @@
+{
+  "id": 183,
+  "sprite": "sprites/home/183.png",
+  "name_en": "marill",
+  "translations": {
+    "ja-Hrkt": "マリル",
+    "roomaji": "Maril",
+    "ko": "마릴",
+    "zh-Hant": "瑪力露",
+    "fr": "Marill",
+    "de": "Marill",
+    "es": "Marill",
+    "it": "Marill",
+    "en": "Marill",
+    "ja": "マリル",
+    "zh-Hans": "玛力露"
+  }
+}

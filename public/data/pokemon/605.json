@@ -1,0 +1,18 @@
+{
+  "id": 605,
+  "sprite": "sprites/home/605.png",
+  "name_en": "elgyem",
+  "translations": {
+    "ja-Hrkt": "リグレー",
+    "roomaji": "Ligray",
+    "ko": "리그레",
+    "zh-Hant": "小灰怪",
+    "fr": "Lewsor",
+    "de": "Pygraulon",
+    "es": "Elgyem",
+    "it": "Elgyem",
+    "en": "Elgyem",
+    "ja": "リグレー",
+    "zh-Hans": "小灰怪"
+  }
+}

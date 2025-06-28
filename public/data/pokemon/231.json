@@ -1,0 +1,18 @@
+{
+  "id": 231,
+  "sprite": "sprites/home/231.png",
+  "name_en": "phanpy",
+  "translations": {
+    "ja-Hrkt": "ゴマゾウ",
+    "roomaji": "Gomazou",
+    "ko": "코코리",
+    "zh-Hant": "小小象",
+    "fr": "Phanpy",
+    "de": "Phanpy",
+    "es": "Phanpy",
+    "it": "Phanpy",
+    "en": "Phanpy",
+    "ja": "ゴマゾウ",
+    "zh-Hans": "小小象"
+  }
+}

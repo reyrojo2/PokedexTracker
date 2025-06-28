@@ -1,0 +1,18 @@
+{
+  "id": 927,
+  "sprite": "sprites/home/927.png",
+  "name_en": "dachsbun",
+  "translations": {
+    "ja-Hrkt": "バウッツェル",
+    "roomaji": "Bowtzel",
+    "ko": "바우첼",
+    "zh-Hant": "麻花犬",
+    "fr": "Briochien",
+    "de": "Backel",
+    "es": "Dachsbun",
+    "it": "Dachsbun",
+    "en": "Dachsbun",
+    "ja": "バウッツェル",
+    "zh-Hans": "麻花犬"
+  }
+}

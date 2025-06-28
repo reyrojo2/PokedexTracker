@@ -1,0 +1,18 @@
+{
+  "id": 800,
+  "sprite": "sprites/home/800.png",
+  "name_en": "necrozma",
+  "translations": {
+    "ja-Hrkt": "ネクロズマ",
+    "roomaji": "Necrozma",
+    "ko": "네크로즈마",
+    "zh-Hant": "奈克洛茲瑪",
+    "fr": "Necrozma",
+    "de": "Necrozma",
+    "es": "Necrozma",
+    "it": "Necrozma",
+    "en": "Necrozma",
+    "ja": "ネクロズマ",
+    "zh-Hans": "奈克洛兹玛"
+  }
+}

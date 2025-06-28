@@ -1,0 +1,18 @@
+{
+  "id": 813,
+  "sprite": "sprites/home/813.png",
+  "name_en": "scorbunny",
+  "translations": {
+    "ja-Hrkt": "ヒバニー",
+    "roomaji": "Hibanny",
+    "ko": "염버니",
+    "zh-Hant": "炎兔兒",
+    "fr": "Flambino",
+    "de": "Hopplo",
+    "es": "Scorbunny",
+    "it": "Scorbunny",
+    "en": "Scorbunny",
+    "ja": "ヒバニー",
+    "zh-Hans": "炎兔儿"
+  }
+}

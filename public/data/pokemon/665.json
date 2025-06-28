@@ -1,0 +1,18 @@
+{
+  "id": 665,
+  "sprite": "sprites/home/665.png",
+  "name_en": "spewpa",
+  "translations": {
+    "ja-Hrkt": "コフーライ",
+    "roomaji": "Kofuurai",
+    "ko": "분떠도리",
+    "zh-Hant": "粉蝶蛹",
+    "fr": "Pérégrain",
+    "de": "Puponcho",
+    "es": "Spewpa",
+    "it": "Spewpa",
+    "en": "Spewpa",
+    "ja": "コフーライ",
+    "zh-Hans": "粉蝶蛹"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 118,
+  "sprite": "sprites/home/118.png",
+  "name_en": "goldeen",
+  "translations": {
+    "ja-Hrkt": "トサキント",
+    "roomaji": "Tosakinto",
+    "ko": "콘치",
+    "zh-Hant": "角金魚",
+    "fr": "Poissirène",
+    "de": "Goldini",
+    "es": "Goldeen",
+    "it": "Goldeen",
+    "en": "Goldeen",
+    "ja": "トサキント",
+    "zh-Hans": "角金鱼"
+  }
+}

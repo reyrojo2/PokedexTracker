@@ -1,0 +1,18 @@
+{
+  "id": 415,
+  "sprite": "sprites/home/415.png",
+  "name_en": "combee",
+  "translations": {
+    "ja-Hrkt": "ミツハニー",
+    "roomaji": "Mitsuhoney",
+    "ko": "세꿀버리",
+    "zh-Hant": "三蜜蜂",
+    "fr": "Apitrini",
+    "de": "Wadribie",
+    "es": "Combee",
+    "it": "Combee",
+    "en": "Combee",
+    "ja": "ミツハニー",
+    "zh-Hans": "三蜜蜂"
+  }
+}

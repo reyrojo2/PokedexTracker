@@ -1,0 +1,18 @@
+{
+  "id": 790,
+  "sprite": "sprites/home/790.png",
+  "name_en": "cosmoem",
+  "translations": {
+    "ja-Hrkt": "コスモウム",
+    "roomaji": "Cosmovum",
+    "ko": "코스모움",
+    "zh-Hant": "科斯莫姆",
+    "fr": "Cosmovum",
+    "de": "Cosmovum",
+    "es": "Cosmoem",
+    "it": "Cosmoem",
+    "en": "Cosmoem",
+    "ja": "コスモウム",
+    "zh-Hans": "科斯莫姆"
+  }
+}

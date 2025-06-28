@@ -1,0 +1,18 @@
+{
+  "id": 539,
+  "sprite": "sprites/home/539.png",
+  "name_en": "sawk",
+  "translations": {
+    "ja-Hrkt": "ダゲキ",
+    "roomaji": "Dageki",
+    "ko": "타격귀",
+    "zh-Hant": "打擊鬼",
+    "fr": "Karaclée",
+    "de": "Karadonis",
+    "es": "Sawk",
+    "it": "Sawk",
+    "en": "Sawk",
+    "ja": "ダゲキ",
+    "zh-Hans": "打击鬼"
+  }
+}

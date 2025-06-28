@@ -1,0 +1,18 @@
+{
+  "id": 496,
+  "sprite": "sprites/home/496.png",
+  "name_en": "servine",
+  "translations": {
+    "ja-Hrkt": "ジャノビー",
+    "roomaji": "Janovy",
+    "ko": "샤비",
+    "zh-Hant": "青藤蛇",
+    "fr": "Lianaja",
+    "de": "Efoserp",
+    "es": "Servine",
+    "it": "Servine",
+    "en": "Servine",
+    "ja": "ジャノビー",
+    "zh-Hans": "青藤蛇"
+  }
+}
