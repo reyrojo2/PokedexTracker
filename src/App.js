@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { getGenerationData, getRegionalForms } from './services/pokeapi';
 import AllBoxes from './components/allBoxes';
 
 const BACK_URL = process.env.REACT_APP_SHEETS_URL;
@@ -9,6 +10,21 @@ function App() {
   const [capturados, setCapturados] = useState(new Set());
   const [etiquetasGO, setEtiquetasGO] = useState({});
   const [allPokemon, setAllPokemon] = useState([]);
+
+  useEffect(() => {
+    const fetchAll = async () => {
+      const all = [];
+      for (let gen = 1; gen <= 9; gen++) {
+        const genData = await getGenerationData(gen);
+        all.push(...genData);
+      }
+      const regionals = await getRegionalForms();
+      all.push(...regionals);
+      setAllPokemon(all);
+    };
+
+    fetchAll();
+  }, []);
 
   const manejarCaptura = (id, nuevoEstado) => {
     setCapturados((prev) => {
