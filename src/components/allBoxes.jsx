@@ -1,18 +1,14 @@
-import { useState, useEffect } from 'react';
 import TarjetaPoke from './tarjetapokemon';
 
 
 const BACK_URL = process.env.REACT_APP_SHEETS_URL;
 
-const AllBoxes = ({ allPokemon, onCaptureChange }) => {
+const AllBoxes = ({ allPokemon, onCaptureChange, capturados, etiquetasGO, setEtiquetasGO }) => {
 
     // Separar Pokémon base y regionales
 
     const basePokemon = allPokemon.filter(p => !p.region);
     const regionales = allPokemon.filter(p => p.region);
-    const [etiquetasGO, setEtiquetasGO] = useState({});
-    const [capturados, setCapturados] = useState(new Set());
-    const [shadowed, setShadowed] = useState(new Set());
 
     const actualizarEstado = (id, estado) => {
         setCapturados(prev => {
@@ -91,36 +87,6 @@ const AllBoxes = ({ allPokemon, onCaptureChange }) => {
         }
         regionalesPorRegion[poke.region].push(poke);
     }
-    useEffect(() => {
-        console.log("BACK_URL:", BACK_URL);
-        fetch(BACK_URL)
-            .then(res => res.json())
-            .then(data => {
-                const capturadosSet = new Set();
-                const shadowedSet = new Set();
-                const etiquetas = {};
-
-                data
-                    .filter(poke => poke.id && poke.name)
-                    .forEach(poke => {
-                        const realId = Number(poke.id);
-                        if (poke.estado === 'caught') capturadosSet.add(realId);
-                        if (poke.estado === 'shadowed') shadowedSet.add(realId);
-                        if (poke.etiquetaGO === true || poke.etiquetaGO === 'true' || poke.etiquetaGO === 'TRUE') {
-                            etiquetas[realId] = true;
-                        }
-                    });
-
-                setCapturados(capturadosSet);
-                setShadowed(shadowedSet);
-                setEtiquetasGO(etiquetas);
-            })
-            .catch(err => {
-                console.error("Error cargando datos desde Sheets:", err);
-            });
-    }, []);
-
-
 
     return (
         <div className="box-pairs-container">
