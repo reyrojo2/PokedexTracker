@@ -8,6 +8,7 @@ const BACK_URL = process.env.REACT_APP_SHEETS_URL;
 
 function App() {
   const [capturados, setCapturados] = useState(new Set());
+  const [shadowed, setShadowed] = useState(new Set());
   const [etiquetasGO, setEtiquetasGO] = useState({});
   const [allPokemon, setAllPokemon] = useState([]);
 
@@ -43,16 +44,18 @@ function App() {
       .then((res) => res.json())
       .then((data) => {
         const capturadosSet = new Set();
+        const shadowedSet = new Set();
         const etiquetas = {};
 
         data.forEach((poke) => {
           const realId = Number(poke.id);
           if (poke.estado === 'caught') capturadosSet.add(realId);
+          if (poke.estado === 'shadowed') shadowedSet.add(realId);
           if (poke.etiquetaGO === true || poke.etiquetaGO === 'true' || poke.etiquetaGO === 'TRUE') {
             etiquetas[realId] = true;
           }
         });
-
+        setShadowed(shadowedSet);
         setCapturados(capturadosSet);
         setEtiquetasGO(etiquetas);
       })
@@ -75,8 +78,11 @@ function App() {
         allPokemon={allPokemon}
         onCaptureChange={manejarCaptura}
         capturados={capturados}
+        setCapturados={setCapturados}
         etiquetasGO={etiquetasGO}
         setEtiquetasGO={setEtiquetasGO}
+        shadowed={shadowed}
+        setShadowed={setShadowed}
       />
     </div>
   );

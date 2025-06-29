@@ -108,7 +108,6 @@ body {
 .box-header {
   position: relative;
   margin: 0;
-  /* Necesario para que el check se posicione relativo a este */
   background-color: #1abc9c;
   padding: 6px;
   border-top-left-radius: 10px;
@@ -162,27 +161,12 @@ body {
   gap: 5px;
 }
 
-/* Estado intermedio con rayas */
-.pokemon-card.mid_caught {
-  background-color: #ffffff;
-  background: repeating-linear-gradient(45deg,
-      var(--main_b),
-      var(--main_b) 19px,
-      var(--light_c) 21px,
-      var(--light_c) 39px,
-      var(--main_b) 41px);
-  border-color: var(--main_c);
-}
-
 .pokemon-card.caught {
   background-color: #FAFBF5;
 }
 
-/* Estado sombreado */
-
 .pokemon-card.shadowed {
   background-color: #dbd3fa;
-  /* morado claro */
   border-color: #948cd7;
 }
 

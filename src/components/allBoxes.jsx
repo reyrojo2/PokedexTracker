@@ -3,7 +3,16 @@ import TarjetaPoke from './tarjetapokemon';
 
 const BACK_URL = process.env.REACT_APP_SHEETS_URL;
 
-const AllBoxes = ({ allPokemon, onCaptureChange, capturados, etiquetasGO, setEtiquetasGO }) => {
+const AllBoxes = ({
+    allPokemon,
+    onCaptureChange,
+    capturados,
+    setCapturados,
+    etiquetasGO,
+    setEtiquetasGO,
+    shadowed,
+    setShadowed
+}) => {
 
     // Separar Pokémon base y regionales
 

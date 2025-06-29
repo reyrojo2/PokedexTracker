@@ -190,6 +190,15 @@ const TarjetaPoke = ({
         };
     }, []);
 
+    useEffect(() => {
+        if (shadowed) {
+            setEstado('shadowed');
+        } else if (capturado) {
+            setEstado('caught');
+        } else {
+            setEstado('');
+        }
+    }, [capturado, shadowed]);
 
     if (placeholder) {
         return (
