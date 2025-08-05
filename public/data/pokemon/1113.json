@@ -1,0 +1,18 @@
+{
+  "id": 1113,
+  "sprite": "sprites/home/1113.png",
+  "name_en": "Y",
+  "translations": {
+    "ja-Hrkt": "Y",
+    "roomaji": "Y",
+    "ko": "Y",
+    "zh-Hant": "Y",
+    "fr": "Y",
+    "de": "Y",
+    "es": "Y",
+    "it": "Y",
+    "en": "Y",
+    "ja": "Y",
+    "zh-Hans": "Y"
+  }
+}

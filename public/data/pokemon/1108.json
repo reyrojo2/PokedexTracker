@@ -1,0 +1,18 @@
+{
+  "id": 1108,
+  "sprite": "sprites/home/1108.png",
+  "name_en": "T",
+  "translations": {
+    "ja-Hrkt": "T",
+    "roomaji": "T",
+    "ko": "T",
+    "zh-Hant": "T",
+    "fr": "T",
+    "de": "T",
+    "es": "T",
+    "it": "T",
+    "en": "T",
+    "ja": "T",
+    "zh-Hans": "T"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1100,
+  "sprite": "sprites/home/1100.png",
+  "name_en": "L",
+  "translations": {
+    "ja-Hrkt": "L",
+    "roomaji": "L",
+    "ko": "L",
+    "zh-Hant": "L",
+    "fr": "L",
+    "de": "L",
+    "es": "L",
+    "it": "L",
+    "en": "L",
+    "ja": "L",
+    "zh-Hans": "L"
+  }
+}

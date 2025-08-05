@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import TarjetaPoke from './tarjetapokemon';
 
 
@@ -16,8 +17,15 @@ const AllBoxes = ({
 
     // Separar Pokémon base y regionales
 
-    const basePokemon = allPokemon.filter(p => !p.region);
+    const basePokemon = allPokemon.filter(p => !p.region && (p.id < 1089 || p.id > 1116));
     const regionales = allPokemon.filter(p => p.region);
+    const unownPokemon = Array.from(
+        new Map(
+            allPokemon
+                .filter(p => p.id >= 1089 && p.id <= 1116)
+                .map(p => [p.id, p])
+        ).values()
+    );
 
     const actualizarEstado = (id, estado) => {
         setCapturados(prev => {
@@ -96,7 +104,18 @@ const AllBoxes = ({
         }
         regionalesPorRegion[poke.region].push(poke);
     }
-
+    // Validar duplicados visuales de Unown
+    useEffect(() => {
+        const vistos = new Set();
+        allPokemon.forEach(p => {
+            const visualId = (p.id === 201 || (p.id >= 1089 && p.id <= 1116)) ? "0201" : p.id;
+            const clave = `${visualId}-${p.name}`;
+            if (vistos.has(clave)) {
+                console.warn("⚠️ Duplicado visual:", clave, "ID real:", p.id);
+            }
+            vistos.add(clave);
+        });
+    }, [allPokemon]);
     return (
         <div className="box-pairs-container">
             {/* Mostrar cajas para Pokémon base */}
@@ -115,7 +134,9 @@ const AllBoxes = ({
                     <div key={`base-${idx}`} className="box-wrapper">
                         <h3 className="box-header">
                             <span className="box-title">Caja {idx + 1}</span>
-                            {todosCapturados && <span className="check-verde">✓</span>}
+                            {todosCapturados && (
+                                <img src="/check.png" alt="check" className="check-verde" />
+                            )}
                         </h3>
                         <div className="pokemon-grid">
                             {boxConRelleno.map((poke) => {
@@ -123,7 +144,7 @@ const AllBoxes = ({
 
                                 return (
                                     <TarjetaPoke
-                                        key={`tarjeta-${poke.id}-${poke.name}`}
+                                        key={`tarjeta-${poke.id}-base`}
                                         id={poke.id}
                                         name={poke.name}
                                         onCaptureChange={onCaptureChange}
@@ -159,7 +180,7 @@ const AllBoxes = ({
                     <div key={`region-${region}`} className="box-wrapper">
                         <h3 className="box-header">
                             <span className="box-title">Caja Regional - {region}</span>
-                            {todosCapturados && <span className="check-verde">✓</span>}
+                            {todosCapturados && <img src="/check.png" alt="check" className="check-verde" />}
                         </h3>
                         <div className="pokemon-grid">
                             {pokesConRelleno.map((poke) => {
@@ -167,7 +188,7 @@ const AllBoxes = ({
 
                                 return (
                                     <TarjetaPoke
-                                        key={`tarjeta-${poke.id}-${poke.name}`}
+                                        key={`tarjeta-${poke.id}-regional`}
                                         id={poke.id}
                                         name={poke.name}
                                         onCaptureChange={onCaptureChange}
@@ -185,6 +206,34 @@ const AllBoxes = ({
                     </div>
                 );
             })}
+            {unownPokemon.length > 0 && (
+                <div key="box-unown" className="box-wrapper">
+                    <h3 className="box-header">
+                        <span className="box-title">Caja Unown</span>
+                        {unownPokemon.every(p => capturados.has(p.id)) && (
+                            <img src="/check.png" alt="check" className="check-verde" />
+                        )}
+                    </h3>
+                    <div className="pokemon-grid">
+                        {unownPokemon.map((poke) => (
+                            <TarjetaPoke
+                                key={`tarjeta-${poke.id}-unownbox-${poke.image}`}
+                                id={poke.id} // imagen individual
+                                name={poke.name} // debe ser "Unown"
+                                onCaptureChange={onCaptureChange}
+                                capturado={capturados.has(poke.id)}
+                                shadowed={shadowed.has(poke.id)}
+                                placeholder={false}
+                                mostrarEtiquetaGO={etiquetasGO[Number(poke.id)] === true}
+                                onAgregarEtiquetaGO={(id) => manejarAgregarEtiquetaGO(id, poke.name)}
+                                onActualizarEstado={actualizarEstado}
+                                onActualizarEtiquetaGO={actualizarEtiquetaGO}
+                            />
+                        ))}
+                    </div>
+                </div>
+            )}
+
 
         </div>
     );

@@ -1,0 +1,18 @@
+{
+  "id": 1095,
+  "sprite": "sprites/home/1095.png",
+  "name_en": "G",
+  "translations": {
+    "ja-Hrkt": "G",
+    "roomaji": "G",
+    "ko": "G",
+    "zh-Hant": "G",
+    "fr": "G",
+    "de": "G",
+    "es": "G",
+    "it": "G",
+    "en": "G",
+    "ja": "G",
+    "zh-Hans": "G"
+  }
+}

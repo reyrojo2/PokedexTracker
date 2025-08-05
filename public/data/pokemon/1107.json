@@ -1,0 +1,18 @@
+{
+  "id": 1107,
+  "sprite": "sprites/home/1107.png",
+  "name_en": "S",
+  "translations": {
+    "ja-Hrkt": "S",
+    "roomaji": "S",
+    "ko": "S",
+    "zh-Hant": "S",
+    "fr": "S",
+    "de": "S",
+    "es": "S",
+    "it": "S",
+    "en": "S",
+    "ja": "S",
+    "zh-Hans": "S"
+  }
+}

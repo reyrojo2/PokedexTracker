@@ -1,0 +1,18 @@
+{
+  "id": 1102,
+  "sprite": "sprites/home/1102.png",
+  "name_en": "N",
+  "translations": {
+    "ja-Hrkt": "N",
+    "roomaji": "N",
+    "ko": "N",
+    "zh-Hant": "N",
+    "fr": "N",
+    "de": "N",
+    "es": "N",
+    "it": "N",
+    "en": "N",
+    "ja": "N",
+    "zh-Hans": "N"
+  }
+}

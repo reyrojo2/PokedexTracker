@@ -19477,5 +19477,509 @@
       "ja": "ウパー",
       "zh-Hans": "乌波"
     }
+  },
+  {
+    "id": 1089,
+    "sprite": "sprites/home/1089.png",
+    "name_en": "A",
+    "translations": {
+      "ja-Hrkt": "A",
+      "roomaji": "A",
+      "ko": "A",
+      "zh-Hant": "A",
+      "fr": "A",
+      "de": "A",
+      "es": "A",
+      "it": "A",
+      "en": "A",
+      "ja": "A",
+      "zh-Hans": "A"
+    }
+  },
+  {
+    "id": 1090,
+    "sprite": "sprites/home/1090.png",
+    "name_en": "B",
+    "translations": {
+      "ja-Hrkt": "B",
+      "roomaji": "B",
+      "ko": "B",
+      "zh-Hant": "B",
+      "fr": "B",
+      "de": "B",
+      "es": "B",
+      "it": "B",
+      "en": "B",
+      "ja": "B",
+      "zh-Hans": "B"
+    }
+  },
+  {
+    "id": 1091,
+    "sprite": "sprites/home/1091.png",
+    "name_en": "C",
+    "translations": {
+      "ja-Hrkt": "C",
+      "roomaji": "C",
+      "ko": "C",
+      "zh-Hant": "C",
+      "fr": "C",
+      "de": "C",
+      "es": "C",
+      "it": "C",
+      "en": "C",
+      "ja": "C",
+      "zh-Hans": "C"
+    }
+  },
+  {
+    "id": 1092,
+    "sprite": "sprites/home/1092.png",
+    "name_en": "D",
+    "translations": {
+      "ja-Hrkt": "D",
+      "roomaji": "D",
+      "ko": "D",
+      "zh-Hant": "D",
+      "fr": "D",
+      "de": "D",
+      "es": "D",
+      "it": "D",
+      "en": "D",
+      "ja": "D",
+      "zh-Hans": "D"
+    }
+  },
+  {
+    "id": 1093,
+    "sprite": "sprites/home/1093.png",
+    "name_en": "E",
+    "translations": {
+      "ja-Hrkt": "E",
+      "roomaji": "E",
+      "ko": "E",
+      "zh-Hant": "E",
+      "fr": "E",
+      "de": "E",
+      "es": "E",
+      "it": "E",
+      "en": "E",
+      "ja": "E",
+      "zh-Hans": "E"
+    }
+  },
+  {
+    "id": 1094,
+    "sprite": "sprites/home/1094.png",
+    "name_en": "F",
+    "translations": {
+      "ja-Hrkt": "F",
+      "roomaji": "F",
+      "ko": "F",
+      "zh-Hant": "F",
+      "fr": "F",
+      "de": "F",
+      "es": "F",
+      "it": "F",
+      "en": "F",
+      "ja": "F",
+      "zh-Hans": "F"
+    }
+  },
+  {
+    "id": 1095,
+    "sprite": "sprites/home/1095.png",
+    "name_en": "G",
+    "translations": {
+      "ja-Hrkt": "G",
+      "roomaji": "G",
+      "ko": "G",
+      "zh-Hant": "G",
+      "fr": "G",
+      "de": "G",
+      "es": "G",
+      "it": "G",
+      "en": "G",
+      "ja": "G",
+      "zh-Hans": "G"
+    }
+  },
+  {
+    "id": 1096,
+    "sprite": "sprites/home/1096.png",
+    "name_en": "H",
+    "translations": {
+      "ja-Hrkt": "H",
+      "roomaji": "H",
+      "ko": "H",
+      "zh-Hant": "H",
+      "fr": "H",
+      "de": "H",
+      "es": "H",
+      "it": "H",
+      "en": "H",
+      "ja": "H",
+      "zh-Hans": "H"
+    }
+  },
+  {
+    "id": 1097,
+    "sprite": "sprites/home/1097.png",
+    "name_en": "I",
+    "translations": {
+      "ja-Hrkt": "I",
+      "roomaji": "I",
+      "ko": "I",
+      "zh-Hant": "I",
+      "fr": "I",
+      "de": "I",
+      "es": "I",
+      "it": "I",
+      "en": "I",
+      "ja": "I",
+      "zh-Hans": "I"
+    }
+  },
+  {
+    "id": 1098,
+    "sprite": "sprites/home/1098.png",
+    "name_en": "J",
+    "translations": {
+      "ja-Hrkt": "J",
+      "roomaji": "J",
+      "ko": "J",
+      "zh-Hant": "J",
+      "fr": "J",
+      "de": "J",
+      "es": "J",
+      "it": "J",
+      "en": "J",
+      "ja": "J",
+      "zh-Hans": "J"
+    }
+  },
+  {
+    "id": 1099,
+    "sprite": "sprites/home/1099.png",
+    "name_en": "K",
+    "translations": {
+      "ja-Hrkt": "K",
+      "roomaji": "K",
+      "ko": "K",
+      "zh-Hant": "K",
+      "fr": "K",
+      "de": "K",
+      "es": "K",
+      "it": "K",
+      "en": "K",
+      "ja": "K",
+      "zh-Hans": "K"
+    }
+  },
+  {
+    "id": 1100,
+    "sprite": "sprites/home/1100.png",
+    "name_en": "L",
+    "translations": {
+      "ja-Hrkt": "L",
+      "roomaji": "L",
+      "ko": "L",
+      "zh-Hant": "L",
+      "fr": "L",
+      "de": "L",
+      "es": "L",
+      "it": "L",
+      "en": "L",
+      "ja": "L",
+      "zh-Hans": "L"
+    }
+  },
+  {
+    "id": 1101,
+    "sprite": "sprites/home/1101.png",
+    "name_en": "M",
+    "translations": {
+      "ja-Hrkt": "M",
+      "roomaji": "M",
+      "ko": "M",
+      "zh-Hant": "M",
+      "fr": "M",
+      "de": "M",
+      "es": "M",
+      "it": "M",
+      "en": "M",
+      "ja": "M",
+      "zh-Hans": "M"
+    }
+  },
+  {
+    "id": 1102,
+    "sprite": "sprites/home/1102.png",
+    "name_en": "N",
+    "translations": {
+      "ja-Hrkt": "N",
+      "roomaji": "N",
+      "ko": "N",
+      "zh-Hant": "N",
+      "fr": "N",
+      "de": "N",
+      "es": "N",
+      "it": "N",
+      "en": "N",
+      "ja": "N",
+      "zh-Hans": "N"
+    }
+  },
+  {
+    "id": 1103,
+    "sprite": "sprites/home/1103.png",
+    "name_en": "O",
+    "translations": {
+      "ja-Hrkt": "O",
+      "roomaji": "O",
+      "ko": "O",
+      "zh-Hant": "O",
+      "fr": "O",
+      "de": "O",
+      "es": "O",
+      "it": "O",
+      "en": "O",
+      "ja": "O",
+      "zh-Hans": "O"
+    }
+  },
+  {
+    "id": 1104,
+    "sprite": "sprites/home/1104.png",
+    "name_en": "P",
+    "translations": {
+      "ja-Hrkt": "P",
+      "roomaji": "P",
+      "ko": "P",
+      "zh-Hant": "P",
+      "fr": "P",
+      "de": "P",
+      "es": "P",
+      "it": "P",
+      "en": "P",
+      "ja": "P",
+      "zh-Hans": "P"
+    }
+  },
+  {
+    "id": 1105,
+    "sprite": "sprites/home/1105.png",
+    "name_en": "Q",
+    "translations": {
+      "ja-Hrkt": "Q",
+      "roomaji": "Q",
+      "ko": "Q",
+      "zh-Hant": "Q",
+      "fr": "Q",
+      "de": "Q",
+      "es": "Q",
+      "it": "Q",
+      "en": "Q",
+      "ja": "Q",
+      "zh-Hans": "Q"
+    }
+  },
+  {
+    "id": 1106,
+    "sprite": "sprites/home/1106.png",
+    "name_en": "R",
+    "translations": {
+      "ja-Hrkt": "R",
+      "roomaji": "R",
+      "ko": "R",
+      "zh-Hant": "R",
+      "fr": "R",
+      "de": "R",
+      "es": "R",
+      "it": "R",
+      "en": "R",
+      "ja": "R",
+      "zh-Hans": "R"
+    }
+  },
+  {
+    "id": 1107,
+    "sprite": "sprites/home/1107.png",
+    "name_en": "S",
+    "translations": {
+      "ja-Hrkt": "S",
+      "roomaji": "S",
+      "ko": "S",
+      "zh-Hant": "S",
+      "fr": "S",
+      "de": "S",
+      "es": "S",
+      "it": "S",
+      "en": "S",
+      "ja": "S",
+      "zh-Hans": "S"
+    }
+  },
+  {
+    "id": 1108,
+    "sprite": "sprites/home/1108.png",
+    "name_en": "T",
+    "translations": {
+      "ja-Hrkt": "T",
+      "roomaji": "T",
+      "ko": "T",
+      "zh-Hant": "T",
+      "fr": "T",
+      "de": "T",
+      "es": "T",
+      "it": "T",
+      "en": "T",
+      "ja": "T",
+      "zh-Hans": "T"
+    }
+  },
+  {
+    "id": 1109,
+    "sprite": "sprites/home/1109.png",
+    "name_en": "U",
+    "translations": {
+      "ja-Hrkt": "U",
+      "roomaji": "U",
+      "ko": "U",
+      "zh-Hant": "U",
+      "fr": "U",
+      "de": "U",
+      "es": "U",
+      "it": "U",
+      "en": "U",
+      "ja": "U",
+      "zh-Hans": "U"
+    }
+  },
+  {
+    "id": 1110,
+    "sprite": "sprites/home/1110.png",
+    "name_en": "V",
+    "translations": {
+      "ja-Hrkt": "V",
+      "roomaji": "V",
+      "ko": "V",
+      "zh-Hant": "V",
+      "fr": "V",
+      "de": "V",
+      "es": "V",
+      "it": "V",
+      "en": "V",
+      "ja": "V",
+      "zh-Hans": "V"
+    }
+  },
+  {
+    "id": 1111,
+    "sprite": "sprites/home/1111.png",
+    "name_en": "W",
+    "translations": {
+      "ja-Hrkt": "W",
+      "roomaji": "W",
+      "ko": "W",
+      "zh-Hant": "W",
+      "fr": "W",
+      "de": "W",
+      "es": "W",
+      "it": "W",
+      "en": "W",
+      "ja": "W",
+      "zh-Hans": "W"
+    }
+  },
+  {
+    "id": 1112,
+    "sprite": "sprites/home/1112.png",
+    "name_en": "X",
+    "translations": {
+      "ja-Hrkt": "X",
+      "roomaji": "X",
+      "ko": "X",
+      "zh-Hant": "X",
+      "fr": "X",
+      "de": "X",
+      "es": "X",
+      "it": "X",
+      "en": "X",
+      "ja": "X",
+      "zh-Hans": "X"
+    }
+  },
+  {
+    "id": 1113,
+    "sprite": "sprites/home/1113.png",
+    "name_en": "Y",
+    "translations": {
+      "ja-Hrkt": "Y",
+      "roomaji": "Y",
+      "ko": "Y",
+      "zh-Hant": "Y",
+      "fr": "Y",
+      "de": "Y",
+      "es": "Y",
+      "it": "Y",
+      "en": "Y",
+      "ja": "Y",
+      "zh-Hans": "Y"
+    }
+  },
+  {
+    "id": 1114,
+    "sprite": "sprites/home/1114.png",
+    "name_en": "Z",
+    "translations": {
+      "ja-Hrkt": "Z",
+      "roomaji": "Z",
+      "ko": "Z",
+      "zh-Hant": "Z",
+      "fr": "Z",
+      "de": "Z",
+      "es": "Z",
+      "it": "Z",
+      "en": "Z",
+      "ja": "Z",
+      "zh-Hans": "Z"
+    }
+  },
+  {
+    "id": 1115,
+    "sprite": "sprites/home/1115.png",
+    "name_en": "!",
+    "translations": {
+      "ja-Hrkt": "!",
+      "roomaji": "!",
+      "ko": "!",
+      "zh-Hant": "!",
+      "fr": "!",
+      "de": "!",
+      "es": "!",
+      "it": "!",
+      "en": "!",
+      "ja": "!",
+      "zh-Hans": "!"
+    }
+  },
+  {
+    "id": 1116,
+    "sprite": "sprites/home/1116.png",
+    "name_en": "?",
+    "translations": {
+      "ja-Hrkt": "?",
+      "roomaji": "?",
+      "ko": "?",
+      "zh-Hant": "?",
+      "fr": "?",
+      "de": "?",
+      "es": "?",
+      "it": "?",
+      "en": "?",
+      "ja": "?",
+      "zh-Hans": "?"
+    }
   }
 ]

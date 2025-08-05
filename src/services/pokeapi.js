@@ -1,3 +1,8 @@
+/*
+Esta es API que jala el archivo JSON desde el cual se alimenta toda la información de los pokemones, incluida la
+numeración de cada bicho para poder luego mapear la imagen. Así que, de incluir más pokemones a futuro, debes 
+añadir al archivo principal abajo, añadiendo también un archivo individual por cada pokemon.
+*/
 export const getGenerationData = async (genId) => {
     const res = await fetch("/data/pokemon_full_dataset.json");
     const allPokemon = await res.json();
@@ -17,14 +22,20 @@ export const getGenerationData = async (genId) => {
     const [minId, maxId] = generationRanges[genId];
 
     return allPokemon
-        .filter(p => p.id >= minId && p.id <= maxId)
-        .map(p => ({
-            id: p.id,
-            name: p.translations?.es || p.name_en,
-            image: `/sprites/home/${p.id}.png`,
-            generation: genId,
-            region: null
-        }));
+        .filter(p =>
+            (p.id >= minId && p.id <= maxId) ||
+            (p.id >= 1089 && p.id <= 1116) // ← Incluye todos los Unown
+        )
+        .map(p => {
+            const isUnown = p.id >= 1089 && p.id <= 1116;
+            return {
+                id: p.id,
+                name: isUnown ? "Unown" : (p.translations?.es || p.name_en),
+                image: `/sprites/home/${p.id}.png`,
+                generation: genId,
+                region: null
+            };
+        });
 };
 
 export const getRegionalForms = async () => {

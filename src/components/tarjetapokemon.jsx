@@ -244,7 +244,11 @@ const TarjetaPoke = ({
                     />
                 </div>
                 <p className="pokemon-id">
-                    N.° {String(idVisiblePorRegional[id] || id).padStart(4, '0')}
+                    N.° {
+                        (id === 201 || (id >= 1089 && id <= 1116))
+                            ? '0201'
+                            : String(idVisiblePorRegional[id] || id).padStart(4, '0')
+                    }
                 </p>
                 <p className="pokemon-name">{name || 'Nombre desconocido'}</p>
             </div>

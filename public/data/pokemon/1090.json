@@ -1,0 +1,18 @@
+{
+  "id": 1090,
+  "sprite": "sprites/home/1090.png",
+  "name_en": "B",
+  "translations": {
+    "ja-Hrkt": "B",
+    "roomaji": "B",
+    "ko": "B",
+    "zh-Hant": "B",
+    "fr": "B",
+    "de": "B",
+    "es": "B",
+    "it": "B",
+    "en": "B",
+    "ja": "B",
+    "zh-Hans": "B"
+  }
+}

@@ -66,7 +66,7 @@ function App() {
     <div className="App">
       <div className="headerpoke">
         <img id="imgPoke" src="/PokemonHOME.png" alt="pokeball" />
-        <p id="Progreso">Progreso actual: {capturados.size} / 1025 Pokémon</p>
+        <p id="Progreso">Progreso actual: {capturados.size} / 1108 Pokémon</p>
         <div className="user-info">
           <span className="username">Víctor Duarte</span>
           <div className="avatar">👤</div>

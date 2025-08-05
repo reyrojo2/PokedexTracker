@@ -1,0 +1,18 @@
+{
+  "id": 1103,
+  "sprite": "sprites/home/1103.png",
+  "name_en": "O",
+  "translations": {
+    "ja-Hrkt": "O",
+    "roomaji": "O",
+    "ko": "O",
+    "zh-Hant": "O",
+    "fr": "O",
+    "de": "O",
+    "es": "O",
+    "it": "O",
+    "en": "O",
+    "ja": "O",
+    "zh-Hans": "O"
+  }
+}

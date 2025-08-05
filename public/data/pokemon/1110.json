@@ -1,0 +1,18 @@
+{
+  "id": 1110,
+  "sprite": "sprites/home/1110.png",
+  "name_en": "V",
+  "translations": {
+    "ja-Hrkt": "V",
+    "roomaji": "V",
+    "ko": "V",
+    "zh-Hant": "V",
+    "fr": "V",
+    "de": "V",
+    "es": "V",
+    "it": "V",
+    "en": "V",
+    "ja": "V",
+    "zh-Hans": "V"
+  }
+}
